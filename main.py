@@ -1,26 +1,42 @@
 import io
 import zipfile
 
-import string
 import glob
 import pandas as pd
 from lxml import etree
 
+#for testing
 inicio = int(input('Informe o início: '))
 fim = int(input('Informe o fim: '))
 curriculos = glob.glob('collection/*/*')
 cont = 0
 
-amostras = pd.DataFrame(columns=['Identificador', 'Nome', 'Cidade'])
+#creates a dataframe to store indentifiers and birth places
+localNascimento = pd.DataFrame(columns=['Identificador', 'Cidade', 'Estado', 'País'], dtype='object', index=['Identificador'])
+
+#creates a dataframe to store indentifiers and education
+historicos = pd.DataFrame(columns=['Identificador', 
+                                   'ENSINO-MEDIO-SEGUNDO-GRAU', 'Instituição','Início', 'Fim',
+                                   'CURSO-TECNICO-PROFISSIONALIZANTE',  'Instituição','Início', 'Fim', 
+                                   'GRADUACAO',  'Instituição','Início', 'Fim', 
+                                   'ESPECIALIZACAO',  'Instituição','Início', 'Fim', 
+                                   'MESTRADO',  'Instituição','Início', 'Fim', 
+                                   'DOUTORADO',  'Instituição','Início', 'Fim'],dtype='object', index=['Identificador'])
+# creates a series to store the current identifier and education
+historico = pd.Series(index=historicos.columns, dtype='object')
+
+# creates a dataframe to store indentifiers and education in the university
+historicosUniversidade = pd.DataFrame(columns=historicos.columns, dtype='object', index=['Identificador'])
 
 for curriculo in curriculos:
     if int(inicio)-1 <= int(cont) < int(fim):
         try:
+            #read the zip file
             arquivo_handle = open(curriculo, 'rb')
             content = arquivo_handle.read()
             if curriculo.split('.')[-1] == 'zip':
-                # se nao for bytes, converte
-                if type(content) == type(str):
+                # se nao for bytes,  converte
+                if type(content) is type(str):
                     content = content.encode('utf-8')
                 zip_memory = io.BytesIO(content)
 				# abre o zip
@@ -31,27 +47,47 @@ for curriculo in curriculos:
                     xml += zip_data.read(fn)
                 content = xml
 
+            #create a tree from the xml
             root = etree.XML(content)
             identificador = root.xpath('string(/CURRICULO-VITAE/@NUMERO-IDENTIFICADOR)')
-            nome = root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@NOME-COMPLETO)')
-            nome = nome.encode('utf-8').decode('utf-8')
-
-            print(f'{identificador}: {nome}')
-
             formacoes = root.xpath('/CURRICULO-VITAE/DADOS-GERAIS/FORMACAO-ACADEMICA-TITULACAO/*')
-            nascimento = string.capwords(root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@CIDADE-NASCIMENTO)'))
-            
-            for formacao in formacoes:
-                try:
-                    if formacao.xpath('string(@NOME-INSTITUICAO)')=='Centro Federal de Educação Tecnológica de Minas Gerais':
-                        amostras = pd.concat([pd.DataFrame([[identificador, nome, nascimento]], columns=amostras.columns), amostras], ignore_index=True)
-                        break
-                except:
-                    pass
 
+            #reset the check variable and the series
+            universityFound = False
+            historico.iloc[:] = None
+            #define the identifier in the series
+            historico['Identificador'] = identificador
+            for formacao in formacoes:
+                #get the index of the current course
+                indexFormacao = historico.index.get_loc(formacao.tag)
+                #check the university
+                if formacao.xpath('string(./@NOME-INSTITUICAO)') == 'Centro Federal de Educação Tecnológica de Minas Gerais':
+                    universityFound = True
+                    #add the course to the university dataframe
+                    historicosUniversidade.loc[identificador, 'Identificador'] = identificador
+                    historicosUniversidade.iloc[historicosUniversidade.index.get_loc(identificador), indexFormacao:indexFormacao+4] = formacao.xpath('string(./@NOME-CURSO)'), formacao.xpath('string(./@NOME-INSTITUICAO)'), formacao.xpath('string(./@ANO-DE-INICIO)'), formacao.xpath('string(./@ANO-DE-CONCLUSAO)')
+                    #add the course to the general dataframe
+                    historico.iloc[indexFormacao:indexFormacao+4] = formacao.xpath('string(./@NOME-CURSO)'), formacao.xpath('string(./@NOME-INSTITUICAO)'), formacao.xpath('string(./@ANO-DE-INICIO)'), formacao.xpath('string(./@ANO-DE-CONCLUSAO)')
+                #if isn't the university, check if the course is already in the series
+                elif pd.isnull(historico.iloc[indexFormacao]):
+                    historico.iloc[indexFormacao:indexFormacao+4] = formacao.xpath('string(./@NOME-CURSO)'), formacao.xpath('string(./@NOME-INSTITUICAO)'), formacao.xpath('string(./@ANO-DE-INICIO)'), formacao.xpath('string(./@ANO-DE-CONCLUSAO)')
+
+            #if the university was found, add the series to the dataframe
+            if universityFound:
+                historicos.loc[identificador] = historico
+                localNascimento.loc[identificador] = identificador, root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@CIDADE-NASCIMENTO)'), root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@UF-NASCIMENTO)'), root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@PAIS-DE-NASCIMENTO)')
         except:
             pass
     cont += 1
 
-amostras.to_csv('amostras.csv', sep='\t')
-amostras.value_counts('Cidade').to_csv('cidades.csv', sep='\t')
+historicos.drop(index='Identificador', inplace=True)
+historicos.to_csv('historicos.csv', sep='\t', encoding='utf-8', index=False)
+
+historicosUniversidade.drop(index='Identificador', inplace=True)
+historicosUniversidade.to_csv('historicosUniversidade.csv', sep='\t', encoding='utf-8', index=False)
+
+localNascimento.drop(index='Identificador', inplace=True)
+localNascimento.to_csv('localNascimento.csv', sep='\t', encoding='utf-8', index=False)
+
+contagemNascimento = localNascimento.value_counts(['Cidade', 'Estado']).to_frame('Quantidade')
+contagemNascimento.to_csv('contagemNascimento.csv', sep='\t', encoding='utf-8')
