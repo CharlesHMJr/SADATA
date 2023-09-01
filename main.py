@@ -1,10 +1,18 @@
+# %%
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import io
 import zipfile
 
 import glob
 import pandas as pd
 from lxml import etree
-
+from geopy.geocoders import Nominatim
+import folium
+from folium.plugins import HeatMap
+# %%
 #for testing
 inicio = int(input('Informe o início: '))
 fim = int(input('Informe o fim: '))
@@ -13,6 +21,8 @@ cont = 0
 
 #creates a dataframe to store indentifiers and birth places
 localNascimento = pd.DataFrame(columns=['Identificador', 'Cidade', 'Estado', 'País'], dtype='object', index=['Identificador'])
+
+coordenadasNascimento = []
 
 #creates a dataframe to store indentifiers and education
 historicos = pd.DataFrame(columns=['Identificador', 
@@ -28,6 +38,8 @@ historico = pd.Series(index=historicos.columns, dtype='object')
 # creates a dataframe to store indentifiers and education in the university
 historicosUniversidade = pd.DataFrame(columns=historicos.columns, dtype='object', index=['Identificador'])
 
+geolocator = Nominatim(user_agent="103962022")
+# %%
 for curriculo in curriculos:
     if int(inicio)-1 <= int(cont) < int(fim):
         try:
@@ -35,14 +47,11 @@ for curriculo in curriculos:
             arquivo_handle = open(curriculo, 'rb')
             content = arquivo_handle.read()
             if curriculo.split('.')[-1] == 'zip':
-                # se nao for bytes,  converte
                 if type(content) is type(str):
                     content = content.encode('utf-8')
                 zip_memory = io.BytesIO(content)
-				# abre o zip
                 zip_data = zipfile.ZipFile(zip_memory)
                 xml = b''
-				# le o curriculo
                 for fn in zip_data.namelist():
                     xml += zip_data.read(fn)
                 content = xml
@@ -76,10 +85,11 @@ for curriculo in curriculos:
             if universityFound:
                 historicos.loc[identificador] = historico
                 localNascimento.loc[identificador] = identificador, root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@CIDADE-NASCIMENTO)'), root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@UF-NASCIMENTO)'), root.xpath('string(/CURRICULO-VITAE/DADOS-GERAIS/@PAIS-DE-NASCIMENTO)')
+
         except:
             pass
     cont += 1
-
+# %%
 historicos.drop(index='Identificador', inplace=True)
 historicos.to_csv('historicos.csv', sep='\t', encoding='utf-8', index=False)
 
@@ -91,3 +101,20 @@ localNascimento.to_csv('localNascimento.csv', sep='\t', encoding='utf-8', index=
 
 contagemNascimento = localNascimento.value_counts(['Cidade', 'Estado']).to_frame('Quantidade')
 contagemNascimento.to_csv('contagemNascimento.csv', sep='\t', encoding='utf-8')
+# %%
+for local in contagemNascimento.index:
+    try:
+        geolocalNascimento = geolocator.geocode(local[0] + ', ' + local[1])
+        quantidadeNascimento = contagemNascimento.loc[local]['Quantidade'].item()
+        if geolocalNascimento is not None:
+            elementoNascimento = [geolocalNascimento.latitude, geolocalNascimento.longitude, quantidadeNascimento]
+            coordenadasNascimento.append(elementoNascimento)
+    except:
+        pass
+
+# %%
+baseMap = folium.Map(width='100%', 
+                    height='100%', 
+                    location=[-15.77972, -47.92972], 
+                    zoom_start=4)
+HeatMap(coordenadasNascimento, radius=12).add_to(baseMap)

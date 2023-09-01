@@ -1,6 +1,6 @@
 # pibicjr-103962022
 
-#09/08/2023
+# 09/08/2023
 
 - [x] Update nascimento.csv: include city, state and country 
 - [ ] Create a checkpoint
@@ -8,5 +8,13 @@
 
 _search about clustering_
 
-##References
+# 30/08/2023
+
+- [ ] Uptade localNascimento.csv: include professional address
+- [ ] Sumarizar a quantidade anual por cada curso
+
+_search about 'Open Refine'_
+
+## References
+
 **Nerd dos Dados:** Heatmap, map and address.
