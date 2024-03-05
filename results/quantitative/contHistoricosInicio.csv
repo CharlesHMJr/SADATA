@@ -1,0 +1,889 @@
+CURSO-TECNICO-PROFISSIONALIZANTE,Início.1,Quantidade,GRADUACAO,Início.2,Quantidade,MESTRADO,Início.4,Quantidade,DOUTORADO,Início.5,Quantidade
+Edificações,1997.0,6.0,Engenharia De Materiais,2008.0,12,Engenharia Elétrica,2016.0,15.0,Estudos De Linguagens,2017.0,10.0
+Eletrônica,2001.0,5.0,Engenharia Elétrica,2008.0,10,Engenharia Elétrica,2015.0,13.0,Modelagem Matemática E Computacional,2017.0,9.0
+Eletrônica,1999.0,5.0,Engenharia De Controle E Automação,2009.0,9,Engenharia Elétrica,2014.0,12.0,Engenharia Elétrica,2019.0,9.0
+Edificações,2005.0,5.0,Engenharia Mecânica,2009.0,9,Educação Tecnológica,2007.0,12.0,Engenharia Elétrica,2018.0,8.0
+Turismo E Lazer,2000.0,5.0,Programa Especial De Formação De Docente,2016.0,8,Modelagem Matemática E Computacional,2011.0,12.0,Modelagem Matemática E Computacional,2020.0,8.0
+Edificações,1994.0,5.0,Engenharia Elétrica,2007.0,8,Estudos De Linguagens,2011.0,11.0,Estudos De Linguagens,2021.0,7.0
+Eletromecânica,2003.0,4.0,Ciência Da Computação,1996.0,7,Modelagem Matemática E Computacional,2012.0,11.0,Engenharia Elétrica,2015.0,7.0
+Química Industrial,2002.0,4.0,Engenharia Mecânica,2008.0,7,Engenharia De Materiais,2013.0,11.0,Modelagem Matemática E Computacional,2014.0,7.0
+Química,1997.0,4.0,Engenharia Elétrica,1998.0,7,Modelagem Matemática E Computacional,2013.0,11.0,Estudos De Linguagens,2015.0,7.0
+Eletrônica,1993.0,4.0,Engenharia Elétrica,1993.0,7,Engenharia De Materiais,2014.0,11.0,Modelagem Matemática E Computacional,2013.0,6.0
+Informática Industrial,2008.0,4.0,Engenharia Civil,2008.0,7,Engenharia Elétrica,2012.0,10.0,Engenharia Elétrica,2009.0,6.0
+Eletromecânica,2000.0,3.0,Engenharia Elétrica,2009.0,7,Engenharia De Materiais,2016.0,10.0,Modelagem Matemática E Computacional,2016.0,6.0
+Eletrônica,1995.0,3.0,Ciência Da Computação,1999.0,6,Modelagem Matemática E Computacional,2010.0,9.0,Engenharia Elétrica,2011.0,5.0
+Eletrônica,2000.0,3.0,Química,2004.0,6,Estudos De Linguagens,2018.0,9.0,Estudos De Linguagens,2020.0,5.0
+Eletrônica,1996.0,3.0,Engenharia Mecânica,2007.0,6,Estudos De Linguagens,2017.0,9.0,Modelagem Matemática E Computacional,2018.0,5.0
+Química,2005.0,3.0,Engenharia Industrial Mecânica,1993.0,6,Modelagem Matemática E Computacional,2005.0,9.0,Engenharia Elétrica,2004.0,5.0
+Química,1996.0,3.0,Engenharia Civil,2010.0,6,Estudos De Linguagens,2016.0,8.0,Engenharia Elétrica,2005.0,5.0
+Eletrônica,1994.0,3.0,Matemática,2006.0,6,Estudos De Linguagens,2013.0,8.0,Engenharia Elétrica,2020.0,4.0
+Química,1994.0,3.0,Engenharia Mecatrônica,2008.0,6,Modelagem Matemática E Computacional,2014.0,8.0,Engenharia Elétrica,2010.0,4.0
+Eletromecânica,2006.0,3.0,Engenharia Civil,1998.0,6,Estudos De Linguagens,2012.0,8.0,Estudos De Linguagens,2019.0,4.0
+Meio Ambiente,2009.0,3.0,Engenharia Elétrica,2004.0,6,Engenharia Civil,2014.0,8.0,Engenharia Mecânica,2007.0,4.0
+Meio Ambiente,2006.0,3.0,Engenharia De Produção Civil,2010.0,6,Modelagem Matemática E Computacional,2006.0,8.0,Engenharia Mecânica,2008.0,4.0
+Química Industrial,2000.0,3.0,Engenharia De Materiais,2009.0,5,Engenharia Elétrica,2013.0,7.0,Engenharia Mecânica,2018.0,4.0
+Química,2000.0,3.0,Letras,2006.0,5,Estudos De Linguagens,2010.0,7.0,Engenharia Metalúrgica E De Minas,2015.0,4.0
+Informática Industrial,1995.0,3.0,Química,1998.0,5,Engenharia Elétrica,2003.0,7.0,Estudos De Linguagens,2016.0,4.0
+Informática Industrial,2003.0,3.0,Farmácia,2009.0,5,Engenharia Elétrica,2001.0,7.0,Engenharia Elétrica,2000.0,3.0
+Eletrônica Industrial,2002.0,2.0,Ciência Da Computação,2001.0,5,Modelagem Matemática E Computacional,2007.0,7.0,Engenharia Elétrica,2001.0,3.0
+Química,1979.0,2.0,Ciência Da Computação,2004.0,5,Engenharia De Materiais,2017.0,7.0,Educação,2012.0,3.0
+Informática Industrial,2001.0,2.0,Ciência Da Computação,2006.0,5,Modelagem Matemática E Computacional,2008.0,7.0,Educação,2015.0,3.0
+Química,1991.0,2.0,Engenharia Elétrica,2005.0,5,Engenharia De Materiais,2015.0,7.0,Engenharia Elétrica,2003.0,3.0
+Química,1990.0,2.0,Engenharia De Produção Civil,2008.0,5,Educação Tecnológica,2009.0,7.0,Engenharia De Estruturas,2011.0,3.0
+Informática Industrial,2000.0,2.0,Programa Especial De Formação De Docente,2015.0,5,Educação Tecnológica,2010.0,7.0,Engenharia Civil,2021.0,3.0
+Edificações,1995.0,2.0,Química Tecnológica,2008.0,5,Educação Tecnológica,2017.0,6.0,Engenharia Civil,2019.0,3.0
+Eletrônica,1992.0,2.0,Química Tecnológica,2007.0,5,Engenharia Mecânica,2016.0,6.0,Engenharia Civil,2018.0,3.0
+Mecatrônica,2009.0,2.0,Matemática,2003.0,5,Engenharia Elétrica,2017.0,6.0,Engenharia Mecânica,2001.0,3.0
+Mecânica,1982.0,2.0,Engenharia Elétrica,2011.0,5,Estudos De Linguagens,2015.0,6.0,Química,2020.0,3.0
+Edificações,2004.0,2.0,Engenharia Elétrica,2010.0,5,Estudos De Linguagens,2014.0,6.0,Estudos De Linguagens,2018.0,3.0
+Turismo E Lazer,2003.0,2.0,Ciência Da Computação,2008.0,4,Engenharia Elétrica,2011.0,6.0,Engenharia Metalúrgica E De Minas,2012.0,3.0
+Edificações,2006.0,2.0,Química Tecnológica,2006.0,4,Educação Tecnológica,2014.0,6.0,Modelagem Matemática E Computacional,2019.0,3.0
+Edificações,2007.0,2.0,Química,2008.0,4,Educação Tecnológica,2015.0,6.0,Engenharia Civil,2017.0,3.0
+Eletrônica,1983.0,2.0,Engenharia Elétrica,1999.0,4,Estudos De Linguagens,2009.0,6.0,Engenharia Elétrica,2017.0,3.0
+Edificações,2010.0,2.0,Engenharia De Materiais,2012.0,4,Engenharia Civil,2015.0,6.0,Matemática,2016.0,2.0
+Mecânica,1991.0,2.0,Engenharia De Controle E Automação,2008.0,4,Engenharia Elétrica,1998.0,6.0,Educação,2008.0,2.0
+Quimica,2002.0,2.0,Ciência Da Computação,1998.0,4,Engenharia Da Energia - Cefet/mg - Ufsj,2014.0,6.0,Educação,2013.0,2.0
+Eletromecânica,1983.0,2.0,Engenharia De Computação,2010.0,4,Química,2013.0,6.0,Engenharia Civil,2009.0,2.0
+Eletromecânica,1996.0,2.0,Ciência Da Computação,2000.0,4,Engenharia Mecânica,2000.0,6.0,Educação,2016.0,2.0
+Informática,2008.0,2.0,Ciência Da Computação,2002.0,4,Tecnologia,2000.0,6.0,Educação,2018.0,2.0
+Informática,2010.0,2.0,Engenharia Industrial Elétrica,1997.0,4,Modelagem Matemática E Computacional,2015.0,5.0,Comunicação Social,2019.0,2.0
+Mecânica Industrial,2010.0,2.0,Engenharia Civil,1985.0,4,Modelagem Matemática E Computacional,2017.0,5.0,Ciências Técnicas Nucleares,2012.0,2.0
+Eletrotécnica,2006.0,2.0,Engenharia De Produção Civil,2003.0,4,Engenharia Elétrica,2004.0,5.0,Letras,2019.0,2.0
+Informática Industrial,1996.0,2.0,Engenharia Elétrica,2006.0,4,Educação Tecnológica,2012.0,5.0,Ciências Técnicas Nucleares,2009.0,2.0
+Meio Ambiente,2007.0,2.0,Engenharia Civil,2006.0,4,Engenharia Elétrica,2002.0,5.0,Modelagem Matemática E Computacional,2015.0,2.0
+Eletrotécnica,2005.0,2.0,Ciências Biológicas,2009.0,4,Engenharia Civil,2018.0,5.0,Modelagem Matemática E Computacional,2021.0,2.0
+Meio Ambiente,2004.0,2.0,Engenharia Civil,1999.0,4,Modelagem Matemática E Computacional,2009.0,5.0,Engenharia Elétrica,2002.0,2.0
+Química,1995.0,2.0,Engenharia De Controle E Automação,2010.0,4,Modelagem Matemática E Computacional,2016.0,5.0,Engenharia Civil,2020.0,2.0
+Eletrotécnica,1995.0,2.0,Engenharia De Produção Civil,2006.0,4,Engenharia Elétrica,2010.0,5.0,Engenharia Mecânica,2000.0,2.0
+Eletrônica,1997.0,2.0,Letras,2003.0,4,Engenharia Mecânica,1997.0,5.0,Engenharia Metalúrgica E De Minas,1998.0,2.0
+Química,2007.0,2.0,Letras,2007.0,4,Tecnologia,2002.0,5.0,Engenharia Mecânica,2020.0,2.0
+Eletrônica,2004.0,2.0,Letras,2013.0,4,Engenharia Civil,2013.0,4.0,Engenharia Mecânica,2019.0,2.0
+Informática Industrial,2004.0,2.0,Engenharia Ambiental E Sanitária,2010.0,4,Engenharia Elétrica,1999.0,4.0,Engenharia Mecânica,2017.0,2.0
+Química Industrial,1997.0,2.0,Engenharia Industrial Elétrica,1999.0,4,Química,2015.0,4.0,Engenharia Mecânica,2016.0,2.0
+Química,2011.0,2.0,Engenharia Mecânica,2010.0,4,Engenharia Elétrica,1996.0,4.0,Engenharia Mecânica,2014.0,2.0
+Química,2009.0,2.0,Engenharia De Controle E Automação,2006.0,4,Engenharia Da Energia - Cefet/mg - Ufsj,2017.0,4.0,Engenharia Mecânica,2009.0,2.0
+Química Industrial,1993.0,2.0,Tecnologia Em Radiologia,2006.0,4,Educação Tecnológica,2013.0,4.0,Engenharia Mecânica,2004.0,2.0
+Química,2008.0,2.0,Tecnologia Em Radiologia,2003.0,4,Tecnologia,2001.0,4.0,Engenharia Elétrica,2016.0,2.0
+Eletrônica Industrial,1991.0,2.0,Tecnologia Em Radiologia,2005.0,4,Tecnologia,2003.0,4.0,Engenharia De Estruturas,2015.0,2.0
+Química,2006.0,2.0,Engenharia De Energia,2007.0,3,Engenharia Civil,2009.0,4.0,Engenharia Elétrica,2008.0,2.0
+Mecatrônica,2006.0,2.0,Engenharia Industrial Elétrica,2002.0,3,Engenharia De Materiais,2012.0,4.0,Ciências Da Computação E Matemática Computacional,2018.0,2.0
+Química Industrial,2003.0,2.0,Sistemas De Informação,2002.0,3,Engenharia De Materiais,2010.0,4.0,Estudos Literários,2019.0,2.0
+Química,2002.0,2.0,Farmácia,2011.0,3,Engenharia Mecânica,2002.0,4.0,Física,2016.0,2.0
+Informática Industrial,2006.0,2.0,Engenharia Industrial Elétrica,1993.0,3,Engenharia Da Energia - Cefet/mg - Ufsj,2009.0,4.0,Engenharia De Produção,2012.0,2.0
+Química Industrial,2005.0,2.0,Engenharia De Minas,2010.0,3,Engenharia Da Energia - Cefet/mg - Ufsj,2011.0,4.0,Genética,2015.0,2.0
+Mecânica,2011.0,1.0,Ciência Da Computação,1992.0,3,Engenharia Da Energia - Cefet/mg - Ufsj,2015.0,4.0,Engenharia De Materiais,2008.0,2.0
+Mecânica,1977.0,1.0,Ciências Biológicas,2013.0,3,Educação Tecnológica,2011.0,4.0,Engenharia De Estruturas,2019.0,2.0
+Mecânica,2008.0,1.0,Engenharia Industrial Elétrica,2003.0,3,Engenharia Mecânica,2013.0,4.0,Programa De Pós-graduação Em Engenharia Elétrica,2018.0,2.0
+Mecânica,2009.0,1.0,Direito,2007.0,3,Química,2018.0,4.0,Engenharia Metalúrgica E De Minas,2016.0,2.0
+Mecânica,1976.0,1.0,Engenharia Química,2009.0,3,Engenharia Elétrica,2000.0,4.0,Quimica,2016.0,2.0
+Informática Industrial,2002.0,1.0,Engenharia De Materiais,2013.0,3,Modelagem Matemática E Computacional,2004.0,4.0,Química,2017.0,2.0
+Mecânica Industrial,1994.0,1.0,Engenharia De Telecomunicações,2001.0,3,Engenharia Elétrica,2009.0,4.0,Quimica,2020.0,2.0
+Mecânica Industrial,1997.0,1.0,Licenciatura Plena Para A Graduação De Professores,1988.0,3,Educação Tecnológica,2006.0,4.0,Administração,2013.0,2.0
+Mecânica Industrial,1999.0,1.0,Ciência Da Computação,2003.0,3,Engenharia Da Energia - Cefet/mg - Ufsj,2016.0,4.0,Administração,2012.0,2.0
+Mecânica Industrial,2006.0,1.0,Sistemas De Informação,2007.0,3,Ciências Da Computação,2017.0,3.0,"Saneamento, Meio Ambiente E Recursos Hídricos",2019.0,2.0
+Mecânica,2005.0,1.0,Engenharia Elétrica,2003.0,3,Engenharia Civil,2008.0,3.0,Bioquímica E Imunologia,2018.0,2.0
+Mecânica,1974.0,1.0,Ciência Da Computação,2007.0,3,Engenharia Química,2017.0,3.0,Ciências Da Computação,2010.0,2.0
+Magistério,1997.0,1.0,Engenharia Civil,1986.0,3,Engenharia Mecânica,2018.0,3.0,Química,2013.0,2.0
+Mecânica,2007.0,1.0,Ciência Da Computação,2009.0,3,Administração,2016.0,3.0,Ciências Da Computação,2013.0,2.0
+Mecânica,1996.0,1.0,Engenharia Mecânica,1995.0,3,Administração,2017.0,3.0,Química,2016.0,1.0
+Mecânica,2004.0,1.0,Física,2011.0,3,Engenharia Mecânica,2003.0,3.0,Química Analítica,2015.0,1.0
+Mecânica,1985.0,1.0,Sistemas De Informação,2005.0,3,Engenharia Mecânica,2005.0,3.0,Filosofia Do Direito,2015.0,1.0
+Meio Ambiente,1997.0,1.0,Engenharia Mecânica,1997.0,3,Ciências Da Computação,2013.0,3.0,Química Analítica,2017.0,1.0
+Informática Industrial,2009.0,1.0,Pedagogia,2008.0,3,Biologia Vegetal,2011.0,3.0,Filosofia,2019.0,1.0
+Informática Industrial (integrado Ao Ensino Médio),2007.0,1.0,Engenharia Industrial Mecânica,2005.0,3,Ciências Da Computação,2011.0,3.0,Evolução Crustal E Recursos Naturais,2013.0,1.0
+Informática Industrial,1997.0,1.0,Química,1999.0,3,Modelagem Matemática E Computacional,2003.0,3.0,Evolução Crustal E Recursos Naturais,2010.0,1.0
+Mecânica,1983.0,1.0,Letras - Português,2005.0,3,Matemática,2011.0,3.0,Evolução Crustal E Recursos Naturais,2000.0,1.0
+Informática Industrial/automação,2007.0,1.0,Engenharia Elétrica,2012.0,3,Ciências Da Computação,2008.0,3.0,Estudos De Linguagens,2022.0,1.0
+Informática Industrial/automação,2008.0,1.0,Matemática,2000.0,3,Educação Tecnológica,2003.0,3.0,Química Analítica,2006.0,1.0
+Instrumentação,1979.0,1.0,Nutrição,2004.0,3,Engenharia Mecânica,2015.0,3.0,Química,2011.0,1.0
+Mecânica,2003.0,1.0,Engenharia Elétrica,1990.0,3,Ciências Da Computação,2010.0,3.0,Estudos Literários,2014.0,1.0
+Mecânica,1990.0,1.0,Engenharia Industrial Mecânica,2006.0,3,Engenharia Civil,2007.0,3.0,Estudos Lingüísticos,2014.0,1.0
+Instrumentação Eletrônica E Controle De Porcessos,2004.0,1.0,Engenharia Elétrica,1991.0,3,Educação Tecnológica,2018.0,3.0,Fisiologia E Farmacologia,2012.0,1.0
+Mecânica,1980.0,1.0,Farmácia,1999.0,3,Engenharia Mecânica,2006.0,3.0,"Estudos De Linguagens (letras): Literatura, Cultura E Tecnologia",2017.0,1.0
+Mecânica,1993.0,1.0,Engenharia De Produção Civil,2000.0,3,Educação Tecnológica,2016.0,3.0,Química,2015.0,1.0
+Mecânica,1995.0,1.0,Engenharia De Controle E Automação,2013.0,3,Ciências Da Computação,2004.0,3.0,Fisica,2015.0,1.0
+Mecânica,1979.0,1.0,Física,2003.0,3,Educação Tecnológica,2008.0,3.0,Programa De Pós-graduação Em Estudos De Linguagens,2017.0,1.0
+Mecânica,2002.0,1.0,Engenharia Industrial Mecânica,1979.0,3,Ciências Da Computação,2007.0,3.0,Fisiologia E Farmacologia,2021.0,1.0
+Mecânica,1981.0,1.0,Matemática,2007.0,3,Administração,2019.0,3.0,Fitotecnia (produção Vegetal),2003.0,1.0
+  Mecânico,1974.0,1.0,Engenharia Industrial Mecânica,2004.0,3,"Saneamento, Meio Ambiente E Recursos Hídricos",2016.0,3.0,Química,2006.0,1.0
+Meio Ambiente,2001.0,1.0,Engenharia De Produção Civil,2002.0,3,Tecnologia,1993.0,3.0,Geografia,2019.0,1.0
+Saneamento,1994.0,1.0,Engenharia Civil,2012.0,3,Engenharia De Materiais,2011.0,3.0,Geografia,2016.0,1.0
+Química Industrial,1978.0,1.0,Matemática,2010.0,3,Engenharia Mecânica,1992.0,3.0,Geografia,2014.0,1.0
+Química Industrial,1979.0,1.0,Química Tecnológica,2011.0,3,Engenharia Mecânica,1993.0,3.0,Geografia,2013.0,1.0
+Química Industrial,1986.0,1.0,Engenharia Civil,2009.0,3,Tecnologia,1995.0,3.0,Geografia,2008.0,1.0
+Química Industrial,1991.0,1.0,Química,2001.0,3,Química,2011.0,3.0,Geociências E Meio Ambiente,2018.0,1.0
+Química Industrial,1995.0,1.0,Engenharia De Materiais,2011.0,3,Estudos De Linguagens,2019.0,3.0,Genética E Melhoramento De Plantas,2017.0,1.0
+Química Industrial,1996.0,1.0,Engenharia Elétrica,1995.0,3,Engenharia De Produção,2007.0,3.0,Genética,2019.0,1.0
+Química Industrial,1999.0,1.0,Engenharia Industrial Mecânica,1992.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",2007.0,3.0,Genética,2018.0,1.0
+Química Industrial,2001.0,1.0,Letras,2004.0,2,Tecnologia,2004.0,3.0,Química,2007.0,1.0
+Química Industrial,2006.0,1.0,Geografia,2003.0,2,Engenharia Mecânica,1999.0,3.0,Genética,2014.0,1.0
+Química Industrial,2007.0,1.0,Direito,2005.0,2,Engenharia Elétrica,2005.0,3.0,Física E Astronomia,2016.0,1.0
+Química Industrial,2008.0,1.0,Engenharia Industrial Mecânica,1994.0,2,Engenharia De Materiais,2008.0,3.0,Química,2008.0,1.0
+Qúimica,1996.0,1.0,Letras,2002.0,2,Engenharia Elétrica,2018.0,2.0,Física,2017.0,1.0
+Radiologia,2003.0,1.0,Letras,2001.0,2,Educação,2002.0,2.0,Química,2010.0,1.0
+Saneamento,1992.0,1.0,Engenharia Industrial Mecânica,1997.0,2,Engenharia Metalúrgica E De Minas,2011.0,2.0,Física,2000.0,1.0
+Saneamento,1996.0,1.0,Pedagogia,1997.0,2,Engenharia Metalúrgica E De Minas,2016.0,2.0,Física,1995.0,1.0
+Meio Ambiente,2003.0,1.0,Pedagogia,1999.0,2,Engenharia Elétrica,2006.0,2.0,Química E Biotecnologia,2010.0,1.0
+Saneamento,1997.0,1.0,Pedagogia,2000.0,2,Educação Tecnológica,2002.0,2.0,Química Analítica,2019.0,1.0
+Segundo Grau  - Eletrônica,1993.0,1.0,Pedagogia,2001.0,2,Engenharia Metalúrgica E De Minas,2018.0,2.0,Química Orgânica,2021.0,1.0
+Teatro Universitário,2006.0,1.0,Pedagogia,2002.0,2,Educação Tecnológica,2001.0,2.0,Química Orgânica,2015.0,1.0
+Telecomunicações,2004.0,1.0,Engenharia Industrial Mecânica,2001.0,2,Engenharia Química,1996.0,2.0,Química Orgânica,2017.0,1.0
+Transportes E Trânsito,2007.0,1.0,Pedagogia,2005.0,2,Letras,2017.0,2.0,Sustainable Energy Systems,2014.0,1.0
+Turismo,2001.0,1.0,Pedagogia,2012.0,2,Ciências Técnicas Nucleares,2009.0,2.0,Epidemiologia Em Saúde Pública,2019.0,1.0
+Turismo,2005.0,1.0,Letras,1999.0,2,Educação,2015.0,2.0,Tecnologia De Alimentos,2007.0,1.0
+Turismo - Produção De Eventos,2008.0,1.0,Letras,1996.0,2,Educação,2010.0,2.0,Tecnologia Nuclear,2000.0,1.0
+Turismo E Lazer,1998.0,1.0,Nutrição,1998.0,2,Engenharia Química,2008.0,2.0,Tecnologias Da Inteligência E Design Digital,2018.0,1.0
+Turismo E Lazer,2002.0,1.0,Engenharia Ambiental E Sanitária,2011.0,2,Economia Aplicada,2015.0,2.0,Thermique Et Energétique,1992.0,1.0
+Turismo E Lazer,2006.0,1.0,Letras,2005.0,2,Engenharia Mecânica,2019.0,2.0,Ensino E Divulgação Das Ciências,2017.0,1.0
+Turismo E Lazer,2008.0,1.0,Enfermagem,2010.0,2,Engenharia Elétrica,2007.0,2.0,Engenharia Química,2018.0,1.0
+Téc Em Eletrônica,1991.0,1.0,Administração,2010.0,2,Matemática,2012.0,2.0,Tratamento Da Informação Espacial,2021.0,1.0
+Téc. Em Química,1997.0,1.0,Engenharia Industrial Elétrica,1991.0,2,Matemática,2014.0,2.0,Engenharia Química,2016.0,1.0
+Química Industrial,1969.0,1.0,Sistemas De Informação,2012.0,2,Mestrado Multicêntrico Em Química,2018.0,2.0,Engenharia Química,2011.0,1.0
+Química,2013.0,1.0,Engenharia Civil,2007.0,2,Construção Civil,2016.0,2.0,Engenharia Química,2009.0,1.0
+Química,2012.0,1.0,Física,2001.0,2,Engenharia Elétrica (ufsj / Cefet-mg),2017.0,2.0,Engenharia Química,2008.0,1.0
+Química,2010.0,1.0,Matemática,1983.0,2,Comunicação Social,2013.0,2.0,Engenharia Química,2007.0,1.0
+Meio Ambiente,2005.0,1.0,Matemática,2008.0,2,Engenharia Elétrica (ufsj / Cefet-mg),2016.0,2.0,Engenharia Química,1994.0,1.0
+Meio Ambiente,2010.0,1.0,Física,2000.0,2,Engenharia Elétrica (ufsj / Cefet-mg),2012.0,2.0,"Engenharia Metalúrgica, Materiais E De Minas",2020.0,1.0
+Meio Ambiente E Saneamento,1995.0,1.0,Administração,2011.0,2,Engenharia Elétrica (ufsj / Cefet-mg),2009.0,2.0,Urbanismo,2005.0,1.0
+Metalurgia,1990.0,1.0,Engenharia De Computação,2007.0,2,Ciências Técnicas Nucleares,2011.0,2.0,Engenharia Metalúrgica E De Minas,2018.0,1.0
+Mineração,2000.0,1.0,Engenharia De Computação,2008.0,2,Engenharia Química,2012.0,2.0,Wind Energy Systems,2016.0,1.0
+Mineração,2003.0,1.0,Física,1991.0,2,Engenharia Elétrica,2008.0,2.0,Surface Engineering And Advanced Materials,2019.0,1.0
+Mineração,2005.0,1.0,Engenharia De Computação,2011.0,2,Genética,2016.0,2.0,"Sociedade, Natureza E Desenvolvimento",2019.0,1.0
+Mineração,2006.0,1.0,Engenharia De Computação,2012.0,2,Engenharia Mecânica,1988.0,2.0,Estatistica,2018.0,1.0
+Mineração,2007.0,1.0,Engenharia De Controle E Automação,2005.0,2,Geologia,2011.0,2.0,"Saneamento, Meio Ambiente E Recursos Hídricos",2016.0,1.0
+Mineração,2008.0,1.0,Engenharia Civil,2002.0,2,Física,2002.0,2.0,Geografia E Gestão Ambiental,2006.0,1.0
+Planejamento E Gestão Em Tecnologia Da Informação,2006.0,1.0,Engenharia Civil,2001.0,2,Engenharia Mecânica,2001.0,2.0,Química Orgânica E Biológica,2016.0,1.0
+Planejamento E Gestão Em Tecnologia Da Informação,2007.0,1.0,Engenharia Civil,2000.0,2,Engenharia De Estruturas,2017.0,2.0,Recursos Hídricos E Saneamento Ambiental,1996.0,1.0
+Informática Industrial,1991.0,1.0,Administração,2008.0,2,Engenharia Da Energia - Cefet/mg - Ufsj,2010.0,2.0,Recursos Pesqueiros E Engenharia De Pesca,2019.0,1.0
+Processamento De Dados,1994.0,1.0,Física,2006.0,2,Física,1994.0,2.0,"Risk Evaluation Of Renewable Energy Assets, With A Focus On Wind Energy Ass",2020.0,1.0
+Pós-médio Meio Ambiente,2004.0,1.0,Engenharia De Minas,2011.0,2,Engenharia De Materiais,1999.0,2.0,"Saneamento, Meio Ambiente E Recursos Hídricos",2008.0,1.0
+Quimica,1995.0,1.0,Engenharia Industrial Mecanica,1982.0,2,Engenharia Civil,2016.0,2.0,"Saneamento, Meio Ambiente E Recursos Hídricos",2011.0,1.0
+Quimica,1998.0,1.0,Engenharia Industrial Elétrica,2001.0,2,Engenharia De Materiais,2004.0,2.0,"Saneamento, Meio Ambiente E Recursos Hídricos",2014.0,1.0
+Quimica Industrial,1997.0,1.0,Matemática Computacional,2011.0,2,Engenharia Civil,2011.0,2.0,Saúde Pública E Meio Ambiente,2020.0,1.0
+Quimica Industrial,1998.0,1.0,Engenharia Industrial Elétrica,2000.0,2,Engenharia Civil,2010.0,2.0,Estatística,2011.0,1.0
+Quimica Industrial,2001.0,1.0,Letras - Português E Inglês,2003.0,2,Engenharia De Produção,1999.0,2.0,Estudos De Linguagem,2015.0,1.0
+Química,1969.0,1.0,Sistemas De Informação,2010.0,2,Engenharia Civil,2004.0,2.0,Estudo De Linguagens,2018.0,1.0
+Química,1976.0,1.0,Engenharia Ambiental E Sanitária,2018.0,2,Engenharia Civil,1998.0,2.0,Estudo De Linguagens,2016.0,1.0
+Química,1980.0,1.0,Sistemas De Informação,2006.0,2,Geotecnia,2017.0,2.0,Estruturas,2010.0,1.0
+Química,1983.0,1.0,Engenharia Industrial Elétrica,1996.0,2,Engenharia Mecânica,2014.0,2.0,Sistemas De Informação E Gestão Do Conhecimento,2019.0,1.0
+Química,1987.0,1.0,Engenharia Industrial Elétrica,1995.0,2,Geotecnia E Transportes,2014.0,2.0,Estatística E Experimentação Agropecuária,2020.0,1.0
+Química,1989.0,1.0,Engenharia Civil,1996.0,2,História,2007.0,2.0,Estatística,2015.0,1.0
+Química,1999.0,1.0,Sistemas De Informação,2009.0,2,Enfermagem,2012.0,2.0,Sistemi Di Produzione & Design Industriale,2010.0,1.0
+Química,2001.0,1.0,Tecnologia Em Radiologia,2001.0,2,Engenharia De Produção,2000.0,2.0,Geografia (organizacao Do Espaco),2009.0,1.0
+Química,2003.0,1.0,Física,2009.0,2,Engenharia De Produção,2002.0,2.0,Química,2004.0,1.0
+Informática Industrial,1992.0,1.0,Tecnologia Em Radiologia,2002.0,2,Engenharia De Produção,2006.0,2.0,Geografia Humana E Estudos Urbanos,2013.0,1.0
+Estradas,1993.0,1.0,Engenharia De Produção Civil,2014.0,2,Engenharia Mecânica,2007.0,2.0,Programa De Pós-graduação Em Estudos Lingüísticos,2010.0,1.0
+Informática Industrial,1989.0,1.0,Engenharia Elétrica,2000.0,2,Engenharia Mecânica,2010.0,2.0,Phd,2015.0,1.0
+ Química Industrial,2002.0,1.0,Arquitetura E Urbanismo,2009.0,2,Evolução Crustal E Recursos Naturais,2015.0,2.0,Performances Culturais,2019.0,1.0
+Automação Industrial,2015.0,1.0,Ciência Da Computação,1997.0,2,Estudos Literários,2011.0,2.0,Neuroquímica,2014.0,1.0
+Automação Industrial,2011.0,1.0,Arquitetura E Urbanismo,2007.0,2,Engenharia Elétrica,1993.0,2.0,Neurociências,2014.0,1.0
+Agroindústria,2007.0,1.0,Engenharia Química,2010.0,2,Engenharia Mecânica,1996.0,2.0,Música,2021.0,1.0
+Administração E Contabilidade,1997.0,1.0,Arquitetura E Urbanismo,2005.0,2,Engenharia De Estruturas,2014.0,2.0,Música,2015.0,1.0
+Administração De Empresas Com Ênfase Em Gestão De Negócios,2010.0,1.0,Engenharia Elétrica,2001.0,2,Engenharia De Materiais,2018.0,2.0,Mundo Antigo,2009.0,1.0
+Administração De Empresas,2008.0,1.0,Engenharia Química,2012.0,2,Engenharia Metalúrgica E De Minas,2015.0,2.0,Programa De Pós-graduação Em Letras Da Ufmg / Estudos Literários,2008.0,1.0
+ Química Industrial,1997.0,1.0,Ciência Da Computação,2010.0,2,Ciências Farmacêuticas,2014.0,2.0,Programa De Pós-graduação Em Letras Da Ufmg / Estudos Literários,2020.0,1.0
+Edificações,1973.0,1.0,Ciência Da Computação,2011.0,2,Ciências De Alimentos,2009.0,2.0,Programa De Pós-graduação Em Letras E Linguística,2014.0,1.0
+ Química Industrial,1992.0,1.0,Quimica,2006.0,2,Ciências Da Computação,2016.0,2.0,Programa De Pós-graduação Em Psicologia: Cognição E Comportamento,2017.0,1.0
+ Química,2009.0,1.0,Farmácia,2005.0,2,Ciências Da Computação,2014.0,2.0,Programa De Pós-graduação Em Química,2017.0,1.0
+ Química,2003.0,1.0,Ciências,1997.0,2,Ciências Da Computação,2002.0,2.0,Programa De Pós-graduaçãoemengenharia Química - Ufmg,2016.0,1.0
+ Química,1995.0,1.0,Engenharia De Produção Civil,1999.0,2,Programa De Pós-graduação Em Engenharia Elétrica,2008.0,2.0,Psicologia,2020.0,1.0
+ Química,1992.0,1.0,Engenharia Mecânica,2011.0,2,Programa De Pós-graduação Em Engenharia Elétrica,2014.0,2.0,Psicologia Escolar E Do Desenvolvimento Humano,2006.0,1.0
+ Química,1990.0,1.0,Ciências Biológicas,1998.0,2,Ciências Biológicas (fisiologia E Farmacologia),2010.0,2.0,Psicossociologia De Comunid.e Ecologia Social,2016.0,1.0
+Ead - Meio Ambiente,2018.0,1.0,Relações Internacionais,2006.0,2,Modelagem Matemática E Computacional,2018.0,2.0,Pós Engenharia De Automação E Sistemas,2011.0,1.0
+Edificações,1976.0,1.0,Licenciatura Plena Em Matemática,2004.0,2,"Ciência E Tecnologia Das Radiações, Minerais E Mat",2011.0,2.0,Modelagem Matematica E Computacional,2013.0,1.0
+ Química,1979.0,1.0,Geologia,2011.0,2,"Ciência E Tecnologia Das Radiações, Minerais E Mat",2010.0,2.0,Modelagem Computacional,2018.0,1.0
+Edificações,2002.0,1.0,Engenharia Química,2008.0,2,"Ciência E Tecnologia Das Radiações, Mi",2008.0,2.0,Phd In Biology,2016.0,1.0
+Eletrinica,1989.0,1.0,Química,2010.0,2,Quimica Inorganica,2005.0,2.0,Ppge - Programa De Pós-graduação Em Educação (doutorado),2019.0,1.0
+Edificações: Planejamento E Projetos,2001.0,1.0,Engenharia Elétrica,1987.0,2,Química,1996.0,2.0,Programa De Pós-graduação Em Estudos Da Tradução,2010.0,1.0
+Edificações / Construção Civil,2000.0,1.0,Engenharia Elétrica,1988.0,2,Química,2007.0,2.0,Programa De Pós-graduação Em Estudos De Linguagens,2019.0,1.0
+Edificações,2009.0,1.0,Engenharia Eletrônica E De Telecomunicações,2009.0,2,Química,2010.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Ufmg,2021.0,1.0
+Edificações,2008.0,1.0,Geologia,1983.0,2,Ciência Da Computação,2009.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Ufmg,2020.0,1.0
+Edificações,2003.0,1.0,Geologia,2002.0,2,Química,2014.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Ufmg,2019.0,1.0
+Edificações,2001.0,1.0,Engenharia Elétrica,1992.0,2,Química,2016.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Ufmg,2015.0,1.0
+Edificações,1981.0,1.0,Engenharia Metalúrgica,2011.0,2,Tecnologia,1997.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Puc Minas,2021.0,1.0
+Edificações,1996.0,1.0,Biomedicina,2010.0,2,Tecnologia,1999.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Puc Minas,2017.0,1.0
+Edificações,1993.0,1.0,Ciencia Da Computação,2005.0,2,Administração,2010.0,2.0,Programa De Pós-graduação Em Engenharia Mecânica - Puc Minas,2015.0,1.0
+Edificações,1991.0,1.0,Filosofia,2005.0,2,Administração,2007.0,2.0,Programa De Pós-graduação Em Engenharia Elétrica,2013.0,1.0
+Edificações,1989.0,1.0,Química Tecnológica,2010.0,2,Administração,2004.0,2.0,Programa De Pós-graduação Em Engenharia Elétrica,2011.0,1.0
+Edificações,1983.0,1.0,Engenharia Metalúrgica,2009.0,2, De Pós-graduação Em Engenharia Metalúrgica E De Minas (cpgem),2009.0,2.0,Programa De Pós-graduação Em Engenharia Elétrica,2010.0,1.0
+Edificações,1982.0,1.0,Química,2006.0,2,Programa De Pós Medicamentos E Assistência Farmacêutica,2015.0,2.0,Programa De Pós-graduação Em Engenharia Civil - Propec,2021.0,1.0
+ Química,1986.0,1.0,Engenharia Elétrica,1994.0,2,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2016.0,2.0,Programa De Pós-graduação Em Engenharia Civil - Propec,2017.0,1.0
+ Meânica,1978.0,1.0,Engenharia Eletrônica E De Telecomunicação,1995.0,2,Mestrado Matematica Aplicada,2014.0,1.0,"Programa De Pós-graduação Em Educação: Conhecimento E Inclusão Social, Da F",2014.0,1.0
+Informática Industrial,1988.0,1.0,Engenharia Metalúrgica,2005.0,2,Química,2017.0,1.0,Programa De Pós-graduação Em Educação,2020.0,1.0
+ Eletrotécnica,1969.0,1.0,Ciências Biológicas,2003.0,2,Estudos Literários,2013.0,1.0,Programa De Pós-graduação,2017.0,1.0
+ Industrial De Mecânica,1985.0,1.0,Ciências Biológicas,1994.0,2,Estudos Literários,2012.0,1.0,Programa De Pós Psicologia,2014.0,1.0
+ Eletrônico,1999.0,1.0,Ciências Biológicas,2005.0,2,Química,2008.0,1.0,Programa De Pós Graduação Multicêntrico Em Química De Minas Gerais,2021.0,1.0
+ Eletrônica Industrial,1994.0,1.0,Engenharia De Produção Civil,2009.0,2,Estudos Literários,2001.0,1.0,Programa De Pós Graduação Multicêntrico Em Química De Minas Gerais,2016.0,1.0
+ Eletrônica Industrial,1991.0,1.0,Psicologia,1986.0,2,Estudos Lingüísticos,2014.0,1.0,Programa De Pós Graduação Da Escola De Enfermagem,2017.0,1.0
+ Eletrônica,1980.0,1.0,Engenharia De Produção Civil,2007.0,2,Estudos Lingüísticos,2004.0,1.0,Microeletrônica,2005.0,1.0
+ Eletrotécnica,1977.0,1.0,Ciências Econômicas,2010.0,2,Estudos Lingüísticos,2003.0,1.0,Microbiologia Agrícola,2014.0,1.0
+ Eletronica,2004.0,1.0,Ciências Econômicas,2011.0,2,Estudos Lingüísticos,2001.0,1.0,Microbiologia (conceito Capes 7),2015.0,1.0
+ Industrial Em Eletrônica,1992.0,1.0,Tecnologia Em Radiologia,2004.0,2,Parasitologia,2007.0,1.0,Meio Ambiente,2018.0,1.0
+ Eletronica,1995.0,1.0,Engenharia Mecânica,1984.0,2,Nutrição E Saúde,2019.0,1.0,Imunologia E Biologia Da Infecção,2017.0,1.0
+ Eletromecânica,1994.0,1.0,Engenharia Mecânica,1981.0,2,Química,2012.0,1.0,História,2016.0,1.0
+ Eletromecânica,1991.0,1.0,Engenharia De Produção Civil,2005.0,2,Nanociências E Materiais Avançados,2018.0,1.0,Quimica Inorganica,2007.0,1.0
+ Edificações,1986.0,1.0,Ciências Socioambientais,2011.0,2,Música,2018.0,1.0,Quimica Inorganica,2016.0,1.0
+ Agrícola,2004.0,1.0,Engenharia Mecânica,1978.0,2,Química,2019.0,1.0,Química,1992.0,1.0
+ Administração,1995.0,1.0,Engenharia De Produção Civil,2004.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",2015.0,1.0,Química,1995.0,1.0
+ Industrial Em Eletrônica,1990.0,1.0,Comunicação Social,2008.0,2,Química (química Analítica) [sp-capital],1971.0,1.0,Gestão & Organização Do Conhecimento,2019.0,1.0
+ Industrial Em Eletrônica,1993.0,1.0,Jornalismo,2006.0,2,Química E Biotecnologia,1996.0,1.0,Gestão & Organização Do Conhecimento,2015.0,1.0
+ Metalurgia,2001.0,1.0,Programa Especial De Formação De Docente,2017.0,2,Química Inorgânica,2007.0,1.0,Geotecnia,2016.0,1.0
+ Mecânico,1976.0,1.0,Comunicação Social - Jornalismo,2005.0,2,Química Inorgânica,2016.0,1.0,Geotecnia,2014.0,1.0
+ Metalurgia,1980.0,1.0,Engenharia Mecatrônica,2009.0,2,Química Orgânica,2014.0,1.0,Geotecnia,2009.0,1.0
+ Mecânico,2005.0,1.0,Licenciatura Plena,1988.0,2,Recursos Hídricos E Saneamento Ambiental,1991.0,1.0,Geology,2005.0,1.0
+ Mecânico,1992.0,1.0,Engenharia Mecânica,1990.0,2,Relações Internacionais,2012.0,1.0,Geologia,2020.0,1.0
+ Mecânico,1987.0,1.0,Engenharia De Produção Civil,2001.0,2,Ressources Minérales - Exploitation Minière Et Stockage Géologique,2016.0,1.0,Química,1998.0,1.0
+ Mecânico,1981.0,1.0,Psicologia,1995.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",1994.0,1.0,Geologia,2017.0,1.0
+ Mecânico,1977.0,1.0,Psicologia,2006.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",1997.0,1.0,Geologia,2013.0,1.0
+ Mecânica Industrial,2004.0,1.0,Licenciatura Plena Para A Graduação De Professores,1992.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",2003.0,1.0,Química,2001.0,1.0
+ Industrial Em Mecânica,1970.0,1.0,Engenharia Mecânica,1994.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",2005.0,1.0,Geologia,2011.0,1.0
+ Mecânica,1976.0,1.0,Ciências Biológicas,2010.0,2,"Saneamento, Meio Ambiente E Recursos Hídricos",2012.0,1.0,Geografia Rio Claro,1998.0,1.0
+ Mecanico,1984.0,1.0,Psicologia,2011.0,2,Estética E Filosofia Da Arte,2014.0,1.0,Imunologia E Parasitologia Aplicadas,2010.0,1.0
+ Industrial Em Saneamento,1994.0,1.0,Engenharia Mecânica,2005.0,2,Estética E História Da Arte,2017.0,1.0,Informática,2020.0,1.0
+ Industrial Em Química,2005.0,1.0,Ciências Biológicas,2006.0,2,Evolução Crustal E Recursos Naturais,1996.0,1.0,Interdisciplinar Em Ciências Humanas,2017.0,1.0
+ Industrial Em Química,1995.0,1.0,História,2002.0,2,Evolução Crustal E Recursos Naturais,2010.0,1.0,Linguística Aplicada,2018.0,1.0
+ Industrial Em Quimica,1994.0,1.0,Engenharia Mecânica,2001.0,2,Patologia,2008.0,1.0,Medicamentos E Assistência Farmacêutica,2018.0,1.0
+Eletroeletrônica,2008.0,1.0,História,2003.0,2,Microbiologia Agrícola,2012.0,1.0,Mechanical Engineering,2018.0,1.0
+Eletroeletrônica,2018.0,1.0,Letras - Português E Alemão,2009.0,1,Modelagem Computacional,2016.0,1.0,Mathematical And Computational Modeling,2016.0,1.0
+Eletromecanica,2002.0,1.0,Formação De Professores Para Currículo Especial Do,1993.0,1,Pós-graduação Em Engenharia Mecânica,2009.0,1.0,Matemática Aplicada,2013.0,1.0
+Eletrônica,1991.0,1.0,Letras: Tecnologias De Edição,2014.0,1,Quimica,2007.0,1.0,"Pós Engenharia Metalúrgica, Materiais E De Minas",2020.0,1.0
+Eletrônica Industrial,1993.0,1.0,Letras-português/inglês E Respectivas Literaturas,2011.0,1,Quimica,2011.0,1.0,Engenharia Metalúrgica E De Minas,2017.0,1.0
+Eletrônica,2009.0,1.0,Letras - Português,2018.0,1,Modelagem E Controle De Sistemas,2012.0,1.0,Lingüística,2014.0,1.0
+Eletrônica,2008.0,1.0,Licenciatura Me Matemática,2003.0,1,Química,1987.0,1.0,Linguística Teórica E Descritiva - Fonologia,2017.0,1.0
+Eletrônica,2007.0,1.0,Letras - Português,2007.0,1,Química,1992.0,1.0,Pós-graduação Em Análises Clínicas E Toxicológicas,2019.0,1.0
+Eletrônica,2005.0,1.0,Licenciatura Matemática,2005.0,1,Química,1994.0,1.0,Letras,2013.0,1.0
+Eletrônica,2002.0,1.0,Letras - Português E Espanhol,2006.0,1,Modelagem Matematica E Computacional,2003.0,1.0,Pós-graduação Em Ciências E Técnicas Nucleares,2011.0,1.0
+Eletrônica,1989.0,1.0,Letras Português/ Inglês,2004.0,1,Física,1983.0,1.0,Pós-graduação Em Estudos De Linguagem,2018.0,1.0
+Equipamentos Biomédicos,2005.0,1.0,Letras - Tradução,2004.0,1,Fitotecnia (produção Vegetal),2000.0,1.0,Pós-graduação Em Saúde Coletiva,2015.0,1.0
+Eletrônica,1988.0,1.0,Letras / Licenciatura Plena Em Língua Portuguesa,1997.0,1,Fisiologia E Farmacologia,2010.0,1.0,Quimica,2006.0,1.0
+Eletrônica,1987.0,1.0,Formacao De Docentes,2011.0,1,Filosofia,2016.0,1.0,Quimica,2008.0,1.0
+Eletrônica,1984.0,1.0,Fisica,2005.0,1,Química,2001.0,1.0,Linguagens,2016.0,1.0
+Eletrônica,1982.0,1.0,Liceciatura Em Química,1999.0,1,Química,2002.0,1.0,Quimica,2009.0,1.0
+Eletrônica,1978.0,1.0,Letras R2,2015.0,1,Química,2003.0,1.0,Letras,2017.0,1.0
+Eletrônica,1977.0,1.0,Letras - Português E Inglês,2017.0,1,Filosofia,2013.0,1.0,Matemática,2010.0,1.0
+Ensino Profissional De Nível ,1996.0,1.0,Licenc. P. P/ A Grad. De Prof. Parte De Form Espec,1987.0,1,Filosofia,2003.0,1.0, De Pós-graduação Em Engenharia Metalúrgica E De Minas (cpgem),2004.0,1.0
+Equipamentos Para A Área Da Saúde,2008.0,1.0,Formação Pedagógica Em Matemática,2019.0,1,Farmacotécnica E Biofarmácia,2019.0,1.0,Engenharia Metalúrgica E De Minas,2014.0,1.0
+Eletromecanica,2005.0,1.0,Filosofia,2008.0,1,Química,2004.0,1.0,Ciências Biologicas (microbiologia),2019.0,1.0
+Gestão Em Serviços De Saúde,2007.0,1.0,Licenciado Pleno Para Graduação De Professores Da,1990.0,1,Química,2005.0,1.0,Ciências Da Computação,2019.0,1.0
+Informática Gerencial,2006.0,1.0,Geografia,2000.0,1,Extensão Rural,2016.0,1.0,Ciências Da Computação,2018.0,1.0
+Informática - Sistemas De Análise Da Informação,1997.0,1.0,Formação Pedagógica Para Educação Profissional,2006.0,1,Evolução Crustal E Recursos Naturais,2018.0,1.0,Ciências Da Computação,2017.0,1.0
+Informática,2007.0,1.0,Historia,2005.0,1,Modelagem Matemática E Computacional,2002.0,1.0,Ciências Da Computação,2014.0,1.0
+Informática,2001.0,1.0,Graduação De Professores,1981.0,1,Evolução Crustal E Recursos Naturais,2013.0,1.0,Ciências Da Computação,2009.0,1.0
+Informática,1998.0,1.0,Física-licenciatura,1999.0,1,"Saneamento, Meio Ambiente E Recursos Hídricos",2013.0,1.0,Ciências Da Computação,2005.0,1.0
+Gestão Empresarial,2009.0,1.0,Graduação De Professores - Química Aplicada,1981.0,1,"Saneamento, Meio Ambiente E Recursos Hídricos",2017.0,1.0,Ciências Da Computação,2003.0,1.0
+Gestão Comercial,2007.0,1.0,Física Licenciatura,2004.0,1,Mestrado Engenharia Mecânica,2001.0,1.0,Ciências Biológicas (microbiologia),2005.0,1.0
+Equipamentos Para A Área Da Sáude,2008.0,1.0,Física Licenciatura,2002.0,1,Engenharia Urbana,2016.0,1.0,Ciências Biológicas (genética),2017.0,1.0
+Estradas - Ênfase Em Transporte E Trânsito,1999.0,1.0,Historia,2002.0,1,Teoria Literaria E Critica Da Cultura,2010.0,1.0,Ciências Biológicas (fisiologia E Farmacologia),2011.0,1.0
+Estradas,2007.0,1.0,História,2001.0,1,Estatística,2014.0,1.0,Ciências Biologicas (microbiologia),2010.0,1.0
+Estradas,2004.0,1.0,História-licenciatura,2005.0,1,Teoria Literaria E Critica Da Cultura,2012.0,1.0,Ciências Da Informação,2009.0,1.0
+ /profissionalizante Em Edificações,2003.0,1.0,Física Licenciatura,2000.0,1,Estatística,2007.0,1.0,Ciências Agrárias (fisiologia Vegetal),2017.0,1.0
+Estradas,1992.0,1.0,Física Licenciatura,1994.0,1,Estatística,2002.0,1.0,Ciências,2011.0,1.0
+Estradas,1989.0,1.0,Física Aplicada Ciência Dos Materiais,1999.0,1,Teoria Literaria E Critica Da Cultura,2013.0,1.0,Ciência Política,2013.0,1.0
+Eletrônica,1976.0,1.0,Física / Licenciatura,1997.0,1,Teoria Literaria E Critica Da Cultura,2016.0,1.0,Ciência Política,2012.0,1.0
+Eletrotécnica/automação Industrial,2006.0,1.0,História,2004.0,1,Transportes,2008.0,1.0,Ciência E Tecnologia De Alimentos,2012.0,1.0
+Eletrotécnica/automação,2007.0,1.0,História,2006.0,1,Tratamento Da Informação Espacial,2001.0,1.0,Ciência E Tecnologia De Alimentos,2011.0,1.0
+Eletromecânica Industrial,1996.0,1.0,Gestão E Matemática - Prog. Esp. De Form. Ped.. P. Docentes,2007.0,1,Tratamento Da Informação Espacial,2008.0,1.0,Ciência E Tecnologia De Alimentos,2008.0,1.0
+Eletrotécnica,1975.0,1.0,Gestão De Serviços E Negocios Internacionais,2005.0,1,Uso Sustentável De Recursos Naturais,2013.0,1.0,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2019.0,1.0
+Eletrotécnica,1974.0,1.0,Gestão De Serviços De Saúde,2012.0,1,Estatística,1999.0,1.0,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2018.0,1.0
+Eletrotecnica,2010.0,1.0,Gestão Da Tecnologia Da Informação,2006.0,1,Entomologia,2014.0,1.0,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2012.0,1.0
+Eletrotecnica,1984.0,1.0,Geologia,2012.0,1,Engenharia Urbana,2004.0,1.0,Ciências Da Computação,2021.0,1.0
+Eletronica,1986.0,1.0,Geologia,2010.0,1,"Saneamento, Meio Ambiente E Recursos Hídricos",2019.0,1.0,Ciências Da Informação,2014.0,1.0
+Eletromêcanica,2009.0,1.0,Geologia,2007.0,1,Zoologia,2005.0,1.0,Engenharia Metalúrgica E De Minas,2010.0,1.0
+Eletromecânica,2007.0,1.0,Geologia,2006.0,1,Engenharia Química,2016.0,1.0,Ciências Florestais,1994.0,1.0
+Eletrotécnica Industrial,1997.0,1.0,Geologia,2005.0,1,Museologia E Patrimönio,2015.0,1.0,Comunicação Social,2010.0,1.0
+Eletromecânica,2005.0,1.0,Geologia,2004.0,1,Msc Water Resources And Environmental Management,2015.0,1.0,Computação Aplicada,2002.0,1.0
+Eletromecânica,2004.0,1.0,Geologia,1996.0,1,Engenharia Química,2005.0,1.0,Computação,2009.0,1.0
+Eletromecânica,2002.0,1.0,Geologia,1982.0,1,Zootecnia,1988.0,1.0,Community Sustainability,2021.0,1.0
+Eletromecânica,2001.0,1.0,Geografia E Análise Ambiental (bacharelado E Lic.),2006.0,1,Engenharia Naval E Oceânica,2014.0,1.0,Cognitive Science,2008.0,1.0
+Eletromecânica,1997.0,1.0,Geografia - Licenciatura Ou Bacharelado,2010.0,1,Engenharia Mineral,2017.0,1.0,Ciências Técnicas Nucleares,2017.0,1.0
+Eletromecânica,1992.0,1.0,Geografia - Licenciatura,2011.0,1,Engenharia Mineral,2009.0,1.0,Ciências Técnicas Nucleares,2013.0,1.0
+Eletrotécnica,1977.0,1.0,Geografia,2006.0,1,"Engenharia Metalúrgica, Materiais E Minas",2011.0,1.0,Ciências Técnicas Nucleares,2010.0,1.0
+Eletrotécnica,1982.0,1.0,Geografia,2004.0,1,Mpa,2005.0,1.0,Ciências Técnicas Nucleares,2008.0,1.0
+Eletrotécnica,1983.0,1.0,História,2008.0,1,Zootecnia,2002.0,1.0,Ciências Mecânicas,2009.0,1.0
+Eletrotécnica,1987.0,1.0,Humanas,2009.0,1,Modelagem Matemática E Computacional,2019.0,1.0,Ciências Farmacêuticas,2018.0,1.0
+Eletrotécnica,1990.0,1.0,Física,1983.0,1,Teoria Literaria E Critica Da Cultura,2006.0,1.0,Ciências Da Informação,2015.0,1.0
+Eletrotécnica,1992.0,1.0,Física,2002.0,1,Teologia Sistemática,2001.0,1.0,Ciências Farmacêuticas,2010.0,1.0
+Eletrotécnica,1993.0,1.0,Letras,2012.0,1,Estatística,2016.0,1.0,Ciências Farmacêuticas,2001.0,1.0
+Eletrotécnica,2008.0,1.0,Letras,2014.0,1,Telecomunicações,2003.0,1.0,Ciências Dos Materiais,2017.0,1.0
+Eletrotécnica,2009.0,1.0,Letras,2017.0,1,Saúde Animal,2013.0,1.0,Ciências Dos Alimentos,2001.0,1.0
+Eletrotécnica - Automação Industrial,2007.0,1.0,Letras (espanhol),2010.0,1,Saúde Coletiva,2018.0,1.0,Ciências Do Esporte,2013.0,1.0
+Eletrotécnica - Automação Industrial,2008.0,1.0,Letras (português/inglês),1997.0,1,Saúde E Enfermagem,2009.0,1.0,Ciências De Alimentos,2018.0,1.0
+Eletrotécnica - Ênfase Em Automação Industrial,2005.0,1.0,Letras - Espanhol,2010.0,1,Saúde Pública,2008.0,1.0,Ciências De Alimentos,2016.0,1.0
+Eletrotécnica E Automaçaõ Industrial,2003.0,1.0,Letras - Inglês,1995.0,1,Saúde Pública,2017.0,1.0,Ciências Da Reabilitação,2019.0,1.0
+Eletrotécnica E Automação Industrial,2002.0,1.0,Ingenieria Civil,2005.0,1,Saúde Pública,2018.0,1.0,Ciências Da Informação,2019.0,1.0
+Eletrotécnica E Automação Industrial,2005.0,1.0,Letras - Inglês,1997.0,1,Sig E Modelação Territorial Aplicados Ao Ordenamento,2017.0,1.0,Ciências Da Informação,2016.0,1.0
+Eletrotécnica E Automação Industrial,2007.0,1.0,Física,1999.0,1,Sistemas Aquáticos E Gestão De Águas,2010.0,1.0,"Ciência E Tecnologia Das Radiações, Minerais E Mat",2014.0,1.0
+Eletrotécnica E Automação Industrial,2010.0,1.0,Letras - Inglês,2001.0,1,Sistemas De Controle,2012.0,1.0,Ciência E Tecnologia Das Radiações,2013.0,1.0
+Técni Co Em Química,2004.0,1.0,Letras - Língua Portuguesa,2000.0,1,Sistemas De Controle,2015.0,1.0,Ciência E Tecnologia Da Madeira,2019.0,1.0
+,,,Letras - Língua Portuguesa,2002.0,1,Sistemas De Informação E Gestão Do Conhecimento,2013.0,1.0,Agroquímica,2017.0,1.0
+,,,Física,1985.0,1,Sistemas Elétricos De Potencia,2012.0,1.0,Bioengenharia,2015.0,1.0
+,,,Letras,2011.0,1,Sistemas Mecatrônicos,2018.0,1.0,Ats - Automatique Et Traitement De Signal,2018.0,1.0
+,,,Letras,2010.0,1,Estudos De Linguagem,2018.0,1.0,Artes,2019.0,1.0
+,,,Física,2008.0,1,Estudos De Linguagem,2009.0,1.0,Arquitetura E Urbanismo,2014.0,1.0
+,,,Letras,2000.0,1,Estruturas E Construção Civil,2014.0,1.0,Arquitetura E Urbanismo,2008.0,1.0
+,,,Letras,1997.0,1,Sociologia,1985.0,1.0,Arquitetura,2021.0,1.0
+,,,Letras,1994.0,1,Sustentabilidade Socioeconômica E Ambiental,2011.0,1.0,Arquitetura,2019.0,1.0
+,,,Letras,1980.0,1,Tecnologia,1988.0,1.0,Arquitetura,2018.0,1.0
+,,,Jornalismo (29901),2010.0,1,Estatística E Experimentação Agropecuária,2018.0,1.0,Aqüicultura,2021.0,1.0
+,,,Jornalismo,2012.0,1,Música,2013.0,1.0,Antropologia Social,2021.0,1.0
+,,,Jornalismo,2011.0,1,Máster En Pedagogía Profesional,2000.0,1.0,Agroquímica,2010.0,1.0
+,,,Jornalismo,2010.0,1,Estatística Aplicada E Biometria,2010.0,1.0,Ciência E Tecnologia Da Madeira,2018.0,1.0
+,,,Física,2014.0,1,Tecnologia Ambiental,2016.0,1.0,Agronomia (agricultura),2015.0,1.0
+,,,Física - Licenciatura Ou Bacharelado,2013.0,1,Tecnologia Ambiental E Recursos Hídricos,2017.0,1.0,Administração - Ppga Fea Usp,2020.0,1.0
+,,,Jornalismo,2005.0,1,Tecnologia Manufatura Integrada Por Computador,2002.0,1.0,Administração,2021.0,1.0
+,,,Jornalismo,2002.0,1,"Tecnologia, Educação Tecnológica",1993.0,1.0,Administração,2018.0,1.0
+,,,Jornalismo,1999.0,1,Física,1989.0,1.0,Administração,2017.0,1.0
+,,,Jornalismo,1998.0,1,Pós-graduação Em Ciências E Técnicas Nucleares,2008.0,1.0,Administração,2015.0,1.0
+,,,Licenciatura Plena,1987.0,1,Pós-graduação Em Ciência Da Computação,2001.0,1.0, De Pós-graduação Interdisciplinar Em Ciências Humanas,2017.0,1.0
+,,, De Engenharia Eletrônica E De Telecomunicaçõ,1995.0,1,Mestrado Profissional Em Ensino De Biologia Em Rede Nacional 32001010175p5,2017.0,1.0," De Pós-graduação Em Engenharia Metalúrgica, Materiais E De Minas",2009.0,1.0
+,,,Licenciatura Plena,1997.0,1,Programa De Pós Graduação Multicêntrico Em Química De Minas Gerais,2019.0,1.0, De Pós-graduação Em Engenharia Metalúrgica E De Minas (cpgem),2018.0,1.0
+,,,Química,1991.0,1,Letras,2015.0,1.0, De Pós-graduação Em Engenharia Metalúrgica E De Minas (cpgem),2013.0,1.0
+,,,Quimica,1992.0,1,Letras,2012.0,1.0,Bioinformática,2004.0,1.0
+,,,Quimica,1999.0,1,Pedagogia Profissional,2000.0,1.0,Bioinformática,2016.0,1.0
+,,,Quimica,2003.0,1,Programa De Pós Química,2015.0,1.0,Biologia Animal,2001.0,1.0
+,,,Quimica,2011.0,1,Programa De Pós Zootecnia,2011.0,1.0,Biologia Celular,2013.0,1.0
+,,,Quimica - D,2010.0,1,Letras,2000.0,1.0,Ciência E Engenharia De Materiais,2018.0,1.0
+,,,Qumica,2005.0,1,International Health And Tropical Medicine,2017.0,1.0,"Ciência Dos Materiais, Minerais E Radiações",2010.0,1.0
+,,,Química,1979.0,1,Programa De Pós- Ciência E Tecnologia,2014.0,1.0,Ciência Da Educação,2009.0,1.0
+,,,Química,1982.0,1,Programa De Pós-graduação Em Administração,2015.0,1.0,Ciência Da Computação,2019.0,1.0
+,,,Química,1988.0,1,Programa De Pós-graduação Em Ciência E Engenharia De Materiais,2017.0,1.0,Ciência Da Computação,2018.0,1.0
+,,,Química,1992.0,1,Mestrado Multicêntrico Em Química/ppgmq-mg - Belo Horizonte.,2018.0,1.0,Ciencias Empresariales,1996.0,1.0
+,,,Quimica,1982.0,1,Programa De Pós-graduação Em Ciência Física De Materiais,2017.0,1.0,Ciencias E Técnicas Nucleares,2018.0,1.0
+,,,Química,1997.0,1,Programa De Pós-graduação Em Economia,2015.0,1.0,Ciencia Política,2013.0,1.0
+,,,Química,2000.0,1,Física,1998.0,1.0,Ciencia Da Computacao,2012.0,1.0
+,,,Química,2002.0,1,"Programa De Pós-graduação Em Educação: Conhecimento E Inclusão Social, Da F",2009.0,1.0,"Cienc. Tecnologia Radiações, Minerais E Materiais",2013.0,1.0
+,,,Química,2003.0,1,"Programa De Pós-graduação Em Educação: Conhecimento E Inclusão Social, Da F",2012.0,1.0,Biotecnologia,2016.0,1.0
+,,,Química,2005.0,1,Mestrado Profissional Em Montagem Industrial,2018.0,1.0,Biotecnologia,2014.0,1.0
+,,,Química,2007.0,1,"Programa De Pós-graduação Em Educação: Conhecimento E Inclusão Social, Da F",2013.0,1.0,Biotecnologia,2011.0,1.0
+,,,Química,2009.0,1,Programa De Pós-graduação Em Egenharia Mecânica,1988.0,1.0,Bioquímica E Imunologia,2003.0,1.0
+,,,Química,2012.0,1,Programa De Pós-graduação Em Engenharia Elétrica,1996.0,1.0,Biologia Vegetal,2017.0,1.0
+,,,Química,2017.0,1,Informática,2017.0,1.0,Biologia Vegetal,2016.0,1.0
+,,,Quimica,1987.0,1,Informática,2013.0,1.0,Biologia Vegetal,2012.0,1.0
+,,,Publicidade E Propaganda,1998.0,1,Informática,2012.0,1.0,Biologia Vegetal,2004.0,1.0
+,,,Licenciatura Plena,2003.0,1,Programa De Pós-graduação Em Engenharia Elétrica,2000.0,1.0,Biologia Comparada,2008.0,1.0
+,,,Psicologia,1987.0,1,Informática,2011.0,1.0,Biologia Celular,2020.0,1.0
+,,,Programa Especial De Formação Para Docentes,2002.0,1,Informática,2010.0,1.0,Biologia Celular,2019.0,1.0
+,,,Programa Especial De Formação Pedagógica De Docent,2007.0,1,Informática,2009.0,1.0,Comunicação Social,2015.0,1.0
+,,,Programa Especial De Formação Pedagógica De Docent,2011.0,1,Letras,2018.0,1.0,Comunicação Social,2021.0,1.0
+,,,Programa Especial De Formação Pedagógica De Docentes,2018.0,1,Letras - Estudos Literário,2005.0,1.0,"Contrôle Automatique, Génie Informatique, Traitement Du Signal Et Des Imag",2017.0,1.0
+,,,Programa Especial De Formação Pedagógica Docentes,2003.0,1,Letras: Estudos Da Linguagem,2010.0,1.0,Engenharia De Transportes,2007.0,1.0
+,,,Programa Especial De Formação Pedagógica Docentes,2007.0,1,Linguística Teórica E Descritiva - Fonologia,2015.0,1.0,Engenharia Elétrica,2006.0,1.0
+,,,Programa Especial Formação Pedagógica De Docentes,2005.0,1,Mestrado De Ensino De Ciências E Matematica,2012.0,1.0,Engenharia Elétrica,1999.0,1.0
+,,,Programa Especial Formação Pedagógica De Docentes,2008.0,1,Medicina Veterinária,2000.0,1.0,Engenharia Elétrica,1996.0,1.0
+,,,Programa Especial Formação Pedagógica Em Química,2013.0,1,Medicina Veterinária,1995.0,1.0,Engenharia Elétrica,1991.0,1.0
+,,,Psicologia,1989.0,1,Medicamentos E Assistência Farmacêutica,2015.0,1.0,Engenharia Eletrônica E Computação,2018.0,1.0
+,,,Psicologia,2016.0,1,Mba Em Gerenciamento De Projetos,2008.0,1.0,Engenharia Eletrônica E Computação,2011.0,1.0
+,,,Psicologia,1993.0,1,Mathematical And Computational Modeling,2014.0,1.0,Engenharia E Tecnologia Espaciais,2014.0,1.0
+,,,Psicologia,1996.0,1,Mestrado Multicêntrico Em Química,2014.0,1.0,Engenharia E Gestão Do Conhecimento,2013.0,1.0
+,,,Psicologia,1997.0,1,Planeamento E Projeto Urbano,2017.0,1.0,Engenharia Do Ambiente,2019.0,1.0
+,,,Psicologia,1998.0,1,Ppe-coppe/ufrj,2007.0,1.0,Engenharia De Transportes,2019.0,1.0
+,,,Psicologia,1999.0,1,Matemática,2010.0,1.0,Engenharia De Transportes,1995.0,1.0
+,,,Psicologia,2002.0,1,Matemática,2004.0,1.0,Engenharia De Materiais,2020.0,1.0
+,,,Psicologia,2005.0,1,Processos Construtivos E Saneamento Urbano,2014.0,1.0,Engenharia De Transportes,1993.0,1.0
+,,,Psicologia,2010.0,1,Matemática,2003.0,1.0,Engenharia De Sistemas E Computação,2013.0,1.0
+,,,Psicologia,2012.0,1,Produção Vegetal,2012.0,1.0,Engenharia De Produção,2020.0,1.0
+,,,Química,2018.0,1,Matemática,2000.0,1.0,Engenharia De Produção,2019.0,1.0
+,,,Química Bacharelado,1994.0,1,Matemática,1996.0,1.0,Engenharia De Produção,2017.0,1.0
+,,,Química Bacharelado,2004.0,1,Master Of Science In Cyber Security Engineering,2014.0,1.0,Engenharia De Produção,2010.0,1.0
+,,,Tecnologia Em Processamento De Dados,1999.0,1,Master Of Music,2015.0,1.0,Engenharia De Produção,2007.0,1.0
+,,,Sistemas De Informação,2001.0,1,Engenharia Metalúrgica E De Minas,2014.0,1.0,Engenharia De Produção,2005.0,1.0
+,,,Sistemas De Informação,2003.0,1,Programa De Engenharia Elétrica,2014.0,1.0,Engenharia De Produção,2004.0,1.0
+,,,Sociologia E Política,1999.0,1,Manufatura Integrada Por Computador,2002.0,1.0,Engenharia De Processos,2015.0,1.0
+,,,Superior Processamento De Dados,1998.0,1,Manufatura Integrada Por Computador,2000.0,1.0,Engenharia Elétrica,2007.0,1.0
+,,,Teatro,2011.0,1,Manufatura Integrada Por Computador,1995.0,1.0,Engenharia Elétrica,2012.0,1.0
+,,,Tecnologia Em Gestão Da Produção E Metrologia,2006.0,1,Programa De Pó-graduação Em Engenharia Elétrica,2009.0,1.0,Engenharia Elétrica,2013.0,1.0
+,,,Tecnologia Em Gestão De Recursos Humanos,2008.0,1,Maestría En Pedagogía Profesional,2000.0,1.0,Engenharia Elétrica,2014.0,1.0
+,,,Tecnologia Em Mecatrônica Industrial,2006.0,1,Ma Music And Technology (research),2010.0,1.0,Engenharia Metalúrgica E De Minas,2009.0,1.0
+,,,Tecnologia Em Normalização E Qualidade,1998.0,1,Línguística,2011.0,1.0,Engenharia Metalúrgica E De Minas,2008.0,1.0
+,,,Tecnologia Em Radiologia,2000.0,1,Informática,2006.0,1.0,Engenharia Metalúrgica E De Minas,2005.0,1.0
+,,,Química Bacharelado,2006.0,1,Information Technology,2014.0,1.0,Engenharia Metalúrgica E De Minas,2003.0,1.0
+,,,Tecnologia Em Sistemas Para Internet,2008.0,1,Imunologia E Parasitologia Aplicadas,2004.0,1.0,Engenharia Metalúrgica E De Minas,2002.0,1.0
+,,,Tecnologia Qualidade Industrial - Enf.automobilist,1997.0,1,Geografia Humana,2006.0,1.0,Engenharia Metalúrgica E De Minas,1999.0,1.0
+,,,Tecnologo Em Normalização E Qualidade Industrial,2000.0,1,Geografia,2017.0,1.0,Engenharia Metalúrgica E De Minas,1994.0,1.0
+,,,Tecnólogo Em Normalização E Qualidade Industrial,1996.0,1,Geografia,2015.0,1.0,Engenharia Metalúrgica,2012.0,1.0
+,,,Tecnólogo Em Processamento De Dados,1991.0,1,Geografia,2014.0,1.0,Engenharia Mecânica,2013.0,1.0
+,,,Turismo,2001.0,1,Geografia,2012.0,1.0,Engenharia Mecânica,2006.0,1.0
+,,,Turismo E Hospitalidade,2008.0,1,Geografia,2011.0,1.0,Engenharia Mecânica,2005.0,1.0
+,,,Veterinary Medicine,2003.0,1,Geociências E Meio Ambiente,2016.0,1.0,Engenharia Mecânica,2002.0,1.0
+,,,Zoologia,1999.0,1,Programa De Pós-graduação Em Microbiologia,2017.0,1.0, De Pós-graduação Em Engenharia Metalúrgica E De Minas (cpgem),2011.0,1.0
+,,,Sistemas De Informaçao,2003.0,1,Programa De Pós-graduação Multicêntrico Em Química,2019.0,1.0,Engenharia Mecânica,1999.0,1.0
+,,,Sistema De Informação,2009.0,1,Programa De Pós-graduação Multicêntrico Em Química - Rede Mineira De Químic,2019.0,1.0,Engenharia Mecânica,1995.0,1.0
+,,,Sistema De Informação,2003.0,1,Geociências,2014.0,1.0,Engenharia Mecânica,1994.0,1.0
+,,,Serviço Social,2009.0,1,Genética E Melhoramento De Plantas,2015.0,1.0,Engenharia Mecanica,2003.0,1.0
+,,,"Química Com Habilitação Em Química Tecnológica, Biotecnologia E Agroindustr",2009.0,1,Promoção Da Saúde E Prevenção Da Violência,2014.0,1.0,Engenharia Hidráulica E Saneamento,2019.0,1.0
+,,,Química Industrial,2003.0,1,Psicologia,2013.0,1.0,Engenharia Elétrica E Metrologia,2019.0,1.0
+,,,Química Industrial,2009.0,1,Psicologia,2017.0,1.0,Engenharia Elétrica E Informática Industrial,2017.0,1.0
+,,,Química Licenciatura,1996.0,1,Psicologia,2018.0,1.0,Engenharia Elétrica,2021.0,1.0
+,,,Química Licenciatura,2001.0,1,Metrologia Científica E Industrial,2008.0,1.0,Engenharia De Minas,1989.0,1.0
+,,,Química Licenciatura,2010.0,1,Genética,2012.0,1.0,Engenharia De Materiais,2016.0,1.0
+,,,Química Tecnológica,2009.0,1,Física E Matemática Aplicada,2011.0,1.0,Demografia,2015.0,1.0
+,,,Química Tecnológica,2013.0,1,Física E Matemática Aplicada,2007.0,1.0,"Ecologia, Conservacao E Manejo Da Vida Silvestre",2017.0,1.0
+,,,Química Tecnológica,2014.0,1,Física E Astronomia,2014.0,1.0,Educação,2020.0,1.0
+,,,Química Tecnológica,2016.0,1,Física,2016.0,1.0,Educação,2007.0,1.0
+,,,Química- Licenciatura,2002.0,1,Física,2015.0,1.0,Educação,2001.0,1.0
+,,,Química/diurno,2001.0,1,Física,2014.0,1.0,Economia Doméstica,2017.0,1.0
+,,,Radiologia,2003.0,1,Psicologia Avaliação Psicológica,2003.0,1.0,Economia De Empresa,2015.0,1.0
+,,,Radiologia,2004.0,1,Física,2013.0,1.0,Economia Aplicada,2005.0,1.0
+,,,Radiologia,2010.0,1,Pós Construção Civil,2018.0,1.0,Economia Aplicada,1998.0,1.0
+,,,Secretariado Executivo,2011.0,1,Pós Engenharia De Materiais,2003.0,1.0,Economia,2017.0,1.0
+,,,Serviço Social,2000.0,1,Geografia - Análise Ambiental,2009.0,1.0,Economia,2005.0,1.0
+,,,Serviço Social,2005.0,1,Programa De Pós-graduação Em Microbiologia,2010.0,1.0,"Ecologia, Conservacao E Manejo Da Vida Silvestre",2019.0,1.0
+,,,Serviço Social,2006.0,1,Hydro Science And Engineering,2018.0,1.0,Ecologia E Evolução Da Biodiversidade,2007.0,1.0
+,,,Programa Especial De Formação De Docentes(química),2011.0,1,"Geografia- Organização,gestão E Produção Do Espaço",2006.0,1.0,Engenharia De Materiais,2015.0,1.0
+,,,Programa Especial De Formação De Docente,2018.0,1,Mestrdo Engenharia Ambiental,2014.0,1.0,Ecologia De Ecossistemas,2011.0,1.0
+,,,Programa Especial De Formação De Docente,2014.0,1,Géologie De L'ingénieur Et De L'environnement,2004.0,1.0,Ecologia (conservação E Manejo Da Vida Silvestre),2005.0,1.0
+,,,Matematica,2006.0,1,Glitema,2012.0,1.0,Ecologia,2000.0,1.0
+,,,Licenciatura Plena Para Formação De Professores,1995.0,1,Gestão Pública E Sociedade,2017.0,1.0,Doutorado Multicêntrico Em Química,2021.0,1.0
+,,,Licenciatura Plena Para Graduação De Professores,1990.0,1,Geotecnia E Transportes,2015.0,1.0,Doctorate In Production Engineering,2015.0,1.0
+,,,Licenciatura Plena Para Graduação De Professores,1996.0,1,Programa De Pós-graduação Em Engenharia Elétrica,2009.0,1.0,Doctorado En Ingeniería Energética Y Sostenible,2018.0,1.0
+,,,Licenciatura Plena Para Graduação Professores 2o G,1991.0,1,Geotecnia E Transportes,2011.0,1.0,"Discurso, Mídia E Tecnologia",2017.0,1.0
+,,,Licenciatura Plena/esquema 1,1997.0,1,Programa De Pós-graduação Em Engenharia Elétrica,2010.0,1.0,Design,2017.0,1.0
+,,,Licendiatura Plena Para Graduação De Professores,1987.0,1,Geotecnia,2016.0,1.0,Desenvolvimento E Meio Ambiente - Prodema,2018.0,1.0
+,,,Língua Inglesa,2000.0,1,Geotecnia,2006.0,1.0,Demografia,2021.0,1.0
+,,,Matematica,1988.0,1,Geotecnia,2004.0,1.0,Educação,2021.0,1.0
+,,,Matematica,2003.0,1,Geologia Estrutural,1989.0,1.0,Enfermagem,2017.0,1.0
+,,,Matemática,1982.0,1,Geologia,2017.0,1.0,Engenharia Aeronâutica E Mecânica,2000.0,1.0
+,,,Matemática,2011.0,1,Programa De Pós-graduação Em Engenharia Elétrica,2011.0,1.0,Engenharia Agrícola,2008.0,1.0
+,,,Matemática,1984.0,1,Geologia,2007.0,1.0,Engenharia De Materiais,2014.0,1.0
+,,,Matemática,1988.0,1,"Mestre Em Ciencia E Tec. Das Rad., Min. E Mat.",2007.0,1.0,Engenharia De Materiais,2013.0,1.0
+,,,Matemática,1991.0,1,Programa De Pós-graduação Em Engenharia Elétrica,2016.0,1.0,Engenharia De Materiais,2011.0,1.0
+,,,Matemática,1992.0,1,Programa De Pós-graduação Em Engenharia Elétrica,2017.0,1.0,Engenharia De Materiais,2003.0,1.0
+,,,Matemática,1996.0,1,Programa De Pós-graduação Em Engenharia Elétrica (ppgel),2012.0,1.0,Engenharia De Materiais,2001.0,1.0
+,,,Farmácia Habilitação Indústria,2001.0,1,Programa De Pós-graduação Em Engenharia Mecânica,2008.0,1.0,Engenharia De Materais,2018.0,1.0
+,,,Matemática,1997.0,1,Metrologia,2010.0,1.0,Engenharia De Estruturas,2018.0,1.0
+,,,Matemática,1998.0,1,Programa De Pós-graduação Em Engenharia Mecânica - Puc Minas,2017.0,1.0,Engenharia De Estruturas,2016.0,1.0
+,,,Matemática,2004.0,1,Geologia,2002.0,1.0,Engenharia De Estruturas,2013.0,1.0
+,,,Licenciatura Plena Para Ensino De Segundo Grau Mod,1989.0,1,"Programa De Pós-graduação Em Engenharia Metalúrgica, Materiais E De Minas",2017.0,1.0,Engenharia De Estruturas,2012.0,1.0
+,,,Licenciatura Plena Para A Graduação De Professores,1993.0,1,Programa De Pós-graduação Em Estudos Lingüísticos,2008.0,1.0,Engenharia De Estruturas,2010.0,1.0
+,,,Licenciatura Plena Para A Graduação De Professores,1989.0,1,Programa De Pós-graduação Em Linguística,2010.0,1.0,Engenharia De Estruturas,2008.0,1.0
+,,,Licenciatura Plena Para A Formação De Professores,1988.0,1,Programa De Pós-graduação Em Medicamentos E Assistência Farmacêutica,2017.0,1.0,Engenharia De Estruturas,2004.0,1.0
+,,,Licenciatura Plena Da Parte De Formação Especial D,1994.0,1,Master Of Engineering,2010.0,1.0,Engenharia De Automação E Sistemas,2017.0,1.0
+,,,Licenciatura Plena De Professores,1991.0,1, De Ciências E Técnicas Nucleares,2004.0,1.0,Engenharia De Automação E Sistemas,2011.0,1.0
+,,,Licenciatura Plena Em Construção Civil,1985.0,1,Engenharia Metalúrgica E De Minas,2013.0,1.0,Engenharia De Automação E Sistemas,2009.0,1.0
+,,,Licenciatura Plena Em Eletricidade,1988.0,1,Ciência E Engenharia De Materiais,2016.0,1.0,Engenharia De Alimentos,2007.0,1.0
+,,,Licenciatura Plena Em Eletricidade / Eletrônica,1991.0,1,Ciências Ambientais,2017.0,1.0,Engenharia Civil,2000.0,1.0
+,,,Licenciatura Plena Em Letras,1994.0,1,Ciências Biológicas,2005.0,1.0,Engenharia Civil,1998.0,1.0
+,,,Licenciatura Plena Em Matematica,2000.0,1,Ciências Biológicas (entomologia),2009.0,1.0,Engenharia Biomédica,2021.0,1.0
+,,,Licenciatura Plena Em Matematica,2007.0,1,Ciências Biológicas (fisiologia E Farmacologia),2009.0,1.0,Engenharia Agrícola,2017.0,1.0
+,,,Licenciatura Plena Em Matemática,1995.0,1,Ciências Biológicas (fisiologia E Farmacologia),2012.0,1.0,Zoologia,2013.0,1.0
+,,,Licenciatura Plena Em Matemática,1999.0,1,Ciências Biológicas (genética),2015.0,1.0,,,
+,,,Licenciatura Plena Em Matemática,2002.0,1,Ciências Biológicas (microbiologia),2004.0,1.0,,,
+,,,Licenciatura Plena Em Matemática,2003.0,1,Ciências Biológicas (microbiologia),2006.0,1.0,,,
+,,,Licenciatura Plena Em Mecânica,1988.0,1,Ciências Biológicas (microbiologia),2016.0,1.0,,,
+,,,Licenciatura Plena Em Metalurgia E Mecânica,1988.0,1,Ciências Contábeis,2012.0,1.0,,,
+,,,Licenciatura Plena Em Química,1988.0,1,Ciências Contábeis,2015.0,1.0,,,
+,,,Licenciatura Plena Em Química,2004.0,1,Ciências Contábeis E Atuariais,2013.0,1.0,,,
+,,,Licenciatura Plena Em Química Pura E Aplicada,1986.0,1,Ciências Da Computação,1983.0,1.0,,,
+,,,Licenciatura Plena Ensino Do 2o Grau,1988.0,1,Ciências Da Computação,1992.0,1.0,,,
+,,,Licenciatura Plena Ensino Química,1981.0,1,Ciências Da Computação,1997.0,1.0,,,
+,,,Matemática,2009.0,1,Ciências Da Computação,2000.0,1.0,,,
+,,,Matemática,2012.0,1,Ciências Da Computação,2001.0,1.0,,,
+,,,Programa Especial De Formação De Docente,2003.0,1,Ciências Agrárias (fisiologia Vegetal),2015.0,1.0,,,
+,,,Pedagogia,2016.0,1,Ciências (na Especialidade Em Ciência Dos Materiais),2019.0,1.0,,,
+,,,Nutrição,2013.0,1,Ciência Política,2019.0,1.0,,,
+,,,Odontologia,1999.0,1,"Ciência E Tecnologia Das Radiações, Minerais E Mat",2015.0,1.0,,,
+,,,Pedagogia,1991.0,1,Ciência E Tecnologia Da Computação,2015.0,1.0,,,
+,,,Pedagogia,1992.0,1,Ciência E Tecnologia Da Madeira,2016.0,1.0,,,
+,,,Pedagogia,1993.0,1,Ciência E Tecnologia Da Madeira,2017.0,1.0,,,
+,,,Pedagogia,1996.0,1,Ciência E Tecnologia Das Radiações,2014.0,1.0,,,
+,,,Pedagogia,1998.0,1,Ciência E Tecnologia Das Radiações,2015.0,1.0,,,
+,,,Pedagogia,2004.0,1,"Ciência E Tecnologia Das Radiações, Mi",2003.0,1.0,,,
+,,,Pedagogia,2009.0,1,"Ciência E Tecnologia Das Radiações, Minerais E Mat",2012.0,1.0,,,
+,,,Pedagogia,2017.0,1,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2009.0,1.0,,,
+,,,Matemática - Complementação Pedagógica,2018.0,1,Ciência Política,2010.0,1.0,,,
+,,,Pedagogia,2020.0,1,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2013.0,1.0,,,
+,,,Pedagogia Com Ênfase Ensino Religioso,2004.0,1,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2014.0,1.0,,,
+,,,Produção Editorial,1999.0,1,"Ciência E Tecnologia Das Radiações, Minerais E Materiais",2018.0,1.0,,,
+,,,Prog.esp. De Formação Pedagógica De Docentes,2009.0,1,Ciência E Tecnologia De Alimentos,2003.0,1.0,,,
+,,,Programa Esp. De Formação Pedagógica De Docentes,2010.0,1,Ciência E Tecnologia Dos Materiais,2014.0,1.0,,,
+,,,Programa Especial De Formação De Docente,1981.0,1,Ciência Florestal,1998.0,1.0,,,
+,,,Programa Especial De Formação De Docente,1988.0,1,Ciência Política,2008.0,1.0,,,
+,,,Programa Especial De Formação De Docente,1989.0,1,Ciências Da Computação,2003.0,1.0,,,
+,,,Programa Especial De Formação De Docente,1994.0,1,Ciências Da Computação,2005.0,1.0,,,
+,,,Nutrição,2007.0,1,Ciências Da Computação,2009.0,1.0,,,
+,,,Nutrição,2005.0,1,Ciências Sociais,2010.0,1.0,,,
+,,,Normalização E Qualidade Industrial,2006.0,1,Ciências Farmacêuticas,2001.0,1.0,,,
+,,,Música - Música Popular,2014.0,1,Ciências Farmacêuticas,2004.0,1.0,,,
+,,,Matemática - Licenciatura,2005.0,1,Ciências Farmacêuticas,2006.0,1.0,,,
+,,,Matemática - Licenciatura,2020.0,1,Ciências Farmacêuticas,2008.0,1.0,,,
+,,,Matemática - Licenciatura Ou Bacharelado,2004.0,1,Ciências Farmacêuticas,2011.0,1.0,,,
+,,,Matemática Computacional,1998.0,1,Ciências Farmacêuticas,2013.0,1.0,,,
+,,,Matemática Computacional,2001.0,1,Ciências Sociais,2008.0,1.0,,,
+,,,Matemática Computacional,2004.0,1,Ciências Técnicas Nucleares,1999.0,1.0,,,
+,,,Matemática Computacional,2010.0,1,Ciências E Tecnologias Espaciais,2014.0,1.0,,,
+,,,Matemática Licenciatura Plena,1999.0,1,Ciências Técnicas Nucleares,2000.0,1.0,,,
+,,,Matemática/bacharel,1998.0,1,Ciências Técnicas Nucleares,2006.0,1.0,,,
+,,,Medicina,2016.0,1,Ciências Técnicas Nucleares,2007.0,1.0,,,
+,,,Medicina Veterinária,1995.0,1,Ciências Técnicas Nucleares,2010.0,1.0,,,
+,,,Medicina Veterinária,2000.0,1,Ciências Técnicas Nucleares,2012.0,1.0,,,
+,,,Medicina Veterinária,2005.0,1,Ciências Técnicas Nucleares,2019.0,1.0,,,
+,,,Medicina Veterinária,2008.0,1,Computação,2007.0,1.0,,,
+,,,Medicina Veterinária,2016.0,1,Ciências E Técnicas Nucleares,2007.0,1.0,,,
+,,,Museologia,2009.0,1,Ciências Dos Materiais,2015.0,1.0,,,
+,,,Museologia,2017.0,1,Ciências Da Computação,2015.0,1.0,,,
+,,,Música - Composição,2012.0,1,Ciências Da Informação,2018.0,1.0,,,
+,,,"Música - Instrumentos De Corda, Sopro E Percussão",2010.0,1,Ciências Da Computação E Matemática Computacional,2013.0,1.0,,,
+,,,Farmácia Industrial,1988.0,1,Ciências Da Computação E Matemática Computacional,2016.0,1.0,,,
+,,,Engenharia Mecânica,1993.0,1,Ciências Da Computação E Matemática Computacional,2018.0,1.0,,,
+,,,Farmácia Com Habilitação Em Indústria,2003.0,1,Ciências Da Educação,1999.0,1.0,,,
+,,,Ciências Econômicas,1999.0,1,Ciências Da Informação,2003.0,1.0,,,
+,,,Ciências Econômicas,2006.0,1,Ciências Da Informação,2004.0,1.0,,,
+,,,Ciências Sociais,1978.0,1,Ciências Da Informação,2010.0,1.0,,,
+,,,Ciências Sociais,1991.0,1,Ciências Da Reabilitação,2015.0,1.0,,,
+,,,Ciências Sociais,2002.0,1,Ciências Dos Materiais,2010.0,1.0,,,
+,,,Ciências Sociais,2010.0,1,Ciências Da Saúde,2013.0,1.0,,,
+,,,Computação,2020.0,1,Ciências De Alimentos,2003.0,1.0,,,
+,,,Computer Science,2009.0,1,Ciências De Alimentos,2005.0,1.0,,,
+,,,Comunicação Social,1997.0,1,Ciências De Alimentos,2008.0,1.0,,,
+,,,Comunicação Social,2005.0,1,Ciências De Alimentos,2010.0,1.0,,,
+,,,Comunicação Social,2009.0,1,Ciências De Alimentos,2012.0,1.0,,,
+,,,Comunicação Social,2015.0,1,Ciências De Alimentos,2014.0,1.0,,,
+,,,Comunicação Social - Habilitação Em Jornalismo,2004.0,1,"Ciência E Tec. Das Radiações, Minerais E Materiais",2011.0,1.0,,,
+,,,Comunicação Social - Jornalismo,1999.0,1,Ciência Do Solo,1997.0,1.0,,,
+,,,Comunicação Social - Jornalismo,2007.0,1,Comunicação,2016.0,1.0,,,
+,,,Comunicação Social - Jornalismo,2009.0,1,Ciência De Alimentos,1994.0,1.0,,,
+,,,Comunicação Social - Publicidade E Propaganda,2004.0,1,Aqüicultura,2019.0,1.0,,,
+,,,Comunicação Social - Publicidade E Propaganda,2009.0,1,Arqueologia/artefact Studies,2013.0,1.0,,,
+,,,Comunicação Social - Relações Públicas,2007.0,1,Arquitetura,1998.0,1.0,,,
+,,,Comunicação Social / Relações Públicas,2008.0,1,Arquitetura,2004.0,1.0,,,
+,,,Ciências Econômicas,2004.0,1,Arquitetura,2005.0,1.0,,,
+,,,Ciências Econômicas,1998.0,1,Arquitetura,2013.0,1.0,,,
+,,,Ciência Da Computação,2012.0,1,Arquitetura,2015.0,1.0,,,
+,,,Ciências Econômicas,1982.0,1,Arquitetura,2016.0,1.0,,,
+,,,Ciência Da Computação,2018.0,1,Arquitetura,2017.0,1.0,,,
+,,,Ciência E Economia,2011.0,1,Arquitetura E Urbanismo,2004.0,1.0,,,
+,,,Ciências Biológicas,1997.0,1,Arquitetura E Urbanismo,2011.0,1.0,,,
+,,,Ciências Biológicas,2000.0,1,Artes,2008.0,1.0,,,
+,,,Ciências Biológicas,2001.0,1,Artes,2009.0,1.0,,,
+,,,Ciências Biológicas,2002.0,1,Artes,2010.0,1.0,,,
+,,,Ciências Biológicas,2004.0,1,Artes,2011.0,1.0,,,
+,,,Ciências Biológicas,2007.0,1,"Artes Plásticas, Visuais E Interartes",2017.0,1.0,,,
+,,,Ciências Biológicas,2011.0,1,Artes Visuais,2015.0,1.0,,,
+,,,Ciências Biológicas,2019.0,1,Análises Clínicas E Toxicológicas,2015.0,1.0,,,
+,,,Ciências Biológicas - Licenciatura,2006.0,1,Análise E Modelagem De Sistemas Ambientais,2019.0,1.0,,,
+,,,Ciências Biológicas - Licenciatura Plena,2000.0,1,Análise E Modelagem De Sistemas Ambientais,2009.0,1.0,,,
+,,,Ciências Biológicas E Programação Da Saúde,1997.0,1,Administração Pública,2005.0,1.0,,,
+,,,Ciências Biológicas Licenciatura,2001.0,1, De Pós-graduação Em Engenharia Metalúrgica E De Minas (cpgem),2012.0,1.0,,,
+,,,Ciências Biológicas/bacharelado Em Ecologia,1996.0,1,Administração,2005.0,1.0,,,
+,,,Ciências Contábeis,1976.0,1,Administração,2011.0,1.0,,,
+,,,Ciências Contábeis,2007.0,1,Administração,2013.0,1.0,,,
+,,,Ciências Da Computação,2005.0,1,Administração,2015.0,1.0,,,
+,,,Ciências Economicas,1990.0,1,Administração,2018.0,1.0,,,
+,,,Conservação E Restauração De Bens Culturais Móveis,2009.0,1,Administração De Empresas,2015.0,1.0,,,
+,,,Controle De Processos Industrais,2010.0,1,Administração Pública,2008.0,1.0,,,
+,,,Desenho Industrial,1992.0,1,Análise De Bacias E Faixas Móveis,2010.0,1.0,,,
+,,,Desenho Industrial - Hab. Projeto De Produto,1991.0,1,Agricultura Tropical E Sub Tropical,2013.0,1.0,,,
+,,,Eletrônica,1988.0,1,Agronomia (fitotecnia),1994.0,1.0,,,
+,,,Enfermagem,1998.0,1,Agronomia (solos E Nutrição De Plantas),2006.0,1.0,,,
+,,,Enfermagem,2008.0,1,Agroquímica,1999.0,1.0,,,
+,,,Eng Civil,1984.0,1,Agroquímica,2009.0,1.0,,,
+,,,Eng. Ind. Mecânica,1984.0,1,Agroquímica,2016.0,1.0,,,
+,,,Eng. Mecânica,1983.0,1,Antropologia,2015.0,1.0,,,
+,,,Engeharia Elétrica,1985.0,1,Bioinformática,2013.0,1.0,,,
+,,,Engeharia Mecanica,2007.0,1,Bioinformática,2014.0,1.0,,,
+,,,Engenhari Industrial Elétrica,2004.0,1,Biologia (ecologia),2005.0,1.0,,,
+,,,Engenhari Mecânica,1984.0,1,Ciência Da Computação,2005.0,1.0,,,
+,,,Engenharia,1962.0,1,"Ciên. E Tec. Das Radiações, Minerais E Materiais",2010.0,1.0,,,
+,,,Engenharia,1983.0,1,Ciênc.da Saúde (infectologia E Medicina Tropical),2006.0,1.0,,,
+,,,Engenharia Agronomica,2001.0,1,Ciência Animal,2008.0,1.0,,,
+,,,Engenharia Ambiental,2000.0,1,Ciência Animal (conceito Capes 6),2010.0,1.0,,,
+,,,Engenharia Ambiental,2002.0,1,Ciência Da Computação,1992.0,1.0,,,
+,,,Engenharia Ambiental,2003.0,1,Ciência Da Computação,2003.0,1.0,,,
+,,,Engenharia Ambiental,2005.0,1,Ciência Da Computação,2004.0,1.0,,,
+,,,Engenharia Ambiental,2009.0,1,Ciência Da Computação,2006.0,1.0,,,
+,,,Engenharia Ambiental E Sanitária,2012.0,1,Ciencias Geofisicas Geologicas,1993.0,1.0,,,
+,,,Electrical Engineering,2000.0,1,Ciência Da Computação,2008.0,1.0,,,
+,,,Electrical And Electronic Engineering,2014.0,1,Ciência Da Computação,2011.0,1.0,,,
+,,,Educação Física,2009.0,1,Ciência Da Computação,2014.0,1.0,,,
+,,,Direito,2002.0,1,Ciência Da Computação,2015.0,1.0,,,
+,,,Desenho Industrial - Projeto De Produto,2003.0,1,Ciência Da Informação,2007.0,1.0,,,
+,,,Desenho Industrial -habilitação Projeto De Produto,1998.0,1,Ciência Da Nutrição,2003.0,1.0,,,
+,,,Design De Ambientes,2009.0,1,Ciência Das Tec Das Radiações Minerais E Materiais,2005.0,1.0,,,
+,,,Design De Produto,2007.0,1,Civil And Structural Engineering,2004.0,1.0,,,
+,,,Design De Produto,2008.0,1,Ciencia E Tecnologia Dos Materiais,2007.0,1.0,,,
+,,,Design Gráfico,2003.0,1,Biologia Animal,2002.0,1.0,,,
+,,,Direito,1990.0,1,Biologia Vegetal,2014.0,1.0,,,
+,,,Direito,1999.0,1,Biologia Celular,2011.0,1.0,,,
+,,,Direito,2003.0,1,Biologia Celular,2017.0,1.0,,,
+,,,Educação Física,2005.0,1,Biologia Celular,2018.0,1.0,,,
+,,,Direito,2006.0,1,"Biologia Celular E Molecular, Genômica E Proteômica De Tripanosomatídeos",2018.0,1.0,,,
+,,,Direito,2008.0,1,Biologia Comparada,2006.0,1.0,,,
+,,,Direito,2011.0,1,Biologia Computacional E Sistemas,2014.0,1.0,,,
+,,,Ecologia,2005.0,1,Biologia Vegetal,2010.0,1.0,,,
+,,,Educação Artística,1988.0,1,Bioquimica Agricola,2012.0,1.0,,,
+,,,Educação Artística (licenciatura),1993.0,1,Ciencia E Tecnologia Das Radiações E Materiais,2008.0,1.0,,,
+,,,Educação Artística - Música,2003.0,1,Bioquímica E Imunologia,2002.0,1.0,,,
+,,,Educação Física,2002.0,1,Bioquímica E Imunologia,2017.0,1.0,,,
+,,,Ciência Da Computação,2013.0,1,Bioquímica E Imunologia,2019.0,1.0,,,
+,,,Ciência Da Computação,2005.0,1,Biotecnologia,2016.0,1.0,,,
+,,,Farmácia,2012.0,1,Botânica,2014.0,1.0,,,
+,,,Administração De Empresas,1996.0,1,"C & T Das Radiações, Minerais E Materiais",2006.0,1.0,,,
+,,,Administração Em Análise De Sistema,2002.0,1,"C&t Das Radiações, Minerais E Materiais",2005.0,1.0,,,
+,,,Administração Pública,1995.0,1,Computação Aplicada,2011.0,1.0,,,
+,,,Administração Pública,2014.0,1,Comunicação Social,2000.0,1.0,,,
+,,,Agronomia,1992.0,1,Engenharia Metalúrgica E De Minas,2012.0,1.0,,,
+,,,Agronomia,1995.0,1,Engenharia Civil - Saneamento Ambiental,2006.0,1.0,,,
+,,,Agronomia,2000.0,1,"Engenharia De Minas, Metalúrgica E De Materiais",2016.0,1.0,,,
+,,,Agronomia,2007.0,1,Engenharia De Processos,2009.0,1.0,,,
+,,,Agronomia,2008.0,1,Engenharia De Produção,2003.0,1.0,,,
+,,,Agronomia,2009.0,1,Engenharia De Produção,2004.0,1.0,,,
+,,,Análise E Desenvolvimento De Sistemas,2007.0,1,Engenharia De Produção,2005.0,1.0,,,
+,,,Análise E Desenvolvimento De Sistemas,2011.0,1,Engenharia De Produção,2010.0,1.0,,,
+,,,Análise E Desenvolvimento De Sistemas,2014.0,1,Engenharia De Produção,2019.0,1.0,,,
+,,,Aquacultura,2010.0,1,Engenharia De Produção - Produção E Logística,2009.0,1.0,,,
+,,,Arquitetura,1989.0,1,Engenharia De Produção Com Ênfase Em Marketing Estratégico,2000.0,1.0,,,
+,,,Arquitetura,2002.0,1,Engenharia De Produção E Sistemas,1995.0,1.0,,,
+,,,Arquitetura E Urbanismo,1974.0,1,Engenharia De Recursos Hídricos,2005.0,1.0,,,
+,,,Arquitetura E Urbanismo,1978.0,1,Engenharia De Transportes,1990.0,1.0,,,
+,,,Arquitetura E Urbanismo,1986.0,1,Engenharia De Transportes,1991.0,1.0,,,
+,,,Arquitetura E Urbanismo,1987.0,1,Engenharia De Transportes,2017.0,1.0,,,
+,,,Administração De Empresas,2001.0,1,Engenharia E Gestão De Processos E Sistemas,2014.0,1.0,,,
+,,,Administração De Empresas,1995.0,1,Engenharia Eletrica,1989.0,1.0,,,
+,,,Ciência Da Computação,1995.0,1,Engenharia Eletrônica,2016.0,1.0,,,
+,,,Administração De Empresas,1990.0,1,Engenharia De Materiais De Construção Civil,2006.0,1.0,,,
+,,, Especial De Formação De Professores,1994.0,1,Engenharia De Materiais,2019.0,1.0,,,
+,,, Superior De Tecnologia Em Gestão De Rh,2006.0,1,Engenharia De Materiais,2003.0,1.0,,,
+,,,(bacharelado) Ciências Bioloógicas,2005.0,1,Engenharia De Energia,2016.0,1.0,,,
+,,,Abi - Ciências Biológicas,2014.0,1,Engenharia Da Computação E Modelagem Matemática,2017.0,1.0,,,
+,,,Abi - Ciências Sociais,2002.0,1,Engenharia Da Energia,2008.0,1.0,,,
+,,,Abi - Química,1993.0,1,Engenharia Da Energia,2015.0,1.0,,,
+,,,Administração,1993.0,1,Engenharia Da Energia - Cefet/mg - Ufsj,2012.0,1.0,,,
+,,,Administração,1994.0,1,Engenharia Da Energia - Cefet/mg - Ufsj,2013.0,1.0,,,
+,,,Administração,1998.0,1,Engenharia De Alimentos,2005.0,1.0,,,
+,,,Administração,1999.0,1,Engenharia De Defesa,2019.0,1.0,,,
+,,,Administração,2000.0,1,Engenharia De Estruturas,2000.0,1.0,,,
+,,,Administração,2001.0,1,Engenharia De Materiais,1998.0,1.0,,,
+,,,Administração,2002.0,1,Engenharia De Estruturas,2001.0,1.0,,,
+,,,Administração,2006.0,1,Engenharia De Estruturas,2003.0,1.0,,,
+,,,Administração,2009.0,1,Engenharia De Estruturas,2008.0,1.0,,,
+,,,Administração,2012.0,1,Engenharia De Estruturas,2010.0,1.0,,,
+,,,Administração - Ênfase Em Comércio Exterior,1989.0,1,Engenharia De Estruturas,2015.0,1.0,,,
+,,,Administração Comercio Exterior,1982.0,1,Engenharia De Estruturas,2016.0,1.0,,,
+,,,Administração De Empresa,1988.0,1,Engenharia De Estruturas,2018.0,1.0,,,
+,,,Arquitetura E Urbanismo,1988.0,1,Engenharia Eletrônica E Computação,1992.0,1.0,,,
+,,,Arquitetura E Urbanismo,1997.0,1,Engenharia Eletrônica E Computação,2007.0,1.0,,,
+,,,Arquitetura E Urbanismo,1998.0,1,Engenharia Elétrica,1984.0,1.0,,,
+,,,Arquitetura E Urbanismo,2000.0,1,Engenharia Metalúrgica E De Minas,1991.0,1.0,,,
+,,,Biologia,1986.0,1,Engenharia Mecânica [sp-capital],1993.0,1.0,,,
+,,,Biomedicina,2013.0,1,Engenharia Mecänica,1989.0,1.0,,,
+,,,Biomedicina (bolsista Integral - Prouni),2005.0,1,Engenharia Metalúrgica E De Materiais,2016.0,1.0,,,
+,,,Bioquimica,2011.0,1,Engenharia Metalúrgica E De Minas,1978.0,1.0,,,
+,,,Bioquímica,2006.0,1,Engenharia Metalúrgica E De Minas,1984.0,1.0,,,
+,,,Bioquímica,2012.0,1,Engenharia Metalúrgica E De Minas,1987.0,1.0,,,
+,,,Bsc In Management Studies And Operations Research,2006.0,1,Engenharia Metalúrgica E De Minas,1988.0,1.0,,,
+,,,Ciencia Da Computacao,1978.0,1,Engenharia Metalúrgica E De Minas,1992.0,1.0,,,
+,,,Ciencia Da Computacao,1999.0,1,Engenharia Mecânica,2011.0,1.0,,,
+,,,Ciencia Da Computação,1992.0,1,Engenharia Metalúrgica E De Minas,1993.0,1.0,,,
+,,,Ciencias Biologicas,2005.0,1,Engenharia Metalúrgica E De Minas,1996.0,1.0,,,
+,,,Ciencias Biologicas,2006.0,1,Engenharia Metalúrgica E De Minas,1997.0,1.0,,,
+,,,Ciencias Biologicas,2009.0,1,Engenharia Metalúrgica E De Minas,1998.0,1.0,,,
+,,,Ciencias Biológicas,2006.0,1,Engenharia Metalúrgica E De Minas,2002.0,1.0,,,
+,,,Ciencias Sociais,2005.0,1,Engenharia Metalúrgica E De Minas,2004.0,1.0,,,
+,,,Cinema E Audiovisual,2010.0,1,Engenharia Metalúrgica E De Minas,2008.0,1.0,,,
+,,,Ciência Da Computação,1988.0,1,Engenharia Mecânica,2012.0,1.0,,,
+,,,Ciência Da Computação,1990.0,1,Engenharia Mecânica,2009.0,1.0,,,
+,,,Ciência Da Computação,1991.0,1,Engenharia Elétrica,1990.0,1.0,,,
+,,,Biblioteconomia E Ciência Da Informação,1998.0,1,Engenharia Elétrica - Cefet/mg - Ufsj,2012.0,1.0,,,
+,,,Biblioteconomia,1981.0,1,Engenharia Elétrica,1991.0,1.0,,,
+,,,Biblioteconomia,1975.0,1,Engenharia Elétrica,1997.0,1.0,,,
+,,,Artes Cênicas,2006.0,1, De Ciências E Técnicas Nucleares,2007.0,1.0,,,
+,,,Arquitetura E Urbanismo,2001.0,1,Engenharia Elétrica,2019.0,1.0,,,
+,,,Arquitetura E Urbanismo,2006.0,1,Engenharia Elétrica (cefet Mg/ufsj),2015.0,1.0,,,
+,,,Arquitetura E Urbanismo,2008.0,1,Engenharia Elétrica (ufsj / Cefet-mg),2010.0,1.0,,,
+,,,Arquitetura E Urbanismo,2010.0,1,Engenharia Elétrica (ufsj / Cefet-mg),2015.0,1.0,,,
+,,,Arquitetura E Urbanismo,2011.0,1,Engenharia Elétrica - Modelagem E Sistemas De Controle,2017.0,1.0,,,
+,,,Arquitetura E Urbanismo,2012.0,1,Engenharia Mecânica,2004.0,1.0,,,
+,,,Arquitetura E Urbanismo,2015.0,1,Engenharia Elétrica E De Computação,2005.0,1.0,,,
+,,,Artes Cênicas,2002.0,1,Engenharia Elétrica E Informática Industrial,2015.0,1.0,,,
+,,,Artes Plásticas,2007.0,1,Engenharia Geotécnica,2012.0,1.0,,,
+,,,Bacharelado Interdisciplinar Em Biossistemas,2009.0,1,Engenharia Hidráulica E Saneamento,2017.0,1.0,,,
+,,,Artes Visuais,2016.0,1,Engenharia Mecânica,1984.0,1.0,,,
+,,,Artes Visuais,2019.0,1,Engenharia Mecânica,1995.0,1.0,,,
+,,,Artes Visuais - Desenho,2008.0,1,Engenharia Mecânica,1998.0,1.0,,,
+,,,Artes Visuais - Pintura,2009.0,1,Engenharia Civil - Área De Concetração Estruturas,2010.0,1.0,,,
+,,,Arts And Humanities,2007.0,1,Engenharia Civil - Ecv/ufsc,2007.0,1.0,,,
+,,,Bacharel Ciência Da Computação,2005.0,1,Comunicação Social,2001.0,1.0,,,
+,,,Bacharel Em Teologia,1995.0,1,Engenharia Civil - Concentração Estruturas,2009.0,1.0,,,
+,,,Bacharel Química,1964.0,1,"Ecologia, Conservacao E Manejo Da Vida Silvestre",2006.0,1.0,,,
+,,,Engenharia Ambiental E Sanitária,2013.0,1,"Ecologia, Conservacao E Manejo Da Vida Silvestre",2007.0,1.0,,,
+,,,Engenharia Civil,1988.0,1,"Ecologia, Conservacao E Manejo Da Vida Silvestre",2009.0,1.0,,,
+,,,Engenharia Civil,1992.0,1,Economia,2003.0,1.0,,,
+,,,Engenharia Mecatrônica,2011.0,1,Economia,2004.0,1.0,,,
+,,,Engenharia Mecânica,1976.0,1,Economia,2010.0,1.0,,,
+,,,Engenharia Mecânica,1979.0,1,Economia,2011.0,1.0,,,
+,,,Engenharia Mecânica,1986.0,1,Economia Aplicada,2003.0,1.0,,,
+,,,Engenharia Mecânica,1987.0,1,Economia Doméstica,2008.0,1.0,,,
+,,,Engenharia Mecânica,1989.0,1,Educação,2003.0,1.0,,,
+,,,Engenharia Mecânica,1991.0,1,Educação,2005.0,1.0,,,
+,,, De Licenciatura Esquema 2,1990.0,1,Educação,2006.0,1.0,,,
+,,,Engenharia Mecânica,1996.0,1,Educação,2008.0,1.0,,,
+,,,Engenharia Mecânica,1998.0,1,Educação,2009.0,1.0,,,
+,,,Engenharia Mecânica,2006.0,1,Educação,2011.0,1.0,,,
+,,,Engenharia Mecânica,2012.0,1,Educação,2012.0,1.0,,,
+,,,Engenharia Mecânica,2014.0,1,Educação,2014.0,1.0,,,
+,,,Engenharia Mecânica,2020.0,1,Ecologia De Biomas Tropicais,2015.0,1.0,,,
+,,,Engenharia Mecânica,2021.0,1,Ecologia (conservação E Manejo Da Vida Silvestre),2014.0,1.0,,,
+,,,Engenharia Mecânica (ênfase Mecatrônica),1999.0,1,Ecologia (conservação E Manejo Da Vida Silvestre),2001.0,1.0,,,
+,,,Engenharia Mecânica / Aeronáutica,1999.0,1,Demografia,2008.0,1.0,,,
+,,,Engenharia Mecânica Com Ênfase Mecatrônica,1996.0,1,Comunicação Social,2014.0,1.0,,,
+,,,Engenharia Mecânica Enfase Em Automação E Sistemas,2000.0,1,Comunicação Social,2017.0,1.0,,,
+,,,Engenharia Metalurgica,1997.0,1,Construção Civil,2006.0,1.0,,,
+,,,Engenharia Mecânica,1975.0,1,Construção Civil,2011.0,1.0,,,
+,,,Engenharia Mecatrônica,2010.0,1,Construção Civil,2012.0,1.0,,,
+,,,Engenharia Civil,1994.0,1,Construção Civil,2013.0,1.0,,,
+,,,Engenharia Mecatrônica,2002.0,1,Demografia,1997.0,1.0,,,
+,,,Engenharia Industrial Mecanica,1990.0,1,Desenvolvimento E Meio Ambiente,2012.0,1.0,,,
+,,,Engenharia Industrial Mecanica,2001.0,1,Ecologia (conservação E Manejo Da Vida Silvestre),1999.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1981.0,1,"Desenvolvimento, Tecnologias E Sociedade",2015.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1982.0,1,Direito,2007.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1983.0,1,Direito,2010.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1985.0,1,Direito,2013.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1988.0,1,Direito Ambiental E Desenvolvimento Sustentável,2014.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1990.0,1,Direito Internacional Publico,1998.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1995.0,1,Ecologia,2019.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1996.0,1,Educação,2017.0,1.0,,,
+,,,Engenharia Industrial Mecânica,1998.0,1,Educação,2019.0,1.0,,,
+,,,Engenharia Industrial Mecânica,2009.0,1,Educação E Docência/mp,2014.0,1.0,,,
+,,,Engenharia Insutrial Eletrica,1974.0,1,Engenharia Ambiental,2013.0,1.0,,,
+,,,Engenharia Mecanica,1985.0,1,Engenharia Agrícola,2014.0,1.0,,,
+,,,Engenharia Mecanica,1992.0,1,Engenharia Agrícola,2016.0,1.0,,,
+,,,Engenharia Mecanica,1994.0,1,Engenharia Ambiental,1993.0,1.0,,,
+,,,Engenharia Mecanica,1998.0,1,Engenharia Ambiental,2006.0,1.0,,,
+,,,Engenharia Mecanica E De Automóveis,1994.0,1,Engenharia Ambiental,2009.0,1.0,,,
+,,,Engenharia Mecatrônica,1998.0,1,Engenharia Ambiental,2010.0,1.0,,,
+,,,Engenharia Metalurgica,2006.0,1,Engenharia Ambiental,2012.0,1.0,,,
+,,,Engenharia Metalúrgica,1972.0,1,Engenharia Ambiental,2014.0,1.0,,,
+,,,Engenharia Metalúrgica,1989.0,1,Engenharia Agrícola,2006.0,1.0,,,
+,,,Engenharia Metalúrgica,2006.0,1,Engenharia Ambiental,2018.0,1.0,,,
+,,,Estatística,2005.0,1,Engenharia Biomédica,2006.0,1.0,,,
+,,,Estatística,2006.0,1,Engenharia Biomédica,2019.0,1.0,,,
+,,,Estatística,2008.0,1,Engenharia Civil,1992.0,1.0,,,
+,,,Estatística,2009.0,1,Engenharia Civil,2012.0,1.0,,,
+,,,Estatística,2018.0,1,Engenharia Civil,2017.0,1.0,,,
+,,,Estudos Lingüísticos,2010.0,1,Engenharia Civil,2019.0,1.0,,,
+,,,Exchange Program In Environmental Sciences,2007.0,1,Engenharia Agrícola,2011.0,1.0,,,
+,,,Famácia,2007.0,1,Engenharia Agrícola,2005.0,1.0,,,
+,,,Farmacia Bioquímica,2003.0,1,Educação Em Ciências,2003.0,1.0,,,
+,,,Farmácia,1984.0,1,Educação Tecnológica,2005.0,1.0,,,
+,,,Farmácia,1985.0,1,Educação Física,2004.0,1.0,,,
+,,,Farmácia,1989.0,1,Educação Física,2007.0,1.0,,,
+,,,Farmácia,1997.0,1,Educação Física,2009.0,1.0,,,
+,,,Farmácia,1998.0,1,Educação Tecnológica,1990.0,1.0,,,
+,,,Farmácia,2002.0,1,Educação Tecnológica,1998.0,1.0,,,
+,,,Farmácia,2003.0,1,Educação Tecnológica,1999.0,1.0,,,
+,,,Farmácia,2007.0,1,Educação Tecnológica,2004.0,1.0,,,
+,,,Farmácia,2008.0,1,Educação Tecnológica,2019.0,1.0,,,
+,,,Farmácia,2010.0,1,Engenharia Aeronâutica E Mecânica,2016.0,1.0,,,
+,,,Estatística,2003.0,1,Educação Tecnológica - Disciplina Isolada Tópicos,2007.0,1.0,,,
+,,,Estatística,1997.0,1,Enfermagem,2004.0,1.0,,,
+,,,Estatística,1994.0,1,Enfermagem,2015.0,1.0,,,
+,,,Engenharia Química,1991.0,1,Enfermagem,2016.0,1.0,,,
+,,,Engenharia Metalúrgica,2008.0,1,Enfermagem,2018.0,1.0,,,
+,,,Engenharia Metalúrgica,2010.0,1,Engenharia Aeronâutica E Mecânica,2003.0,1.0,,,
+,,,Engenharia Metalúrgica,2012.0,1,Engenharia Aeronâutica E Mecânica,2006.0,1.0,,,
+,,,Engenharia Operacional Elétrica,1976.0,1,Zootecnia,2015.0,1.0,,,
+,,,Engenharia Plena,1987.0,1,,,,,,
+,,,Engenharia Quimica,1986.0,1,,,,,,
+,,,Engenharia Química,1969.0,1,,,,,,
+,,,Engenharia Química,1985.0,1,,,,,,
+,,,Engenharia Química,1992.0,1,,,,,,
+,,,Estatística,1989.0,1,,,,,,
+,,,Engenharia Química,1999.0,1,,,,,,
+,,,Engenharia Química,2000.0,1,,,,,,
+,,,Engenharia Química,2003.0,1,,,,,,
+,,,Engenharia Química,2007.0,1,,,,,,
+,,,Engenharia Química,2011.0,1,,,,,,
+,,,Engenharia Sanitária E Ambiental,2000.0,1,,,,,,
+,,,Engenharia Sanitária E Ambiental,2002.0,1,,,,,,
+,,,Engenharia Sanitária E Ambiental,2020.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,2006.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,2005.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,2004.0,1,,,,,,
+,,,Engenharia Eletrica,2007.0,1,,,,,,
+,,,Engenharia De Minas,2012.0,1,,,,,,
+,,,Engenharia De Operação Elétrica,1977.0,1,,,,,,
+,,,Engenharia De Operação Mecânica,1974.0,1,,,,,,
+,,,Engenharia De Operações Mecânica,1977.0,1,,,,,,
+,,,Engenharia De Produção,1999.0,1,,,,,,
+,,,Engenharia De Produção,2001.0,1,,,,,,
+,,,Engenharia De Produção,2008.0,1,,,,,,
+,,,Engenharia De Produção,2011.0,1,,,,,,
+,,,Engenharia De Produção,2013.0,1,,,,,,
+,,,Engenharia De Produção - Agroindústria,2010.0,1,,,,,,
+,,,Engenharia De Produção Civil,2011.0,1,,,,,,
+,,,Engenharia De Produção Civil,2013.0,1,,,,,,
+,,,Engenharia De Produção E Engenharia Civil,2002.0,1,,,,,,
+,,,Engenharia De Telecomunicações,2005.0,1,,,,,,
+,,,Engenharia De Transportes,2015.0,1,,,,,,
+,,,Engenharia Eletrica,1968.0,1,,,,,,
+,,,Engenharia Eletrica,1986.0,1,,,,,,
+,,,Engenharia Eletrica,1987.0,1,,,,,,
+,,,Engenharia Eletrica,1991.0,1,,,,,,
+,,,Engenharia De Minas,1983.0,1,,,,,,
+,,,Engenharia De Materiais,2015.0,1,,,,,,
+,,,Engenharia De Materiais,2010.0,1,,,,,,
+,,,Engenharia De Automação Industrial,2007.0,1,,,,,,
+,,,Engenharia Civil,1995.0,1,,,,,,
+,,,Engenharia Civil,2003.0,1,,,,,,
+,,,Engenharia Civil,2004.0,1,,,,,,
+,,,Engenharia Civil,2005.0,1,,,,,,
+,,,Engenharia Civil,2011.0,1,,,,,,
+,,,Engenharia Civil,2013.0,1,,,,,,
+,,,Engenharia De Alimentos,2003.0,1,,,,,,
+,,,Engenharia De Automação Industrial,2006.0,1,,,,,,
+,,,Engenharia De Automação Industrial,2020.0,1,,,,,,
+,,,Engenharia De Materiais,2005.0,1,,,,,,
+,,,Engenharia De Computação,2009.0,1,,,,,,
+,,,Engenharia De Controle E Automação,1994.0,1,,,,,,
+,,,Engenharia De Controle E Automação,2001.0,1,,,,,,
+,,,Engenharia De Controle E Automação,2003.0,1,,,,,,
+,,,Engenharia De Controle E Automação,2007.0,1,,,,,,
+,,,Engenharia De Energia,2008.0,1,,,,,,
+,,,Engenharia De Energia,2014.0,1,,,,,,
+,,,Engenharia De Infra Estrutura Aeronáutica,2002.0,1,,,,,,
+,,,Engenharia Eletrica,1993.0,1,,,,,,
+,,,Engenharia Eletrica,2008.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1998.0,1,,,,,,
+,,,Engenharia Eletronica E De Telecomunicacao,2001.0,1,,,,,,
+,,,Engenharia Elétrica - Energia,2010.0,1,,,,,,
+,,,Engenharia Elétrica Industrial,2005.0,1,,,,,,
+,,,Engenharia Elétrica Sistemas Eletrônicos E Telecom,1991.0,1,,,,,,
+,,,Engenharia Elétricva,1986.0,1,,,,,,
+,,,Engenharia Florestal,2010.0,1,,,,,,
+,,,Engenharia Florestal,2011.0,1,,,,,,
+,,,Engenharia Geológica,2005.0,1,,,,,,
+,,,Engenharia Geológica,2009.0,1,,,,,,
+,,,Engenharia Industrial Eletrica,1985.0,1,,,,,,
+,,,Engenharia Industrial Eletrica,1994.0,1,,,,,,
+,,,Engenharia Industrial Eletrica,1995.0,1,,,,,,
+,,,Engenharia Industrial Eletrica,1996.0,1,,,,,,
+,,,Engenharia Industrial Eletrica,2005.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1982.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1983.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1984.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1987.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1992.0,1,,,,,,
+,,,Engenharia Industrial Elétrica,1994.0,1,,,,,,
+,,,Engenharia Elétrica,2014.0,1,,,,,,
+,,,Engenharia Elétrica,2002.0,1,,,,,,
+,,,Engenharia Elétrica,1997.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomunicações,2006.0,1,,,,,,
+,,,Engenharia Eletronica E Telecomunicação,2000.0,1,,,,,,
+,,,Engenharia Eletrônica,2003.0,1,,,,,,
+,,,Engenharia Eletrônica,2006.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomuniações,1995.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomunicação,2008.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomunicações,1997.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomunicações,2000.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomunicações,2004.0,1,,,,,,
+,,,Engenharia Eletrônica E De Telecomunicações,2008.0,1,,,,,,
+,,,Engenharia Elétrica,1996.0,1,,,,,,
+,,,Engenharia Elétrica,1966.0,1,,,,,,
+,,,Engenharia Elétrica,1970.0,1,,,,,,
+,,,Engenharia Elétrica,1977.0,1,,,,,,
+,,,Engenharia Elétrica,1978.0,1,,,,,,
+,,,Engenharia Elétrica,1979.0,1,,,,,,
+,,,Engenharia Elétrica,1980.0,1,,,,,,
+,,,Engenharia Elétrica,1986.0,1,,,,,,
+,,,Engenharia Elétrica,1989.0,1,,,,,,
+,,,Zootecnia,1998.0,1,,,,,,

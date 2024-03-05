@@ -28,6 +28,10 @@ _search about 'Open Refine'_
 - [x] Caracterização do grande de volume de dados (Por cada nível de formação -> Quantos concluíram)
 - [x] Quantitativo do CEFET (Indivíduos do CEFET que formaram (concluintes) em cada nível de formação)
 
+# 16/11/2023
+- [ ] Conclusão de Artigo
+- [ ] Características dos nós
+
 ## References
 
 **Nerd dos Dados:** Heatmap, map and address.
