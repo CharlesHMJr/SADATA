@@ -1,0 +1,2251 @@
+Cidade de Origem,Estado de Origem,Quantidade
+Rio de Janeiro,RJ,1524
+São Paulo,SP,1481
+Porto Alegre,RS,601
+Belo Horizonte,MG,529
+Recife,PE,345
+Fortaleza,CE,292
+Curitiba,PR,202
+Ribeirão Preto,SP,186
+Campinas,SP,185
+Salvador,BA,168
+Belém,PA,143
+Sao Paulo,SP,128
+Pelotas,RS,124
+São Carlos,SP,114
+Niterói,RJ,113
+Brasília,DF,111
+Santa Maria,RS,108
+Goiânia,GO,104
+Piracicaba,SP,97
+Santos,SP,97
+Natal,RN,86
+Juiz de Fora,MG,82
+Botucatu,SP,77
+Araraquara,SP,76
+São José do Rio Preto,SP,76
+Campina Grande,PB,73
+Florianópolis,SC,73
+Maringá,PR,72
+João Pessoa,PB,68
+Bauru,SP,63
+Londrina,PR,61
+RIO DE JANEIRO,RJ,58
+Maceió,AL,56
+Lavras,MG,56
+Vitória,ES,55
+Rio Claro,SP,53
+Uberlândia,MG,51
+Caxias do Sul,RS,51
+Rio Grande,RS,47
+Viçosa,MG,46
+Santo André,SP,42
+Presidente Prudente,SP,41
+Sorocaba,SP,38
+São José dos Campos,SP,37
+Franca,SP,36
+Aracaju,SE,34
+Ponta Grossa,PR,33
+São Caetano do Sul,SP,32
+Uberaba,MG,31
+Montes Claros,MG,31
+Manaus,AM,30
+BELO HORIZONTE,MG,30
+Marília,SP,30
+SÃO PAULO,SP,29
+Teresina,PI,29
+RECIFE,PE,28
+Santa Cruz do Sul,RS,27
+Jaboticabal,SP,27
+Passo Fundo,RS,27
+FORTALEZA,CE,26
+Erechim,RS,26
+Blumenau,SC,25
+São Luís,MA,25
+Campo Grande,MS,25
+Petrópolis,RJ,24
+Cruz Alta,RS,24
+Brasilia,DF,24
+Jundiaí,SP,24
+Araçatuba,SP,23
+PORTO ALEGRE,RS,23
+Colatina,ES,22
+Jaú,SP,22
+Araguari,MG,22
+Governador Valadares,MG,22
+Limeira,SP,22
+Volta Redonda,RJ,21
+Bagé,RS,21
+Divinópolis,MG,21
+Joinville,SC,21
+Cachoeira do Sul,RS,20
+Ipatinga,MG,20
+Araras,SP,20
+Lages,SC,20
+Catanduva,SP,20
+Guarulhos,SP,20
+Cuiabá,MT,20
+Barretos,SP,20
+Ijuí,RS,19
+São Gonçalo,RJ,19
+Bento Gonçalves,RS,18
+Campos dos Goytacazes,RJ,18
+Anápolis,GO,18
+Lajeado,RS,17
+Santo Ângelo,RS,17
+São Bernardo do Campo,SP,17
+Uruguaiana,RS,16
+Pirassununga,SP,16
+Cachoeiro de Itapemirim,ES,16
+Resende,RJ,16
+Poços de Caldas,MG,16
+Novo Hamburgo,RS,16
+Niteroi,RJ,16
+Alegre,ES,16
+Olinda,PE,16
+Cascavel,PR,16
+Mogi das Cruzes,SP,16
+Varginha,MG,15
+Sertãozinho,SP,14
+Itajubá,MG,14
+Osasco,SP,14
+Rio de janeiro,RJ,14
+Barbacena,MG,14
+Batatais,SP,14
+Caruaru,PE,14
+Alegrete,RS,14
+Nova Friburgo,RJ,14
+Ponte Nova,MG,14
+Criciúma,SC,14
+Ituiutaba,MG,14
+SAO PAULO,SP,14
+Mossoró,RN,14
+Santa Rosa,RS,14
+Americana,SP,13
+Umuarama,PR,13
+SALVADOR,BA,13
+Bragança Paulista,SP,13
+Assis,SP,13
+CURITIBA,PR,13
+CAMPINAS,SP,13
+São Leopoldo,RS,13
+Ubá,MG,12
+Passos,MG,12
+Santarém,PA,12
+Mogi Mirim,SP,12
+Belem,PA,12
+Taubaté,SP,12
+João Monlevade,MG,12
+Alfenas,MG,11
+Joaçaba,SC,11
+Patos de Minas,MG,11
+Duque de Caxias,RJ,11
+Estrela,RS,11
+Patos,PB,11
+Paraguaçu Paulista,SP,11
+Taquara,RS,11
+Juazeiro do Norte,CE,11
+Coronel Fabriciano,MG,11
+Concórdia,SC,11
+Atibaia,SP,11
+Tupã,SP,11
+Carazinho,RS,11
+Rio do Sul,SC,11
+Apucarana,PR,11
+Itapira,SP,11
+Santiago,RS,11
+Toledo,PR,11
+Três Rios,RJ,11
+Itapetininga,SP,10
+Bambuí,MG,10
+Pará de Minas,MG,10
+Feira de Santana,BA,10
+Sousa,PB,10
+Sete Lagoas,MG,10
+Itapeva,SP,10
+Nova Iguaçu,RJ,10
+Teófilo Otoni,MG,10
+São João del Rei,MG,10
+Pouso Alegre,MG,10
+Corumbá,MS,10
+Visconde do Rio Branco,MG,10
+Caratinga,MG,10
+Itabuna,BA,10
+Vacaria,RS,10
+Contagem,MG,10
+Jales,SP,10
+Penápolis,SP,10
+Vitória da Conquista,BA,10
+Adamantina,SP,10
+Espírito Santo do Pinhal,SP,10
+Venâncio Aires,RS,10
+Taquaritinga,SP,10
+Fernandópolis,SP,9
+PIRACICABA,SP,9
+Iguatu,CE,9
+Olímpia,SP,9
+Ribeirao Preto,SP,9
+Castelo,ES,9
+São Borja,RS,9
+Ouro Preto,MG,9
+Foz do Iguaçu,PR,9
+Cajazeiras,PB,9
+Cambé,PR,9
+BELÉM,PA,9
+Jequié,BA,9
+Garibaldi,RS,9
+Garanhuns,PE,9
+Marialva,PR,9
+Conselheiro Lafaiete,MG,9
+Itápolis,SP,9
+Lins,SP,9
+Bebedouro,SP,9
+Lorena,SP,9
+Farroupilha,RS,8
+Paranavaí,PR,8
+São Luiz Gonzaga,RS,8
+São Luis,MA,8
+SANTA MARIA,RS,8
+Chapecó,SC,8
+Joao Pessoa,PB,8
+São Pedro do Sul,RS,8
+NATAL,RN,8
+Três Passos,RS,8
+JUIZ DE FORA,MG,8
+Canoas,RS,8
+Ibitinga,SP,8
+Caçador,SC,8
+Ilhéus,BA,8
+Montenegro,RS,8
+Santa Rita do Passa Quatro,SP,8
+Campos,RJ,8
+Nova Palma,RS,8
+Três Lagoas,MS,8
+Leme,SP,8
+Valinhos,SP,8
+Matão,SP,8
+Cruzeiro,SP,8
+Bariri,SP,8
+Goiania,GO,8
+Garça,SP,8
+Itabirito,MG,8
+Medianeira,PR,8
+Encantado,RS,7
+Andradas,MG,7
+Itatiba,SP,7
+Arcoverde,PE,7
+São Bento do Sul,SC,7
+Piraju,SP,7
+Campo Belo,MG,7
+Nova Prata,RS,7
+Caçapava,SP,7
+Andradina,SP,7
+Itabaiana,SE,7
+Mandaguari,PR,7
+Itabira,MG,7
+Itapiranga,SC,7
+Júlio de Castilhos,RS,7
+Descalvado,SP,7
+Rio Negro,PR,7
+São José do Rio Pardo,SP,7
+Valença,RJ,7
+Frederico Westphalen,RS,7
+RIBEIRÃO PRETO,SP,7
+Palmeira das Missões,RS,7
+Birigui,SP,7
+São João da Boa Vista,SP,7
+Rancharia,SP,7
+Tubarão,SC,7
+Arapongas,PR,7
+Cianorte,PR,7
+Santana do Livramento,RS,7
+Capivari,SP,7
+Florianopolis,SC,6
+São Vicente,SP,6
+Bom Jesus,RS,6
+Porto Ferreira,SP,6
+Piumhi,MG,6
+Faxinal do Soturno,RS,6
+Votuporanga,SP,6
+Veranópolis,RS,6
+Dom Pedrito,RS,6
+Amparo,SP,6
+Diamantina,MG,6
+Panambi,RS,6
+Currais Novos,RN,6
+Brusque,SC,6
+Crato,CE,6
+Itajaí,SC,6
+Tuparendi,RS,6
+CAMPINA GRANDE,PB,6
+São Gabriel,RS,6
+Guararapes,SP,6
+CAXIAS DO SUL,RS,6
+Casa Branca,SP,6
+Guaratinguetá,SP,6
+Uberlandia,MG,6
+Itapetinga,BA,6
+Cerro Largo,RS,6
+Barra Mansa,RJ,6
+Barra do Piraí,RJ,6
+Rosário do Sul,RS,6
+Lambari,MG,6
+Três de Maio,RS,6
+Monte Aprazível,SP,6
+Araranguá,SC,6
+Guaxupé,MG,6
+Campo Mourão,PR,6
+Canguçu,RS,6
+Mauá,SP,6
+Tucunduva,RS,6
+Mirassol,SP,6
+Caicó,RN,6
+Santo Andre,SP,6
+Petrolina,PE,6
+Monte Alto,SP,6
+Bacabal,MA,6
+Araxá,MG,6
+Jacarezinho,PR,6
+JOÃO PESSOA,PB,6
+Altinópolis,SP,6
+Vitoria,ES,6
+Pindamonhangaba,SP,5
+Terra Boa,PR,5
+Aratiba,RS,5
+ARARAS,SP,5
+Dracena,SP,5
+Parapuã,SP,5
+Ituverava,SP,5
+Bom Jesus do Itabapoana,RJ,5
+Potirendaba,SP,5
+RIO CLARO,SP,5
+Manhumirim,MG,5
+Avaré,SP,5
+Pratápolis,MG,5
+Cruzília,MG,5
+Francisco Beltrão,PR,5
+São Lourenço,MG,5
+São João de Meriti,RJ,5
+Martins,RN,5
+Martinópolis,SP,5
+Guaporé,RS,5
+Rio Pardo,RS,5
+Tupi Paulista,SP,5
+Soledade,RS,5
+Mariana,MG,5
+Itaperuna,RJ,5
+Arvorezinha,RS,5
+Assis Chateaubriand,PR,5
+Rio Branco,AC,5
+Getúlio Vargas,RS,5
+Guariba,SP,5
+Ourinhos,SP,5
+Rio Pomba,MG,5
+Rio Verde,GO,5
+Rolândia,PR,5
+Ilha Solteira,SP,5
+Timbaúba,PE,5
+Timóteo,MG,5
+Jacareí,SP,5
+Sapucaia do Sul,RS,5
+Camaquã,RS,5
+Santo Anastácio,SP,5
+Imperatriz,MA,5
+Osvaldo Cruz,SP,5
+Cataguases,MG,5
+Guarapuava,PR,5
+Três Corações,MG,5
+Canela,RS,5
+Sâo Paulo,SP,5
+Serra Negra,SP,5
+Neves Paulista,SP,5
+Nilópolis,RJ,5
+Carangola,MG,5
+Muriaé,MG,5
+Jardinópolis,SP,5
+Além Paraíba,MG,5
+São Roque,SP,5
+São Sebastião do Paraíso,MG,5
+São Sepé,RS,5
+Tatuí,SP,5
+rio de janeiro,RJ,5
+Jaboatão dos Guararapes,PE,5
+Espirito Santo do Pinhal,SP,4
+Pedro Leopoldo,MG,4
+Jau,SP,4
+Jataí,GO,4
+Morrinhos,GO,4
+são paulo,SP,4
+Penapolis,SP,4
+Pereira Barreto,SP,4
+Picos,PI,4
+Bela Vista do Paraíso,PR,4
+Ijui,RS,4
+Guaíra,SP,4
+Santa Rita,PB,4
+Salgueiro,PE,4
+Guará,SP,4
+Sao Luis,MA,4
+Monte Carmelo,MG,4
+Carmo do Paranaíba,MG,4
+Sananduva,RS,4
+Salinas,MG,4
+Salto,SP,4
+São Joaquim,SC,4
+São Gotardo,MG,4
+Orlândia,SP,4
+Catalão,GO,4
+Caçapava do Sul,RS,4
+Marau,RS,4
+Suzano,SP,4
+Ipameri,GO,4
+Marechal Cândido Rondon,PR,4
+Rio de Janeiro,SP,4
+Ribeirão Pires,SP,4
+Lençóis Paulista,SP,4
+Ipiaú,BA,4
+Sarandi,RS,4
+Indaiatuba,SP,4
+Porto União,SC,4
+Manhuaçu,MG,4
+Vila Velha,ES,4
+São Paulo SP,SP,4
+Terra Roxa,PR,4
+Quixadá,CE,4
+Tupanciretã,RS,4
+Bom Despacho,MG,4
+Boa Esperança,MG,4
+Cravinhos,SP,4
+Paim Filho,RS,4
+Socorro,SP,4
+Santo Angelo,RS,4
+Santa Fé do Sul,SP,4
+Santa Fé,PR,4
+Laguna,SC,4
+Cachoeira Paulista,SP,4
+Campina das Missões,RS,4
+Santos Dumont,MG,4
+Santa Helena de Goiás,GO,4
+Santa Teresa,ES,4
+Macapá,AP,4
+Macaé,RJ,4
+Taquari,RS,4
+Bela Vista,MS,4
+Laranjal Paulista,SP,4
+Formiga,MG,4
+Paulo Afonso,BA,4
+Tapejara,RS,4
+Cruz das Almas,BA,4
+Presidente Bernardes,MG,4
+Cássia,MG,4
+São Manuel,SP,4
+Limoeiro do Norte,CE,4
+Loanda,PR,4
+São Mamede,PB,4
+TERESINA,PI,4
+Esteio,RS,4
+Dourados,MS,4
+Vera Cruz,SP,4
+Domingos Martins,ES,4
+Dois Córregos,SP,4
+Piratuba,SC,4
+Abaetetuba,PA,4
+Álvares Machado,SP,4
+Mococa,SP,4
+ARACAJU,SE,4
+Parnaíba,PI,4
+MARÍLIA,SP,4
+Lucélia,SP,4
+Sabará,MG,3
+Campos dos Goitacazes,RJ,3
+Canoinhas,SC,3
+Aparecida,SP,3
+Torres,RS,3
+Caconde,SP,3
+Sao Jose dos Campos,SP,3
+Mimoso do Sul,ES,3
+Carmo da Mata,MG,3
+São Bento do Sapucaí,SP,3
+Miracema,RJ,3
+Guaçuí,ES,3
+SANTOS,SP,3
+Carmo do Rio Claro,MG,3
+Dois Irmãos,RS,3
+Santa Adélia,SP,3
+Humaitá,RS,3
+Nova Erechim,SC,3
+Igarapava,SP,3
+Guaíra,PR,3
+Urupês,SP,3
+Urussanga,SC,3
+Jaraguá do Sul,SC,3
+Penedo,AL,3
+Votorantim,SP,3
+Barueri,SP,3
+BRASILIA,DF,3
+Vicosa,MG,3
+Juazeiro,BA,3
+João Pinheiro,MG,3
+Nova Esperança,PR,3
+Vinhedo,SP,3
+Flores da Cunha,RS,3
+JOAO PESSOA,PB,3
+Pedro Osório,RS,3
+Ribeirão Claro,PR,3
+Caxias,MA,3
+Conceição das Alagoas,MG,3
+Colorado,RS,3
+Maringa,PR,3
+Itararé,SP,3
+Liberdade,MG,3
+Leopoldina,MG,3
+Goiana,PE,3
+Gaurama,RS,3
+Carrancas,MG,3
+Rio Casca,MG,3
+CAMPO GRANDE,MS,3
+SÃO JOSÉ DO RIO PRETO,SP,3
+SÃO CAETANO DO SUL,SP,3
+Castanhal,PA,3
+Sertaneja,PR,3
+PELOTAS,RS,3
+Carlos Barbosa,RS,3
+Cedro,CE,3
+Ipanema,MG,3
+São Francisco do Sul,SC,3
+Carapicuíba,SP,3
+Rio de Janeiro,MG,3
+Itumbiara,GO,3
+Itu,SP,3
+Itaúna,MG,3
+Tietê,SP,3
+Caibaté,RS,3
+Mirandópolis,SP,3
+Mirandopolis,SP,3
+Sertão,RS,3
+Nova Lima,MG,3
+Guaranésia,MG,3
+Gravataí,RS,3
+São Joaquim da Barra,SP,3
+Horizontina,RS,3
+Castelo do Piauí,PI,3
+Capanema,PA,3
+Cantagalo,RJ,3
+Itumirim,MG,3
+LINS,SP,3
+BENTO GONÇALVES,RS,3
+Cambará,PR,3
+Ipueiras,CE,3
+Ipu,CE,3
+Iraí,RS,3
+Irapuru,SP,3
+Roque Gonzales,RS,3
+Ibaté,SP,3
+Criciuma,SC,3
+Paracatu,MG,3
+São João do Polêsine,RS,3
+Cerquilho,SP,3
+São Lourenço do Sul,RS,3
+Bujaru,PA,3
+Santo Antônio de Jesus,BA,3
+LONDRINA,PR,3
+Ribeirão Bonito,SP,3
+Sao Carlos,SP,3
+Santa Rosa de Viterbo,SP,3
+Turvo,SC,3
+Arapiraca,AL,3
+Santa Vitória do Palmar,RS,3
+Porto Velho,RO,3
+Itajuba,MG,3
+Itajobi,SP,3
+RIO GRANDE,RS,3
+BAURU,SP,3
+Taió,SC,3
+Taguatinga,DF,3
+São Miguel do Oeste,SC,3
+Tangará,SC,3
+Barra Bonita,SP,3
+Quilombo,SC,3
+Quaraí,RS,3
+Prudentópolis,PR,3
+Restinga Seca,RS,3
+Presidente Venceslau,SP,3
+Promissão,SP,3
+Riberão Preto,SP,3
+Palotina,PR,3
+Goiás,GO,3
+Palmitos,SC,3
+Colorado,PR,3
+Quirinópolis,GO,3
+Frutal,MG,3
+Corbélia,PR,3
+Guanhães,MG,3
+Pacoti,CE,3
+Floraí,PR,3
+Jundiai,SP,3
+LAVRAS,MG,3
+Maceio,AL,3
+Jandaia do Sul,PR,3
+Ivorá,RS,3
+ARAPONGAS,PR,3
+ARAÇATUBA,SP,3
+Patrocínio,MG,3
+Pompéia,SP,3
+Paula Cândido,MG,3
+Bandeirantes,PR,3
+Itaituba,PA,3
+Mandaguaçu,PR,3
+Tapera,RS,3
+Taperoá,PB,3
+Mogi-Mirim,SP,3
+Areia,PB,3
+Bage,RS,3
+Sapiranga,RS,3
+Terra Rica,PR,3
+Telêmaco Borba,PR,3
+Pinhalzinho,SC,3
+Ponte Serrada,SC,3
+Porto Feliz,SP,3
+Porto Nacional,TO,3
+Muzambinho,MG,3
+Mogi-Guaçu,SP,3
+Mondaí,SC,3
+Dores do Indaiá,MG,3
+João Neiva,ES,3
+Viamão,RS,3
+Estância,SE,3
+José Bonifácio,SP,3
+Estância Velha,RS,3
+Flórida Paulista,SP,3
+Xaxim,SC,3
+porto alegre,RS,3
+Altamira,PA,2
+Óleo,SP,2
+Óbidos,PA,2
+ALEGRE,ES,2
+Alagoa Grande,PB,2
+ARARAQUARA,SP,2
+ASSIS,SP,2
+salvador,BA,2
+campinas,SP,2
+Joaquim Távora,PR,2
+ANAPOLIS,GO,2
+Pirajuí,SP,2
+ERECHIM,RS,2
+ERVAL SECO,RS,2
+Elias Fausto,SP,2
+Uraí,PR,2
+Upanema,RN,2
+União da Vitória,PR,2
+União,PI,2
+Unaí,MG,2
+Almenara,MG,2
+Alexandria,RN,2
+Jóia,RS,2
+Jussara,GO,2
+Janaúba,MG,2
+Ivoti,RS,2
+Lapa,PR,2
+URUGUAIANA,RS,2
+Valença,BA,2
+VIÇOSA,MG,2
+UBÁ,MG,2
+Ponta Porã,MS,2
+Pompeia,SP,2
+Pomerode,SC,2
+Planalto,RS,2
+Duartina,SP,2
+Curitibanos,SC,2
+Cuité,PB,2
+Cuiaba,MT,2
+Pato Branco,PR,2
+Passa Quatro,MG,2
+Parintins,AM,2
+Pedras Grandes,SC,2
+Pedra Preta,MT,2
+Fatima do Sul,MS,2
+Pitangueiras,SP,2
+Pires do Rio,GO,2
+Presidente Getúlio,SC,2
+Céu Azul,PR,2
+Coronel Freitas,SC,2
+Divinopolis,MG,2
+Diadema,SP,2
+Descanso,SC,2
+Cruzeiro do Sul,AC,2
+Cruzeiro do Oeste,PR,2
+Formosa,GO,2
+Paranaíba,MS,2
+Paranavai,PR,2
+Paranaguá,PR,2
+Paraisópolis,MG,2
+Paraguaçu,MG,2
+Pedra Lavrada,PB,2
+Paulo Lopes,SC,2
+Redenção,CE,2
+Recife,PB,2
+Crateús,CE,2
+Cosmópolis,SP,2
+Colina,SP,2
+Ribeirão Vermelho,MG,2
+Palmitinho,RS,2
+Palmital,SP,2
+Palmeira dos Índios,AL,2
+REGISTRO,SP,2
+Quixeramobim,CE,2
+Quintana,SP,2
+Cruzeta,RN,2
+Constantina,RS,2
+Conselheiro Pena,MG,2
+Restinga Sêca,RS,2
+Caxambu do Sul,SC,2
+Caxambu,MG,2
+Catuípe,RS,2
+Coromandel,MG,2
+Cornélio Procópio,PR,2
+Coqueiral,MG,2
+Centenário do Sul,PR,2
+Rio Piracicaba,MG,2
+Palhoça,SC,2
+Palestina,SP,2
+Pacatuba,CE,2
+PRESIDENTE PRUDENTE,SP,2
+Guajará Mirim,RO,2
+Gaspar,SC,2
+Paracatú,MG,2
+Registro,SP,2
+Caraúbas,RN,2
+Rio de Janeiro,DF,2
+Rio das Pedras,SP,2
+Rio Vermelho,MG,2
+Clementina,SP,2
+Charqueada,SP,2
+PALMARES,PE,2
+Ouro Fino,MG,2
+Guarujá,SP,2
+Guaraçaí,SP,2
+Guaratingueta,SP,2
+Giruá,RS,2
+Getulio Vargas,RS,2
+Palmas,PR,2
+Rinópolis,SP,2
+Rincão,SP,2
+Guaraci,SP,2
+Rubiataba,GO,2
+Rondonópolis,MT,2
+Castro,PR,2
+Capitólio,MG,2
+Capinzal,SC,2
+Capelinha,MG,2
+Guarabira,PB,2
+Orleans,SC,2
+Oriente,SP,2
+Oliveira,MG,2
+Gramado,RS,2
+PIRIPIRI,PI,2
+Carpina,PE,2
+Rolante,RS,2
+Roca Sales,RS,2
+Nepomuceno,MG,2
+Herculândia,SP,2
+Gurupi,TO,2
+SAO CARLOS,SP,2
+SANTO ANDRE,SP,2
+SANTIAGO,RS,2
+Carmópolis de Minas,MG,2
+Carmo,RJ,2
+Candido Mota,SP,2
+Candeal,BA,2
+Canavieiras,BA,2
+Guaxupe,MG,2
+Novo Horizonte,SP,2
+Guarapari,ES,2
+Guarani das Missões,RS,2
+Guaramirim,SC,2
+Campina Verde,MG,2
+Santa Maria da Serra,SP,2
+Campos do Jordão,SP,2
+Sacramento,MG,2
+SOUSA,PB,2
+SOBRAL,CE,2
+SENADOR FIRMINO,MG,2
+Carapicuiba,SP,2
+Campos Sales,CE,2
+Campos Gerais,MG,2
+Campo do Brito,SE,2
+Campo Maior,PI,2
+Nova Bassano,RS,2
+Nova Aliança,SP,2
+Nonoai,RS,2
+Ibiporã,PR,2
+Santa Helena,PR,2
+Santa Cruz do Rio Pardo,SP,2
+Santa Cruz,RN,2
+Santa Bárbara d'Oeste,SP,2
+Santa Bárbara,MG,2
+Cajuru,SP,2
+Caieiras,SP,2
+Cafelândia,SP,2
+Murutinga do Sul,SP,2
+Mundo Novo,BA,2
+Morro da Fumaça,SC,2
+Icó,CE,2
+ITABIRA,MG,2
+Nova Esperanca,PR,2
+Nova Era,MG,2
+Salto de Pirapora,SP,2
+Sobral,CE,2
+Simão Dias,SE,2
+Silvânia,GO,2
+Santo Antônio de Pádua,RJ,2
+Santo Antonio do Monte,MG,2
+Santo Antonio da Patrulha,RS,2
+Selbach,RS,2
+Sapé,PB,2
+Monte Alegre do Sul,SP,2
+Monte Alegre,PA,2
+Nanuque,MG,2
+NITERÓI,RJ,2
+NITEROI,RJ,2
+Santo Amaro da Imperatriz,SC,2
+Sao Goncalo,RJ,2
+Santo Antônio do Monte,MG,2
+Sertanópolis,PR,2
+Serro,MG,2
+CRUZ ALTA,RS,2
+CRATO,CE,2
+Senador Pompeu,CE,2
+SÃO LUÍS,MA,2
+Milhã,CE,2
+Miguel Pereira,RJ,2
+Meridiano,SP,2
+Monte Santo de Minas,MG,2
+Monte Azul Paulista,SP,2
+Monte Aprazivel,SP,2
+Sao Leopoldo,RS,2
+Sao José do Rio Preto,SP,2
+Cachoeiro do Itapemirim,ES,2
+Cachoeiras de Macacu,RJ,2
+São Domingos do Prata,MG,2
+Boquim,SE,2
+São João Del Rei,MG,2
+São João,PR,2
+São José dos Pinhais,PR,2
+SÃO CARLOS,SP,2
+Surubim,PE,2
+Sud Mennucci,SP,2
+CATENDE,PE,2
+Braço do Norte,SC,2
+Brazópolis,MG,2
+Independência,CE,2
+Indaial,SC,2
+Iporá,GO,2
+Miracema,TO,2
+Ilhota,SC,2
+Boa Esperança do Sul,SP,2
+São José do Sabugí,PB,2
+São José do Norte,RS,2
+Bálsamo,SP,2
+Buritizal,SP,2
+Brotas,SP,2
+Brodowski,SP,2
+Bom Jardim,RJ,2
+Bocaina,SP,2
+Boa Vista,RR,2
+Marilia,SP,2
+Itaguaí,RJ,2
+Mauriti,CE,2
+Inhumas,GO,2
+Independência,RS,2
+São Gabriel da Palha,ES,2
+Biguaçu,SC,2
+Bicas,MG,2
+Betim,MG,2
+Boqueirão,PB,2
+Bom Retiro,SC,2
+Bom Jesus da Lapa,BA,2
+Marabá,PA,2
+Mandaguaçú,PR,2
+Itamarandiba,MG,2
+Itajai,SC,2
+Matipó,MG,2
+Matao,SP,2
+São João do Sabugi,RN,2
+São João del-Rei,MG,2
+Bragança,PA,2
+São Ludgero,SC,2
+São Martinho da Serra,RS,2
+São Marcos,RS,2
+São Luís de Montes Belos,GO,2
+Barreiras,BA,2
+São Valentim,RS,2
+São Tomé,RN,2
+São Simão,SP,2
+Machado,MG,2
+Macau,RN,2
+Macaparana,PE,2
+Itaporanga,PB,2
+Itapiuna,CE,2
+Itaberaba,BA,2
+Irineópolis,SC,2
+Maranguape,CE,2
+Maragogipe,BA,2
+Barreiros,PE,2
+BLUMENAU,SC,2
+Tatui,SP,2
+São Sebastião do Paraiso,MG,2
+São Sebastião do Caí,RS,2
+São Sebastião,SP,2
+Bambui,MG,2
+Tanabi,SP,2
+Tambaú,SP,2
+Luz,MG,2
+Linhares,ES,2
+Ituporanga,SC,2
+Mamanguape,PB,2
+Magé,RJ,2
+São Miguel do Anta,MG,2
+São Mateus,ES,2
+Teófilo-Otoni,MG,2
+Teresopolis,RJ,2
+Tenente Portela,RS,2
+Tauá,CE,2
+Astolfo Dutra,MG,2
+Assaí,PR,2
+Lavínia,SP,2
+Lavras da Mangabeira,CE,2
+Lauro Müller,SC,2
+MIRASSOL,SP,2
+BELEM,PA,2
+Auriflama,SP,2
+Tabira,PE,2
+Tabapuã,SP,2
+TUBARÃO,SC,2
+Barão de Cotegipe,RS,2
+Antônio Prado,RS,2
+Anita Garibaldi,SC,2
+Angra dos Reis,RJ,2
+Angicos,RN,2
+Trindade,GO,2
+Tres Pontas,MG,2
+Tremembé,SP,2
+Torrinha,SP,2
+Aracruz,ES,2
+Aracati,CE,2
+Aracajú,SE,2
+Lagoa da Prata,MG,2
+Lagoa Vermelha,RS,2
+Jacobina,BA,2
+Areia Branca,RN,2
+Tocantins,MG,2
+Pedreira,SP,2
+Jaguarão,RS,2
+Jaguari,RS,2
+Jacutinga,RS,2
+Jacutinga,MG,2
+Wagner,BA,2
+Virgem da Lapa,MG,2
+Altônia,PR,2
+Altos,PI,2
+Alto Paraná,PR,2
+Aiuruoca,MG,2
+Anapolis,GO,2
+Alvinópolis,MG,2
+Jarinu,SP,2
+VITÓRIA,ES,2
+Uruaçu,GO,2
+Piraí,RJ,2
+Piratininga,SP,2
+Pirapozinho,SP,2
+Porto Firme,MG,2
+Piracanjuba,GO,2
+Piquete,SP,2
+Pinheiro,MA,2
+Espumoso,RS,2
+FRANCA,SP,2
+FLORIANOPOLIS,SC,2
+Floriano,PI,2
+Florestal,MG,2
+Erexim,RS,2
+Pesqueira,PE,2
+Pedro Avelino,RN,2
+Pedreiras,MA,2
+Ôlho D'água das Cunhãs,MA,1
+ALFENAS,MG,1
+ALTINÓPOLIS,SP,1
+ALÉM PARAíBA,MG,1
+AMERICANA,SP,1
+APUCARANA,PR,1
+ARAGUARI,MG,1
+ARARIPE,CE,1
+ARCOS,MG,1
+ARROIO TRINTA,SC,1
+recife,PE,1
+rio de Janeiro,RJ,1
+santa cruz,PB,1
+santo andré,SP,1
+sao paulo,SP,1
+joão pessoa,PB,1
+itaperuna,RJ,1
+guarulhos,SP,1
+elesbão veloso,PI,1
+dionísio cerqueira,SC,1
+Alagoinhas,BA,1
+Alagoinha,PE,1
+Ajuricaba,RS,1
+Aimorés,MG,1
+Agudos,SP,1
+Agudo,RS,1
+Agronômica,SC,1
+Acará,PA,1
+Acaiaca,MG,1
+Abreus,MG,1
+Abaeté,MG,1
+Juazeiro - Bahia,RJ,1
+Jaguarão-RS,RS,1
+Jaguaruna,SC,1
+Jaguaruana,CE,1
+Jaguaretama,CE,1
+Jaguaraçu,MG,1
+Jaguarao,RS,1
+Jaguapitã,PR,1
+Jacuí,SP,1
+Jacutinga do Sul,RS,1
+Juara,MT,1
+João pessoa,PB,1
+João Ramalho,SP,1
+José de Freitas,PI,1
+Joaíma,MG,1
+Jesuania,MG,1
+LAJEADO,RS,1
+LAGES,SC,1
+Júlio Mesquita,SP,1
+JÚLIO DE CASTILHOS,RS,1
+Juíz de Fora,MG,1
+Jussara,PR,1
+Juruaia,MG,1
+Jundiaí do Sul,PR,1
+Julio de Castilhos,RS,1
+Juiz de fora,MG,1
+Juiz de Fora MG,MG,1
+Juiz De Fora,MG,1
+Juina,MT,1
+Jucás,CE,1
+Jucurutu,RN,1
+Juazeiro Bahia,BA,1
+Lago do Junco,MA,1
+Jacinto Machado,SC,1
+Jacaré dos Homens,AL,1
+Jacarei,SP,1
+Jaboticabal,MG,1
+Jaborandi,SP,1
+Jaboatão,PE,1
+JUAZEIRO DO NORTE,CE,1
+JAÚ,SP,1
+LINHARES,ES,1
+LIMOEIRO DO NORTE,CE,1
+LIMEIRA,SP,1
+LIMA DUARTE,MG,1
+LEOPOLDINA,MG,1
+LEME SP,SP,1
+LAPA,PR,1
+JALES,SP,1
+JAGUARÃO,RS,1
+JAGUARUANA,CE,1
+JAGUARI,RS,1
+Iúna,ES,1
+Ivorá - Júlio de Castilhos,RS,1
+Ivinhema,MS,1
+Ivatuba PR,PR,1
+Ivaipoã,PR,1
+Ivaiporã,PR,1
+Ivaipora,PR,1
+Lajes,SC,1
+Laje do Muriaé,RJ,1
+Lagoa do Ouro,PE,1
+Lagoa da prata,MG,1
+Lagoa  Vermelha,RS,1
+Itutinga,MG,1
+Itupeva,SP,1
+Itumbiara -GO,GO,1
+Ituberá,BA,1
+Itiquira,MT,1
+Itaú de Minas,MG,1
+Itatira,CE,1
+Itarana,ES,1
+Limoeiro,PE,1
+Lençois Paulista,SP,1
+Lavras do Sul,RS,1
+Lavinia,SP,1
+Lauro de Freitas,BA,1
+Lauro Müeller,SC,1
+Lauro Muller,SC,1
+JATAI,GO,1
+MARTINS,RN,1
+MARINGÁ,PR,1
+MARIALVA,PR,1
+MARACANÃ,PA,1
+MANGUARATIBA,RJ,1
+MANDAGUARI,PR,1
+MANAUS,AM,1
+MAJOR IZIDORO,AL,1
+MACEIÓ,AL,1
+MACAÍBA,RN,1
+Luziânia,GO,1
+Luzilândia,PI,1
+Lupionópolis,PR,1
+Lucianópolis,SP,1
+Livramento,RS,1
+Lindóia,SP,1
+MONTEIRO,PB,1
+MONTE MOR,SP,1
+Itapiúna,CE,1
+Itapipoca,CE,1
+Itapevi,SP,1
+Itapema,SC,1
+Itapecuru Mirim,MA,1
+Itapecerica,MG,1
+Itapajé,CE,1
+Itanhém,BA,1
+MONTE CARMELO,MG,1
+MISSÃO VELHA,CE,1
+MINAS GERAIS,MG,1
+MAUÁ,SP,1
+MATAO,SP,1
+MARUMBI,PR,1
+Mamborê,PR,1
+Malta,PB,1
+Malhada,BA,1
+Mairinque,SP,1
+Mairi,BA,1
+Mafra,SC,1
+Macuco de Minas,MG,1
+Machadinho,RS,1
+Maceió,AM,1
+Macaíba,RN,1
+Macaubal,SP,1
+Macatuba,SP,1
+Macaiba,RN,1
+Macae,RJ,1
+MURIAE,MG,1
+MOSSORÓ,RN,1
+Mantena,MG,1
+Manhuaçú,MG,1
+Manhuaçu - MG,MG,1
+Manga,MG,1
+Mandaguaçu - PR,BA,1
+Itanhaém,SP,1
+Itanhandu,MG,1
+Itanhaem,SP,1
+Itamonte,MG,1
+Itamogi,MG,1
+Itambé,PR,1
+Italva,RJ,1
+Itajuípe,BA,1
+Itaju - SP,SP,1
+Manaíra,PB,1
+Manacapuru,AM,1
+Marcelino Ramos,RS,1
+Maravilha,SC,1
+Itaguaçu,ES,1
+Itaguara,MG,1
+Itabuna,PA,1
+Itabi,SE,1
+Itaberai,GO,1
+Itabaiana,PB,1
+Itaara,RS,1
+Iretama,PR,1
+Irecê,BA,1
+Marataízes,ES,1
+Maracaí,SP,1
+Maracanaú,CE,1
+Maracajá,SC,1
+Maracai,SP,1
+Matias Lobato,MG,1
+Mataripe,BA,1
+Mata,RS,1
+Massapê,CE,1
+Mascote,BA,1
+Marumbi,PR,1
+Marques de Souza,RS,1
+Marmeleiro,PR,1
+Marinópolis,MG,1
+Maringã,PR,1
+Maringá,SP,1
+Marilândia do Sul,PR,1
+Marilândia,ES,1
+Mariluz,PR,1
+Maricá,RJ,1
+Maria da Fé,MG,1
+Inhuma,PI,1
+Inhapim,MG,1
+Indiaporã,SP,1
+Indiana,SP,1
+Inajá,PR,1
+Iraí de Minas,MG,1
+Irati,PR,1
+Irai,RS,1
+Iracemápolis,SP,1
+Iporã,PR,1
+Ipojuca,PE,1
+Ipirá,BA,1
+Ipiranga,PI,1
+Ipira,SC,1
+Ipiau,BA,1
+Matozinhos,MG,1
+Iguatú,CE,1
+Iguatemi,MS,1
+Iguaraçú,PR,1
+Iguaraçu,PR,1
+Iguape,SP,1
+Iguai,BA,1
+Miracema,GO,1
+Minas Gerais,MG,1
+Miguelópolis,SP,1
+Miguel Calmon,BA,1
+Meleiro,SC,1
+Mazagão,AP,1
+Maximiliano de Almeida,RS,1
+Mauaná,PA,1
+Ipaumirim,CE,1
+Iomerê,SC,1
+Morada Nova de Minas,MG,1
+Monteiro,PB,1
+Monte Celeste,MG,1
+Monte Alegre de Minas,MG,1
+Monte Alegre,MG,1
+Montanha,ES,1
+Moji Mirim,SP,1
+Moji Guaçu,SP,1
+Mogi mirim,SP,1
+Mogi Guaçu,SP,1
+Mirasselvas,PA,1
+Miranda,MS,1
+Imbituva,PR,1
+Imbituba,SC,1
+Ilheus,BA,1
+"Ijuí, RS",RS,1
+Morro Agudo,SP,1
+Moreno,PE,1
+Moreilândia PE,PE,1
+Igaraçu do Tietê,SP,1
+Igarapé-Miri,PA,1
+Iepê,SP,1
+Ielmo Marinho,RN,1
+Ida Iolanda,SP,1
+Icoaraci,PA,1
+Ibiúna,SP,1
+Ibiá,MG,1
+Ibitiúva,SP,1
+Ibitiara,BA,1
+Ibirá,SP,1
+Ibirubá,RS,1
+Ibiruba,RS,1
+ITAÚNA,MG,1
+ITATIBA -SP,SP,1
+ITAPORANGA,PB,1
+Nioaque,MS,1
+Nhandeara,SP,1
+Nazaré da Mata,PE,1
+Naviraí,MS,1
+Natércia,MG,1
+Natal Rio Grande do Norte,RJ,1
+NOVO HAMBURGO,RS,1
+NOVA PRATA,RS,1
+NOVA FLORESTA,PB,1
+Muriae,MG,1
+Muqui,ES,1
+Mossoro,RN,1
+Morungaba,SP,1
+Nova Aliança do Ivaí,PR,1
+Nossa Senhora Das Dores,SE,1
+Nitéroi,RJ,1
+Niterói-RJ,RJ,1
+Niterói RJ,RJ,1
+Ibiraçu,ES,1
+Ibirarema,SP,1
+Ibirapitanga,BA,1
+Ibirama,SC,1
+Ibiraci,MG,1
+Ibipora,PR,1
+Ibiaçá,RS,1
+Ibatiba,ES,1
+IVORÁ,RS,1
+ITUMIRIM,MG,1
+ITU,SP,1
+ITAMOJI,MG,1
+ITAJUBA,MG,1
+ITAJAÍ,SC,1
+ITABIRITO,MG,1
+ITABAIANA,PB,1
+IPAUSSU,SP,1
+INAJÁ,PE,1
+ILICÍNEA,MG,1
+ILHÉUS,BA,1
+ILHA SOLTEIRA,SP,1
+IBITIRAMA,ES,1
+IBIRAJUBA,PE,1
+IBICUITINGA,CE,1
+Nova Esperança do Sul,RS,1
+Nova Cruz,RN,1
+Nova Aurora,PR,1
+Heitoraí,GO,1
+Guiricema,MG,1
+Guiratinga,MT,1
+Guidoval,MG,1
+Guaíba,RS,1
+Guará,MG,1
+OLÍMPIA,SP,1
+Novo Aripuanã,AM,1
+Nova Xavantina,MT,1
+Nova Resende,MG,1
+Nova Palmeira,PB,1
+Nova Londrina,PR,1
+Nova Granada,SP,1
+Nova Floresta,PB,1
+Nova Fatima,PR,1
+ITAPEMA,SC,1
+PARACATU,MG,1
+PALOTINA,PR,1
+Ouro Verde,SC,1
+Ouro,SC,1
+Ourizona,PR,1
+Guaraí,TO,1
+Guaraniaçú,PR,1
+Guapé,MG,1
+Ourinhos,PR,1
+Ouricuri,PE,1
+Osório,RS,1
+Onda Verde,SP,1
+Olho D'Água do Casado,AL,1
+OURINHOS,SP,1
+OSVALDO CRUZ,SP,1
+OLÍMPIA SP,SP,1
+PIRAÇUNUNGA,SP,1
+PIRASSUNUNGA,SP,1
+PIO IX,PI,1
+PICUÍ,PB,1
+PICOS,PI,1
+PETRÓPOLIS,RJ,1
+PETROLINA,PE,1
+PENDÊNCIAS,RN,1
+PAULISTA,PE,1
+PAULA CÂNDIDO,MG,1
+PATROCINIO,MG,1
+PATOS DE MINAS,MG,1
+PATOS,PB,1
+PASTOS BONS,MA,1
+PARANAÍBA,MS,1
+PARANAVAÍ,PR,1
+POTIRENDABA,SP,1
+PORTO FIRME,MG,1
+Guaporé-RS,RS,1
+Guapiaçu,SP,1
+Guanambí,BA,1
+Guanambi,BA,1
+Guaira,SP,1
+Gravatá,PE,1
+Gravatal,SC,1
+Grajaú,MA,1
+Governador Mangabeira Bahia,BA,1
+Gouveia,MG,1
+PORECATU,PR,1
+PONTAL,SP,1
+PONTA-GROSSA,PR,1
+PONTA GROSSA,PR,1
+Palmeira D´Oeste,SP,1
+Palmeira Dos Indios,AL,1
+Goioerê,PR,1
+Goio-erê,PR,1
+Goianésia,GO,1
+Goianinha,RN,1
+Glória de Dourados,MS,1
+Gloria de Dourados,MS,1
+Glicério,SP,1
+Girau do Ponciano,AL,1
+Palmeira D'Oeste,SP,1
+Palmeira,PR,1
+Palmares,PE,1
+Paiçandu,PR,1
+Pacatuba,SE,1
+PRESIDENTE BERNARDES,MG,1
+Gandu,BA,1
+Gabriel Monteiro,SP,1
+GUAÇUI,ES,1
+GUARACIABA,SC,1
+GUAIRA,SP,1
+GOVERNADOR VALADARES,MG,1
+GOIÂNIA,GO,1
+GOIANIA,MG,1
+GOIANA,PE,1
+GASPAR,SC,1
+GARANHUNS,PE,1
+Paragominas,PA,1
+Paracatu,DF,1
+Papanduva,SC,1
+Palmital,PR,1
+Palmeira dos Indios,AL,1
+FÁTIMA DO SUL,MS,1
+Fundão,ES,1
+Frei Paulo,SE,1
+Francisco Sá,MG,1
+Francisco Beltrao,PR,1
+Fortuna de Minas,MG,1
+Formosa do Oeste,PR,1
+Paraúna,GO,1
+Paraíso do Sul,RS,1
+Paraíba do Sul,RJ,1
+Paranapuã,SP,1
+Paramirim,BA,1
+Paraiso,SP,1
+Paraguaçú Paulista,SP,1
+Paraguaçu Pta,SP,1
+"Garibaldi, RS",RS,1
+Peabirú,PR,1
+Peabiru,PR,1
+Paverama,RS,1
+Paudalho,PE,1
+Pau dos Ferros,RN,1
+Patrocínio do Muriaé,MG,1
+Patrocínio Paulista,SP,1
+Patrocinio Paulista,SP,1
+Passo do Sobrado,RS,1
+Passa Tempo,MG,1
+Parnamirim,RN,1
+Parnaiba,PI,1
+Pariquera Açú,SP,1
+Pariquera Açu,SP,1
+Parelhas,RN,1
+Fátima do Sul,MS,1
+FLORIANOPÓLIS,SC,1
+FERNANDOPOLIS,SP,1
+FARROUPILHA,RS,1
+Exu,PE,1
+Extrema,MG,1
+Flórida,PR,1
+Florestópolis,PR,1
+Florai,PR,1
+Ferreiros,PE,1
+Feliz,RS,1
+Felixlândia,MG,1
+Felipe Schmidt,SC,1
+Felipe Guerra,RN,1
+Pedra Branca,CE,1
+Pedra Azul,MG,1
+Pederneiras,SP,1
+Piedade do Rio Grande,MG,1
+Picuí,PB,1
+Peçanha,MG,1
+Petropolis,RJ,1
+Petrolandia,PE,1
+Perobal,PR,1
+Perdões,MG,1
+Perdizes,MG,1
+Pentecoste,CE,1
+Pedro Velho,RN,1
+Pedro Osório RS,RS,1
+Pedrinópolis,MG,1
+Pedra do Anta,MG,1
+Feijó,AC,1
+Farias Brito,CE,1
+Faria Lemos,MG,1
+Pinhão,PR,1
+Pinheiros,ES,1
+Pindorama,SP,1
+Pindaí,BA,1
+Estrêla d'Oeste,SP,1
+Estrela do Sul,MG,1
+Estrela D'alva,MG,1
+Estrela D'Oeste,SP,1
+Estiva,MG,1
+Espírito Santo do Dourado,MG,1
+Esmeraldas,MG,1
+Ervália,MG,1
+Erval Seco,RS,1
+Pimenta Bueno,RO,1
+Piloezinhos,PB,1
+Pilar do Sul,SP,1
+Pirapora,MG,1
+Enéas Marques,PR,1
+Engenheiro Paulo de Frontin,RJ,1
+Encruzilhada,BA,1
+Embu - Guaçu,SP,1
+Embu,SP,1
+Eloi Mendes,MG,1
+Eldorado,MS,1
+Ecoporanga,ES,1
+Echaporã,SP,1
+ESPUMOSO,RS,1
+ESPERANÇA,PB,1
+Piranga,MG,1
+Pirai do Sul,PR,1
+Piracuruca,PI,1
+Piquerobi,SP,1
+Planalto,PR,1
+Piúma,ES,1
+Doutor Camargo,PR,1
+Dourados,MT,1
+Dourado,SP,1
+Dores do Turvo,MG,1
+Dores de Guanhaes,MG,1
+Dona Francisca,RS,1
+Dois Vizinhos,PR,1
+Piumhí,MG,1
+Pitangui,MG,1
+Pitanga,PR,1
+Piritiba,BA,1
+Piripiri,PI,1
+Piraúba,MG,1
+Piraquara,PR,1
+Porto Franco,MA,1
+Porto Alege,RS,1
+Porto Aelgre,RS,1
+Porto ALegre,RS,1
+Porto ALEGRE,RS,1
+Porto,PI,1
+Porangatú,GO,1
+Ponte do Itabapoana,ES,1
+Pontalina,GO,1
+Pontal,SP,1
+Ponta-Grossa,PR,1
+Ponta de Pedras,PA,1
+Ponta Grosssa,PR,1
+Pompéu,MG,1
+Pombal,PB,1
+Pocrane,MG,1
+Poá,SP,1
+Poxoréo,MT,1
+Poxoreu,MT,1
+Pouso Redondo,SC,1
+Porto Real do Colégio,AL,1
+Diogo de Vasconcelos,MG,1
+Delfim Moreira,MG,1
+Davinópolis,GO,1
+David Canabarro,RS,1
+DOURADOQUARA,MG,1
+DOIS CORREGOS,SP,1
+D. de Caxias,RJ,1
+Córrego do Bom Jesus,MG,1
+Cícero-Dantas,BA,1
+Cícero Dantas,BA,1
+Porto Murtinho,MS,1
+Presedente Prudente,SP,1
+Prata Minas Gerais,SP,1
+Cândido Mota,SP,1
+Custódia,PE,1
+Curvelo,MG,1
+Cururupu,MA,1
+Curitibajavascript:void(0),PR,1
+Cunha Porã,SC,1
+Cunha,SP,1
+Cuiabá-MT,MT,1
+Prata  - MG,MG,1
+Prados,MG,1
+Prado,BA,1
+Poços de caldas,MG,1
+Poço de Pedras,RN,1
+Poço Fundo,MG,1
+QUIXERAMOBIM,CE,1
+Cubatí,PB,1
+Cruzíla,MG,1
+Cruzeiro do Sul,RS,1
+Cruzeiro DOeste,PR,1
+Cristália,MG,1
+Cristina,MG,1
+Cristiano Otoni,MG,1
+Crissiumal,RS,1
+QUARAI,RS,1
+Putinga,RS,1
+Propriá,SE,1
+Progresso,RS,1
+Presidente Olegário,MG,1
+Presidente Epitácio,SP,1
+Presidente Castelo Branco,PR,1
+RIo de Janeiro,RJ,1
+RIO POMBA,MG,1
+RIO PARDO,RS,1
+RIO NEGRO,PR,1
+RIO DOS CEDROS,SC,1
+RIO DO SUL,SC,1
+RIBEIRÃO,PE,1
+RIBEIRAO VERMELHO,MG,1
+RESPLENDOR,MG,1
+Quixada,CE,1
+Queiróz,SP,1
+Queimados,RJ,1
+Queimadas,BA,1
+Quedas do Iguaçu - PR,PR,1
+Quedas do Iguaçu,PR,1
+Quatá,SP,1
+Recife,SP,1
+Recife,RJ,1
+Realeza,PR,1
+Raul Soares,MG,1
+Rancho Alegre,PR,1
+Criciúma,RS,1
+Crateus,CE,1
+Cotiporã,RS,1
+Cotia,SP,1
+Cosmorama,SP,1
+Corumbataí,SP,1
+Correntes,PE,1
+Coronel Vivida,PR,1
+Coronel Sapucaia,MS,1
+ROLANDIA,PR,1
+RODEIRO,MG,1
+Ribeirão Preto SP,SP,1
+Ribeiropolis,SE,1
+Ribeira,SP,1
+Riachão do Jacuípe,BA,1
+Retirolândia,BA,1
+Coronel Bicaco,RS,1
+Cordisburgo - Lagoa Bonita,MG,1
+Cordisburgo,MG,1
+Cordeirópolis,SP,1
+Cordeiro,RJ,1
+Coração de Jesus,MG,1
+Congonhinhas,PR,1
+Reserva,PR,1
+Remígio,PB,1
+Registro-SP,SP,1
+Recreio MG,MG,1
+Rio Bonito,RJ,1
+Rio Azul,PR,1
+Congonhas,MG,1
+Concórdia SC,SC,1
+Conchas,SP,1
+Conchal,SP,1
+Conceição do Canindé,PI,1
+Conceição,PB,1
+Conceicao do Castelo,ES,1
+Coimbra,MG,1
+Codó,MA,1
+Cocal do Sul,SC,1
+Ribeirópolis,SE,1
+Ribeirão preto,SP,1
+Ribeirão Prêto,SP,1
+Ribeirão Preto/SP,SP,1
+Rio Verde de Mato Grosso,MS,1
+Rio Preto,MG,1
+Claudio,MG,1
+Claraval,MG,1
+Cidade Gaúcha,PR,1
+Chopinzinho,PR,1
+Chiapetta,RS,1
+Chavantes,SP,1
+Chapeco,SC,1
+Cerqueira César,SP,1
+Ceres,GO,1
+Rio Paranaíba,MG,1
+Rio Negrinho,SC,1
+Rio Doce,MG,1
+Rio De Janeiro,RJ,1
+Rio Branco do Sul,PR,1
+Rio dos Cedros,SC,1
+Rio do Sul SC,SC,1
+Rio deJaneiro,RJ,1
+Cedral,SP,1
+Ceará Mirim,RN,1
+Ceará,CE,1
+Caxias Do Sul,RS,1
+Cavalcante,GO,1
+Caucaia,CE,1
+Catende,PE,1
+Rio de Janeiro,SC,1
+Rio de Janeio,RJ,1
+Rio de Janediro,RJ,1
+Rio de Janairo,RJ,1
+Rio de JAneiro,RJ,1
+Rio de Contas,BA,1
+S do Ipanema,AL,1
+Russas,CE,1
+Rosario Oeste,MT,1
+Roraima,RR,1
+Catarina,CE,1
+Catanduvas,PR,1
+Cassilândia,MS,1
+Cascavel,CE,1
+Rondon,PR,1
+Rolândia,SP,1
+Rolim de Moura,RO,1
+Rodelas,BA,1
+Rodeio Bonito,RS,1
+Roberto,SP,1
+Riolândia,SP,1
+Rio verde de Mato Grosso,MS,1
+SANTARÉM,PA,1
+SANTANÉSIA,RJ,1
+SANTANA DO LIVRAMENTO,RS,1
+SANTA TERESA,ES,1
+Carolina,MA,1
+Carmésia,MG,1
+Carmo do Cajuru,MG,1
+Carius,CE,1
+Caririaçu,CE,1
+Cardoso,SP,1
+SANTA ROSA DE VITERBO,SP,1
+SANTA ROSA,RS,1
+SANTA MARIA DA SERRA,SP,1
+SALTO,SP,1
+S.Paulo,SP,1
+S. Fidelis,RJ,1
+SAPÉ,PB,1
+Carandaí,MG,1
+Carandai,MG,1
+Caraguatatuba,SP,1
+Capão Bonito,SP,1
+Capitolio,MG,1
+Capela Nova,MG,1
+Caparaó,MG,1
+Canto do Buriri,PI,1
+SAPIRANGA,RS,1
+SAO MANUEL,SP,1
+SAO JOSE RIO PRETO,SP,1
+SAO JOSE DO RIO PRETO,SP,1
+SANTO ANTONIO DO PALMA,RS,1
+SANTO ANTONIO DE JESUS,BA,1
+SANTO ANDRÉ,SP,1
+Canitar,SP,1
+Candido de Abreu,PR,1
+Candido Sales,BA,1
+Candiba,BA,1
+Candelária,RS,1
+Campos do Jordao,SP,1
+Salesópolis,SP,1
+Sabaudia,PR,1
+Sabara,MG,1
+SURUBIM,PE,1
+SP,SP,1
+SETE BARRAS,SP,1
+SERROLÂNDIA,BA,1
+SERRA TALHADA,PE,1
+SERRA AZUL,SP,1
+SAÚDE,BA,1
+Campos Borges,RS,1
+Campo Grande,RN,1
+Campo Formoso,BA,1
+Campo Erê,SC,1
+Campo Ere,SC,1
+Campo Alegre de Lourdes,BA,1
+Campinorte,GO,1
+Santa Adélia - SP,SP,1
+Sant'Ana do Livramento,RS,1
+Salvador do Sul,RS,1
+Salvador,RJ,1
+Salvador,MG,1
+Salvador,CE,1
+Salvado,BA,1
+Salto Grande,MG,1
+Salinas da Margarida,BA,1
+Santa Maria,SP,1
+Santa Margarida,MG,1
+Santa Lucia,SP,1
+Santa Juliana,MG,1
+Santa Izabel do Para,PA,1
+Santa Inês,MA,1
+Santa Helena,MA,1
+Santa Cruz de Monte Castelo,PR,1
+Santa Cruz das Palmeiras,SP,1
+Santa Bárbara D´Oeste,SP,1
+Santa Bárbara D'Oestes,SP,1
+Santa Bárbara D'Oeste,SP,1
+Santa Bárbara,BA,1
+Santa Branca,SP,1
+Santa Antônio das Missões,RS,1
+Campos Novos,SC,1
+Santa Salete,SP,1
+"Campinas, SP",SP,1
+Campinas SP,SP,1
+Campinas - São Paulo,SP,1
+Campinas - Barão Geraldo,SP,1
+Campinas,RJ,1
+Campina da Lagoa,PR,1
+"Campina Grande, Paraíba, Brasi",PB,1
+Campestre,MG,1
+Camocim,CE,1
+Cambuí,MG,1
+Camboriú,SC,1
+Santa Quitéria,MA,1
+Santa Maria do Suaçuí,MG,1
+Santa Maria do Itabira,MG,1
+Santa Maria da Vitoria,BA,1
+Santo Antonio da Platina,PR,1
+Camaqua,RS,1
+Caldeirões - Porções,BA,1
+Cajuri,MG,1
+Cajari,MA,1
+Caiçara,RS,1
+Caiapônia,GO,1
+Cahoeiro de Itapemirim,ES,1
+Cafelandia,SP,1
+Santo Amaro - Bahia,BA,1
+Santo  André,SP,1
+Santarem,PA,1
+Santana dos Garrotes,PB,1
+Santana do Matos,RN,1
+Santana do Itararé,PR,1
+Santa fé do Sul,SP,1
+Sao Goncalo dos Campos,BA,1
+Sao Gabriel,RS,1
+Sao Carlos - SP,SP,1
+Sao Caetano do Sul,SP,1
+Sao  Paulo,SP,1
+SantÀna do Livramento,RS,1
+Sant´Ana do Livramento,RS,1
+Santo Inácio,PR,1
+Santo Antônio do Leverger,MT,1
+Santo Antônio do Jardim,SP,1
+Santo Antônio das Missões,RS,1
+Santo Antônio da Platina,PR,1
+Santo Antônio da Platina,ES,1
+Santo Antônio da Patrulha,RS,1
+Santo Antonio do Sudoeste,PR,1
+Santo Antonio de Jesus,BA,1
+Sao José dos Campos,SP,1
+Sao Jose do Rio Preto,SP,1
+Sao Joaquim da Barra,SP,1
+Sao Joao do Manhuacu,MG,1
+Sao Joao Del Rei,MG,1
+Caeté,MG,1
+Caetité,BA,1
+Caetete,BA,1
+Caete,MG,1
+Caculé,BA,1
+Cacoal,RO,1
+Cacique Doble,RS,1
+Cachoeiro do Itapemerim,ES,1
+Cachoeira do Campo,MG,1
+Cachoeira,BA,1
+Sao Gonçalo do Pará,MG,1
+Serafina Corrêa,RS,1
+Senhor do Bonfim,BA,1
+Senador Pompeu Ceará,CE,1
+Seara,SC,1
+Savador,BA,1
+Saudades,SC,1
+Sapucaí Mirim,MG,1
+Sao luis,MA,1
+Sao Vicente,SP,1
+Sao Tomaz de Aquino,MG,1
+Sao Sebastião do Paraiso,MG,1
+Sao Pedro,SP,1
+Sao Manuel,SP,1
+Sao Luis Gonzaga,RS,1
+Sao Lourenco do Sul,RS,1
+Sao Lourenco,MG,1
+Serra Negra do Norte,RN,1
+Serra Azul,SP,1
+Seropédica,RJ,1
+Cacequi,RS,1
+Cabrobó,PE,1
+Cabo Verde,MG,1
+Cabo Frio,RJ,1
+Cabedelo,PB,1
+Cabaceiras,PB,1
+CUIABA,MT,1
+CRICIUMA,SC,1
+CORUMBÁ,MS,1
+CORUMBA,MS,1
+COROMANDEL,MG,1
+CORNELIO PROCOPIO,PR,1
+CORDISLÂNDIA,MG,1
+CARUARU,PE,1
+Soure,PA,1
+Sossego,PB,1
+Sombrio,SC,1
+Sobradinho,DF,1
+Siqueira Campos,PR,1
+Sinop,MT,1
+Simplicio Mendes,PI,1
+Simonésia,MG,1
+Silveirânia,MG,1
+Silveiras,SP,1
+Silveira Martins,RS,1
+Siderópolis,SC,1
+Sertânia,PE,1
+Serrita,PE,1
+Serra Talhada,PE,1
+Sta Rita P.Quatro,SP,1
+Sr do Bomfim,BA,1
+Souza,PB,1
+CONCEIÇÃO,PB,1
+CONCEIÇAO DO JACUIPE,BA,1
+CIRIACO,RS,1
+CHAPECÓ,SC,1
+CENTRAL,BA,1
+CENTENARIO DO SUL,RJ,1
+CAXIAS,MA,1
+CAXAMBU DO SUL,SC,1
+CATUÍPE,RS,1
+CATANDUVA,SP,1
+CATALÃO,GO,1
+CASCAVEL,PR,1
+CASCAVEL,CE,1
+São Bento,MA,1
+Sâo José do Rio Preto,SP,1
+Sáo Paulo,SP,1
+Sáo Carlos,SP,1
+Sào Paulo,SP,1
+SÄO PAULO,SP,1
+SÃO VICENTE,SP,1
+SÃO SEBASTIÃO DO CAÍ,RS,1
+SÃO MANOEL,SP,1
+SÃO LEOPOLDO,RS,1
+SÃO JOÃO DO CARIRI,PB,1
+SÃO JOÃO DEL REI,MG,1
+SÃO JOÃO DE MERITI,RJ,1
+SÃO JOÃO DA PONTE,MG,1
+SÃO GONÇALO DO SAPUCAÍ,MG,1
+Sud Mennucci SP,SP,1
+São Domingos,SC,1
+São Carlos,SC,1
+CARLOS CHAGAS,MG,1
+CARINHANHA,BA,1
+CARATINGA,MG,1
+CAPITAO LEONIDAS MARQUES,PR,1
+CANGUÇU,RS,1
+CAMPOS,RJ,1
+CAMPO BELO,MG,1
+CAMETÁ,PA,1
+CAMACÃ,BA,1
+CAJURU,SP,1
+CACHOEIRO DE ITAPEMIRIM,ES,1
+CABACEIRAS,PB,1
+Bélem,PA,1
+São Bernardo,SP,1
+São Jorge do Ívai,PR,1
+São Jerônimo,RS,1
+São Gonçalo dos Campos,BA,1
+São Gonçalo do Sapucaí,MG,1
+São Gonçalo do Pará,MG,1
+São Gonçalo do Abaeté,MG,1
+São Gabriel,BA,1
+São Gabriel,AL,1
+São Félix do Xingú,PA,1
+São Francisco do Piauí,PI,1
+São Francisco do Conde,BA,1
+São Francisco de Assis,RS,1
+São Francisco,MG,1
+São Fidélis,RJ,1
+São Domingos do Sul,RS,1
+São Domingos do Norte,ES,1
+São João Batista do Glória,MG,1
+São José do Goiabal,MG,1
+São José do Egito,PE,1
+São José do Cerrito,SC,1
+São José do Calçado,ES,1
+Buriti Bravo,MA,1
+Buriti,MA,1
+Bueno Brandão,MG,1
+Brumado,BA,1
+Brumadinho,MG,1
+Brodosqui,SP,1
+Brejões,BA,1
+Brejo da Madre de Deus,PE,1
+São José de Mipibú,RN,1
+São José das Palmeiras,PR,1
+São José,SC,1
+São João del-Rei,RJ,1
+São João del Rey,MG,1
+São João de Merití,RJ,1
+São João da Mata,MG,1
+Brazil,DF,1
+Brasília de Minas,MG,1
+Brasiléia,AC,1
+Brasilândia,MG,1
+Braga,RS,1
+Botelhos,MG,1
+Bossoroca,RS,1
+Borda da Mata,MG,1
+Borborema,SP,1
+Boqueirão do Leão,RS,1
+São João Nepomuceno,MG,1
+São João Del-Rei,MG,1
+Bequimão,MA,1
+Beo Horizonte,MG,1
+Benedito Novo,SC,1
+Belém Pará,PA,1
+Bom Sucesso,MG,1
+Bom Retiro do Sul,RS,1
+Bom Jesus do Galho,MG,1
+Bom Jesus,PI,1
+Bom Conselho,PE,1
+Bocaina,PI,1
+Boa Vista do Buricá,RS,1
+São Lourenço D'Oeste,SC,1
+São Lourenço,RS,1
+São Leopoldo - RS,MG,1
+São João dos Patos,MA,1
+São João do Cariri,PB,1
+São Paulo,DF,1
+São Miguel dos Campos,AL,1
+São Miguel do Iguaçú,PR,1
+São Miguel do Iguaçu,PR,1
+São Miguel do Guamá,PA,1
+São Miguel do Araguaia,GO,1
+São Miguel,RN,1
+São Mateus do Sul,PR,1
+São Manoel,SP,1
+São Luiz dos Montes Belos,GO,1
+São Luiz do Quitunde,AL,1
+São Luis de Montes Belos,GO,1
+São Luis Gonzaga,RS,1
+Boa Nova,BA,1
+Birirgui,SP,1
+Birigüi,SP,1
+São Raimundo Nonato,PI,1
+São Pulo,SP,1
+Belo-Horizonte,MG,1
+Belo horizonte,MG,1
+Belo Vale,MG,1
+Belo Jardim,PE,1
+Belo Horizonte-MG,MG,1
+Belo Horizomte,MG,1
+Belo Hoorizonte,MG,1
+Belford Roxo,RJ,1
+Bela Vista de Goiás,GO,1
+Baturite,CE,1
+São Pedro do Piauí,PI,1
+São Pedro - Dourados,MS,1
+São Pedro,SP,1
+São Paulo,MT,1
+TRES ARROIOS,RS,1
+TOLEDO,PR,1
+TIMBAÚBA,PE,1
+TENENTE PORTELA,RS,1
+TELÊMACO BORBA,PR,1
+TATUÍ,SP,1
+TAMBAÚ,SP,1
+Sítio do Mato,BA,1
+São paulo,SP,1
+São carlos,SP,1
+São Vicente Ferrer,PE,1
+São Tomé,PR,1
+São Tomás de Aquino,MG,1
+São Sebastião do Umbuzeiro,PB,1
+São Sebastião do Cai,RS,1
+São Sebastião da Amoreira,PR,1
+Tacima,PB,1
+Tabuleiro do Norte,CE,1
+Taboão da Serra,SP,1
+Tabatinga,SP,1
+Batayporã,MS,1
+Barão de Juparanã,RJ,1
+Barão de Cocais,MG,1
+Barros Cassal,RS,1
+Barras,PI,1
+Barracão,RS,1
+Barracão,PR,1
+Barra mansa,RJ,1
+Barra do Rocha,BA,1
+Barra do Ribeiro,RS,1
+TRÊS LAGOAS,MS,1
+TRÊS DE MAIO,RS,1
+Tapirai,SP,1
+Tapira,PR,1
+Tanhaçu,BA,1
+Barra do Garças,MT,1
+Barra do Choça,BA,1
+Barra de São Francisco,ES,1
+Barbosa Ferraz,PR,1
+Balsamo,SP,1
+Balneário de Camboriú,SC,1
+Balneário Camboriu,SC,1
+Baixo Guandu,ES,1
+Tambau,SP,1
+Taiuva,SP,1
+Taipú,RN,1
+Taiobeiras,MG,1
+Taiaçu,SP,1
+Teixieras,MG,1
+Teixeiras,MG,1
+Bahia,BA,1
+Bagé/RS,RS,1
+Baependi,MG,1
+Bady Bassitt,SP,1
+BRUSQUE,SC,1
+BRASÍLIA,DF,1
+BOTUCATU,SP,1
+BOM JARDIM,PE,1
+BH,MG,1
+BEZERROS,PE,1
+BERNARDINO DE CAMPOS,SP,1
+Taubate,SP,1
+Taquarituba,SP,1
+Taquaral,SP,1
+Terra Roxa do Oeste,PR,1
+BELMONTE,BA,1
+BARRETOS,SP,1
+BARBACENA,MG,1
+BANANEIRAS,PB,1
+BAGE,RS,1
+Avare,SP,1
+Aurora,CE,1
+Aurilândia,GO,1
+Augusto Pestana,RS,1
+Terra Roxa,SP,1
+Teresia,PI,1
+Teofilândia,BA,1
+Teofilo Otoni,MG,1
+Teodoro Sampaio,SP,1
+Telemaco Borba,PR,1
+Assaré,CE,1
+Arroio do Tigre,RS,1
+Arroio do Meio,RS,1
+Arroio Trinta,SC,1
+Aroeiras,PB,1
+Armazém,SC,1
+Ariranha,SP,1
+Areias,SP,1
+Tomasina,PR,1
+Tiros,MG,1
+Timoteo,MG,1
+Timbé do sul,SC,1
+Tijucas,SC,1
+Teófilo Otoni - MG,MG,1
+Texeira,PB,1
+Teutônia,RS,1
+Araçatuba SP,DF,1
+Araucária,PR,1
+Araruna,PR,1
+Araruama,RJ,1
+Araripe,CE,1
+"Araraquara, S.P.",SP,1
+Três Marias,MG,1
+Trombudo Central,SC,1
+Treze Tílias,SC,1
+Tres de Maio,RS,1
+Tres Lagoas,MS,1
+Tremembe,SP,1
+Trairí,CE,1
+ToméAçu,PA,1
+Tombos,MG,1
+Ataléia,MG,1
+URAÍ,PR,1
+UNIFLOR,PR,1
+Araponga,MG,1
+Araguatins,TO,1
+Aracitaba,MG,1
+Aracatuba,SP,1
+Arabutã,SC,1
+Apodi,RN,1
+Anápolis,SP,1
+UBERLANDIA,MG,1
+Turmalina MG,MG,1
+Tupaciguara,MG,1
+Tumiritinga,MG,1
+Três Pontas,MG,1
+Arceburgo,MG,1
+Araújos,MG,1
+Antonio Carlos,SC,1
+Antenor Navarro,PB,1
+Anitapólis,SC,1
+Angelina,SC,1
+Angatuba,SP,1
+Andrelândia,MG,1
+Andira,PR,1
+Umburatiba,MG,1
+Uibaí,BA,1
+Uchoa,SP,1
+Ubiratã,PR,1
+Uberaba,SP,1
+Ubatuba,SP,1
+Ubaira Bahia,BA,1
+Uba,MG,1
+URUÇUI,PI,1
+Varzea da Palma,MG,1
+Vargem Alta,ES,1
+VOTUPORANGA,SP,1
+VISCONDE DO RIO BRANCO,MG,1
+VILA VELHA,ES,1
+VIADUTOS,RS,1
+VERANÓPOLIS,RS,1
+VERA CRUZ,SP,1
+Urânia,SP,1
+Urubici,SC,1
+União da Vitôria,PR,1
+União Paulista,SP,1
+Unai,MG,1
+Una,BA,1
+Antônio carlos,MG,1
+Antonio Prado,RS,1
+Videira,SC,1
+Verê,PR,1
+Venancio Aires,RS,1
+Vassouras,RJ,1
+Anchieta,SC,1
+Anastácio,MS,1
+Ananindeua,PA,1
+Analândia,SP,1
+Américo de Campos,SP,1
+Amparo do Serra,MG,1
+Amaturá,AM,1
+Amargosa,BA,1
+Alvinopólis,MG,1
+Alvarez Machado,SP,1
+Alvares Machado,SP,1
+Varzelândia,MG,1
+Vitoria da Conquista,BA,1
+Vista Alegre do Alto,SP,1
+Virginopolis,MG,1
+Viradouro,SP,1
+Alto Rio Doce,MG,1
+Alto Araguaia,MT,1
+Alto Alegre,SP,1
+Alpestre,RS,1
+Alegre ES,ES,1
+Alcobaça,BA,1
+Vilas Boas - Guiricema,MG,1
+Vila-Velha,ES,1
+Vila Nova,SP,1
+Vila Boa de Goiás,GO,1
+Viginópolis,MG,1
+Vigia,PA,1
+Abaete,MG,1
+curitiba,PR,1
+corumbá,MS,1
+cajazeiras,PB,1
+`São Paulo,SP,1
+Xanxêre,SC,1
+Xanxerê,SC,1
+Xambrê,PR,1
+XAXIM,SC,1
+Wenceslau Guimarães,BA,1
+Wenceslau Braz,PR,1
+Várzea da Palma,MG,1
+Várzea Alegre,CE,1
+Volta Grande,MG,1
+Viçosa MG,MG,1
+Vitória,MG,1
+sorocaba,SP,1
+AJURICABA,RS,1
+ALEGRETE,RS,1
+ALEM PARAIBA,MG,1
+Álvares Florence,SP,1
+Águas de Santa Bárbara,SP,1
+petrópolis,RJ,1
+pereira barreto,SP,1
+osasco,SP,1
+olimpia,SP,1
+nova friburgo,RJ,1
+nova Andradina-MS,RO,1
+niterói,RJ,1
+natal,RN,1
+mateus leme,MG,1
+maringá,PR,1
+Jerônimo Monteiro,ES,1
+Jaú - SP,SP,1
+Jataí-Goiás,GO,1
+Jaru,RO,1
+Jardim do Seridó,RN,1
+Jardim Alegre,RR,1
+Jardim Alegre,PR,1
+Jardim,MS,1
+Japurá,PR,1
+Águas de Lindóia,SP,1
+Águas Formosas,MG,1
+vicosa,MG,1
+uberaba,MG,1
+são josé dos campos,SP,1
+são Paulo,SP,1
+são João de Meriti,RJ,1

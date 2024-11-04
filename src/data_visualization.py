@@ -7,13 +7,13 @@ from folium.plugins import HeatMap
 from geopy.geocoders import Nominatim
 
 def data_visualization():
-    OUTPUT = 'pq'
+    OUTPUT = 'new'
     ANALISE_ESPECIFICA = False
 
     if ANALISE_ESPECIFICA:
-        DIR = f'.results/{OUTPUT}/specific'
+        DIR = f'./results/{OUTPUT}/specific'
     else:
-        DIR = f'.results/{OUTPUT}/general'
+        DIR = f'./results/{OUTPUT}/general'
 
     #creates a geolocator to locate the birth places and current institutions ####################
     geolocator = Nominatim(user_agent="103962022")
@@ -23,9 +23,9 @@ def data_visualization():
     coordenadas_local_de_nascimento = []
     coordenadas_local_de_atuacao = []
 
-    qte_local_de_nascimento = pd.read_csv(f'{DIR}/quantitative/contNascimento.csv', sep=',')
+    qte_local_de_nascimento = pd.read_csv(f'{DIR}/quantitative/cont_localizacao_de_nascimento.csv', sep=',')
     qte_local_de_nascimento.set_index(['Cidade de Origem', 'Estado de Origem'], inplace=True)
-    qte_local_de_atuacao = pd.read_csv(f'{DIR}/quantitative/contAtuacao.csv', sep=',')
+    qte_local_de_atuacao = pd.read_csv(f'{DIR}/quantitative/cont_localizacao_de_atuacao.csv', sep=',')
     qte_local_de_atuacao.set_index(['Cidade de Atuação', 'Estado de Atuação'], inplace=True)
 
     #iterate over the birth places ####################
@@ -40,6 +40,7 @@ def data_visualization():
                 #if it has, create a list with the #########################
                 #coordinates and the occurrences number ####################
                 coordenadas_local_de_nascimento_atual = [geolocalizacao.latitude, geolocalizacao.longitude, qte_local_de_nascimento_atual]
+                print(coordenadas_local_de_nascimento_atual)
                 #add the list to the birth places list ####################
                 coordenadas_local_de_nascimento.append(coordenadas_local_de_nascimento_atual)
         except Exception as e:
@@ -57,6 +58,7 @@ def data_visualization():
                 #if it has, create a list with the #########################
                 #coordinates and the occurrences number ####################
                 coordenadas_local_de_atuacao_atual = [geolocalizacao.latitude, geolocalizacao.longitude, qte_local_de_atuacao_atual]
+                print(coordenadas_local_de_atuacao_atual)
                 #add the list to the current institutions list ####################
                 coordenadas_local_de_atuacao.append(coordenadas_local_de_atuacao_atual)
         except Exception as e:
@@ -76,11 +78,11 @@ def data_visualization():
     HeatMap(coordenadas_local_de_atuacao, radius=10).add_to(mapaAtuacao)
 
     #save the maps in a html file
-    mapaNascimento.save(f'{DIR}/visualization/mapaNascimento.html')
-    mapaAtuacao.save(f'{DIR}/visualization/mapaAtuacao.html')
+    mapaNascimento.save(f'{DIR}/visualization/mapa_de_calor_por_nascimento.html')
+    mapaAtuacao.save(f'{DIR}/visualization/mapa_de_calor_por_atuacao.html')
 
     #get the connections (edges) between the universities ####################
-    arestas_entre_universidades = pd.read_csv(f'{DIR}/primary/conexoesUniversidade.csv', sep=',')
+    arestas_entre_universidades = pd.read_csv(f'{DIR}/primary/conexoes_entre_universidades.csv', sep=',')
 
     #get the universities (nodes) from the connections ####################
     nos_de_origem = arestas_entre_universidades['Origem'].unique()
